@@ -24,3 +24,16 @@ The resulting executable expects three input parameters:
 The most important output of the program is the file `tax_cons_border.fasta`,
 which contains the consensus sequences build by the algorithm.
 The program also writes several other useful files with additional information.
+
+`silva_consensus_seqs.cpp`
+=========================
+
+Our prototype implementation of `silva_entropy.cpp` (see above) only calculated
+consensus sequences with the threshold method, using a 95% theshold.
+In order to also use the other consensus methods, this program turns existing
+consensus sequences into new ones, by reading the original alignment and
+re-calculating sequences based on their names.
+
+It would also have been possible to re-run the original program and just
+replace the consensus method, but we wanted to make sure that we use the exact
+same settings and sequences.
