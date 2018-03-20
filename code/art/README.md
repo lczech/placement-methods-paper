@@ -7,7 +7,7 @@ as well as for testing them. We used Silva version 123 for this.
 The programs use genesis v0.19.0
 
 `silva_entropy.cpp`
-=========================
+-------------------------
 
 This program reads the Silva sequences, calculates the entropy per taxon,
 and builds consensus sequences. The parameters are hardcoded to the values
@@ -26,7 +26,7 @@ which contains the consensus sequences build by the algorithm.
 The program also writes several other useful files with additional information.
 
 `silva_consensus_seqs.cpp`
-=========================
+-------------------------
 
 Our prototype implementation of `silva_entropy.cpp` (see above) only calculated
 consensus sequences with the threshold method, using a 95% theshold.
