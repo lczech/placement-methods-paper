@@ -1,0 +1,19 @@
+0,stool,Stool,GastrointestinalTract,Stool
+1,tongue_dorsum,Mouth (back),Oral,Mouth (back)
+2,palatine_tonsils,Mouth (back),Oral,Mouth (back)
+3,throat,Mouth (back),Oral,Mouth (back)
+4,saliva,Saliva,Oral,Saliva
+5,attached_keratinized_gingiva,Mouth (front),Oral,Mouth (front)
+6,hard_palate,Mouth (front),Oral,Mouth (front)
+7,buccal_mucosa,Mouth (front),Oral,Mouth (front)
+8,supragingival_plaque,Plaque,Oral,Plaque
+9,subgingival_plaque,Plaque,Oral,Plaque
+10,left_retroauricular_crease,Skin,Skin,Skin
+11,right_retroauricular_crease,Skin,Skin,Skin
+12,anterior_nares,Airways,Airways,Airways
+13,left_antecubital_fossa,Skin,Skin,Skin
+14,right_antecubital_fossa,Skin,Skin,Skin
+15,vaginal_introitus,Vagina,UrogenitalTract,Vagina
+16,mid_vagina,Vagina,UrogenitalTract,Vagina
+17,posterior_fornix,Vagina,UrogenitalTract,Vagina
+18,NA,n/a,n/a,n/a

@@ -80,7 +80,7 @@ int main( int argc, char** argv )
 
     // Load the taxonomy.
     LOG_TIME << "Reading taxonomy...";
-    std::string tax_file = "/home/lucas/Projects/data/silva/tax_slv_ssu_123.1.txt";
+    std::string tax_file = "data/silva/tax_slv_ssu_123.1.txt";
     auto tax = Taxonomy();
     TaxonomyReader().from_file( tax_file, tax );
     sort_by_name( tax );
@@ -118,8 +118,8 @@ int main( int argc, char** argv )
     // -------------------------------------------------------------------------
 
     // Prepare sequence input.
-    // std::string aln_file = "/home/lucas/Projects/data/silva/archaea.fasta";
-    std::string aln_file = "/home/lucas/Projects/data/silva/SILVA_123.1_SSURef_Nr99_tax_silva_full_align_trunc.fasta";
+    // std::string aln_file = "data/silva/archaea.fasta";
+    std::string aln_file = "data/silva/SILVA_123.1_SSURef_Nr99_tax_silva_full_align_trunc.fasta";
     utils::InputStream aln_is { utils::make_unique<utils::FileInputSource>( aln_file ) };
     auto reader = FastaReader();
     auto taxopath_parser = TaxopathParser();
@@ -217,8 +217,8 @@ int main( int argc, char** argv )
         LOG_TIME << "write tax_entr_list_file";
         std::ofstream tax_entr_crop_file;
         std::ofstream tax_entr_all_file;
-        tax_entr_crop_file.open( "/home/lucas/tax_entr_crop_det_" + std::to_string(i) );
-        tax_entr_all_file.open( "/home/lucas/tax_entr_all_det_" + std::to_string(i) );
+        tax_entr_crop_file.open( "tax_entr_crop_det_" + std::to_string(i) );
+        tax_entr_all_file.open( "tax_entr_all_det_" + std::to_string(i) );
 
         auto print_crop_list = [&] ( Taxon const& t ) {
             tax_entr_all_file << std::string( taxon_level(t) * 4, ' ' );
@@ -284,7 +284,7 @@ int main( int argc, char** argv )
 
     LOG_TIME << "write tax_entr_file";
     std::ofstream tax_entr_file;
-    tax_entr_file.open( "/home/lucas/tax_entr" );
+    tax_entr_file.open( "tax_entr" );
     auto print_entropy = [&]( Taxon& t ) {
         auto gen = TaxopathGenerator();
         auto name = gen(t);
@@ -332,7 +332,7 @@ int main( int argc, char** argv )
 
     LOG_TIME << "write tax_cons_file";
     std::ofstream tax_cons_file;
-    tax_cons_file.open( "/home/lucas/tax_cons.fasta" );
+    tax_cons_file.open( "tax_cons.fasta" );
     auto print_consensus = [&]( Taxon& t ) {
         auto gen = TaxopathGenerator();
         auto name = gen(t);
@@ -360,7 +360,7 @@ int main( int argc, char** argv )
 
     LOG_TIME << "write count_matrices_file";
     std::ofstream count_matrices_file;
-    count_matrices_file.open( "/home/lucas/count_matrices" );
+    count_matrices_file.open( "count_matrices" );
     auto print_count_matrices = [&]( Taxon& t ) {
         auto gen = TaxopathGenerator();
         auto name = gen(t);

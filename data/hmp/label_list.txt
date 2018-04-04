@@ -1,0 +1,20 @@
+0	stool
+1	tongue_dorsum
+2	palatine_tonsils
+3	throat
+4	saliva
+5	attached_keratinized_gingiva
+6	hard_palate
+7	buccal_mucosa
+8	supragingival_plaque
+9	subgingival_plaque
+10	left_retroauricular_crease
+11	right_retroauricular_crease
+12	anterior_nares
+13	left_antecubital_fossa
+14	right_antecubital_fossa
+15	vaginal_introitus
+16	mid_vagina
+17	posterior_fornix
+18	NA
+

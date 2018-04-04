@@ -1,10 +1,21 @@
 Overview
-=========================
+-------------------------
 
 The programs in this directory were used for constructing 
 the consensus sequences used for our Automatic Reference Trees method,
-as well as for testing them. We used Silva version 123 for this.
+as well as for testing them. We used Silva version 123.1 for this.
 The programs use genesis v0.19.0
+
+`fasta_chunkify.cpp`
+-------------------------
+
+Prototype of the `chunkify` command in gappa.
+It takes an input and an output path, and processes all fasta files in the input
+by splitting them into chunks of 50k sequences, and writing abundance maps for each of them
+Furthermore, because it is a dataset specific prototype,
+it does some processing and filtering of the HMP and Tara data
+that would otherwise have been extra functions.
+For example, sequences out of our specified length requirements are exlcuded from the output.
 
 `silva_entropy.cpp`
 -------------------------
