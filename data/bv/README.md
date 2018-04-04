@@ -15,6 +15,7 @@ Meta-data can be found in their Table S3
 
 We here provide processed versions of the meta-data, which we used for our programs:
 
+ * `hist.ods`: Length histogram of the sequences.
  * `meta_simple.csv`: Csv file with the meta-data per sample.
  * `sequence_names.csv`: Map between the shortend reference taxa name and their long form.
  

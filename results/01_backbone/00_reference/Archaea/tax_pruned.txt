@@ -1,0 +1,752 @@
+Archaea
+Archaea;Aenigmarchaeota
+Archaea;Aenigmarchaeota;Aenigmarchaeota Incertae Sedis
+Archaea;Aenigmarchaeota;Aenigmarchaeota Incertae Sedis;Unknown Order
+Archaea;Aenigmarchaeota;Aenigmarchaeota Incertae Sedis;Unknown Order;Unknown Family
+Archaea;Aenigmarchaeota;Aenigmarchaeota Incertae Sedis;Unknown Order;Unknown Family;Candidatus Aenigmarchaeum
+Archaea;Aenigmarchaeota;Deep Sea Euryarchaeotic Group(DSEG)
+Archaea;Aigarchaeota
+Archaea;Aigarchaeota;Aigarchaeota Incertae Sedis
+Archaea;Aigarchaeota;Aigarchaeota Incertae Sedis;Unknown Order
+Archaea;Aigarchaeota;Aigarchaeota Incertae Sedis;Unknown Order;Unknown Family
+Archaea;Aigarchaeota;Aigarchaeota Incertae Sedis;Unknown Order;Unknown Family;Candidatus Caldiarchaeum
+Archaea;Aigarchaeota;Terrestrial Hot Spring Gp(THSCG)
+Archaea;Ancient Archaeal Group(AAG)
+Archaea;Crenarchaeota
+Archaea;Crenarchaeota;Thermoprotei
+Archaea;Crenarchaeota;Thermoprotei;1A-6
+Archaea;Crenarchaeota;Thermoprotei;4136-1-21
+Archaea;Crenarchaeota;Thermoprotei;a87Y42
+Archaea;Crenarchaeota;Thermoprotei;Acidilobales
+Archaea;Crenarchaeota;Thermoprotei;Acidilobales;Acidilobaceae
+Archaea;Crenarchaeota;Thermoprotei;Acidilobales;Acidilobaceae;Acidilobus
+Archaea;Crenarchaeota;Thermoprotei;Acidilobales;Caldisphaeraceae
+Archaea;Crenarchaeota;Thermoprotei;Acidilobales;Caldisphaeraceae;Caldisphaera
+Archaea;Crenarchaeota;Thermoprotei;Acidilobales;SK190
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Aeropyrum
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Desulfurococcus
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Ignicoccus
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Ignisphaera
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Staphylothermus
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Stetteria
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Sulfophobococcus
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Thermodiscus
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Thermogladius
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Thermosphaera
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;uncultured
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Pyrodictiaceae
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Pyrodictiaceae;Hyperthermus
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Pyrodictiaceae;Pyrodictium
+Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Pyrodictiaceae;uncultured
+Archaea;Crenarchaeota;Thermoprotei;Fervidicoccales
+Archaea;Crenarchaeota;Thermoprotei;Fervidicoccales;Fervidicoccaceae
+Archaea;Crenarchaeota;Thermoprotei;Fervidicoccales;Fervidicoccaceae;Fervidicoccus
+Archaea;Crenarchaeota;Thermoprotei;Fervidicoccales;Fervidicoccaceae;uncultured
+Archaea;Crenarchaeota;Thermoprotei;HTM1036S-A29
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;Acidianus
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;Metallosphaera
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;Stygiolobus
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;Sulfolobus
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;Sulfurisphaera
+Archaea;Crenarchaeota;Thermoprotei;Sulfolobales;Sulfolobaceae;uncultured
+Archaea;Crenarchaeota;Thermoprotei;Terrestrial Miscellaneous Gp(TMCG)
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermofilaceae
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermofilaceae;Thermofilum
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermoproteaceae
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermoproteaceae;Caldivirga
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermoproteaceae;Pyrobaculum
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermoproteaceae;Thermocladium
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermoproteaceae;Thermoproteus
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermoproteaceae;uncultured
+Archaea;Crenarchaeota;Thermoprotei;Thermoproteales;Thermoproteaceae;Vulcanisaeta
+Archaea;Diapherotrites
+Archaea;Diapherotrites;Diapherotrites Incertae Sedis
+Archaea;Diapherotrites;Diapherotrites Incertae Sedis;Unknown Order
+Archaea;Diapherotrites;Diapherotrites Incertae Sedis;Unknown Order;Unknown Family
+Archaea;Diapherotrites;Diapherotrites Incertae Sedis;Unknown Order;Unknown Family;Candidatus Iainarchaeum
+Archaea;Euryarchaeota
+Archaea;Euryarchaeota;Archaeoglobi
+Archaea;Euryarchaeota;Archaeoglobi;Archaeoglobales
+Archaea;Euryarchaeota;Archaeoglobi;Archaeoglobales;Archaeoglobaceae
+Archaea;Euryarchaeota;Archaeoglobi;Archaeoglobales;Archaeoglobaceae;Archaeoglobus
+Archaea;Euryarchaeota;Archaeoglobi;Archaeoglobales;Archaeoglobaceae;Ferroglobus
+Archaea;Euryarchaeota;Archaeoglobi;Archaeoglobales;Archaeoglobaceae;Geoglobus
+Archaea;Euryarchaeota;Archaeoglobi;Archaeoglobales;Archaeoglobaceae;uncultured
+Archaea;Euryarchaeota;Halobacteria
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Candidatus Halobonum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haladaptatus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halalkalicoccus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halapricum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halarchaeum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haloarchaeobius
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haloarcula
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halobacterium
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halobaculum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halobellus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halobiforma
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halococcus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haloferax
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halogeometricum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halogranum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halohasta
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halolamina
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halomarina
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halomicroarcula
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halomicrobium
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halonotius
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halopelagius
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halopenitus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halopiger
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haloplanus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haloquadratum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halorhabdus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halorientalis
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halorubellus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halorubrum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halorussus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halosimplex
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halostagnicola
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haloterrigena
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halovenus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halovivax
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natrialba
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natrinema
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natronoarchaeum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natronobacterium
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natronococcus
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natronolimnobius
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natronomonas
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Natronorubrum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;RDI82
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Salarchaeum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Salinarchaeum
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;SFH1C031
+Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;uncultured
+Archaea;Euryarchaeota;Methanobacteria
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobacterium
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobrevibacter
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanosphaera
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanothermobacter
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;uncultured
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanothermaceae
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanothermaceae;Methanothermus
+Archaea;Euryarchaeota;Methanococci
+Archaea;Euryarchaeota;Methanococci;Methanococcales
+Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanocaldococcaceae
+Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanocaldococcaceae;Methanocaldococcus
+Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanocaldococcaceae;Methanotorris
+Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanococcaceae
+Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanococcaceae;Methanococcus
+Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanococcaceae;Methanothermococcus
+Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanococcaceae;uncultured
+Archaea;Euryarchaeota;Methanomicrobia
+Archaea;Euryarchaeota;Methanomicrobia;AK5
+Archaea;Euryarchaeota;Methanomicrobia;ANME-1
+Archaea;Euryarchaeota;Methanomicrobia;ANME-1;ANME-1a
+Archaea;Euryarchaeota;Methanomicrobia;ANME-1;ANME-1b
+Archaea;Euryarchaeota;Methanomicrobia;D-C06
+Archaea;Euryarchaeota;Methanomicrobia;Methanocellales
+Archaea;Euryarchaeota;Methanomicrobia;Methanocellales;BS-K-E9
+Archaea;Euryarchaeota;Methanomicrobia;Methanocellales;Methanocellaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanocellales;Methanocellaceae;Methanocella
+Archaea;Euryarchaeota;Methanomicrobia;Methanocellales;Methanocellaceae;Rice Cluster I
+Archaea;Euryarchaeota;Methanomicrobia;Methanocellales;MidArch4
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;02-02-504
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;C19A
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;EJ-E01
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;LR-13
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanocorpusculaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanocorpusculaceae;Methanocorpusculum
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanoculleus
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanofollis
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanogenium
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanolacinia
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanomicrobium
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanoplanus
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;uncultured
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiales Incertae Sedis
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiales Incertae Sedis;Methanocalculus
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanoregulaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanoregulaceae;Methanolinea
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanoregulaceae;Methanoregula
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanoregulaceae;Methanosphaerula
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanospirillaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanospirillaceae;Methanospirillum
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;MHLsu47-B8A
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Rice Cluster II
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;SMS-sludge-7
+Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;WCHA2-08
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;ANME-2a-2b
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;ANME-2a-2b;ANME-2b
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;ANME-2c
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;GOM Arc I
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;GOM Arc I;Candidatus Methanoperedens
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;GoM-Arch87
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosaetaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosaetaceae;Methanosaeta
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;ANME-3
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanimicrococcus
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanococcoides
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanohalobium
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanohalophilus
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanolobus
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanomethylovorans
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanosalsum
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanosarcina
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;uncultured
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methermicoccaceae
+Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methermicoccaceae;Methermicoccus
+Archaea;Euryarchaeota;Methanomicrobia;ST-12K10A
+Archaea;Euryarchaeota;Methanopyri
+Archaea;Euryarchaeota;Methanopyri;Methanopyrales
+Archaea;Euryarchaeota;Methanopyri;Methanopyrales;Methanopyraceae
+Archaea;Euryarchaeota;Methanopyri;Methanopyrales;Methanopyraceae;Methanopyrus
+Archaea;Euryarchaeota;Thermococci
+Archaea;Euryarchaeota;Thermococci;Thermococcales
+Archaea;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae
+Archaea;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Palaeococcus
+Archaea;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Pyrococcus
+Archaea;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Thermococcus
+Archaea;Euryarchaeota;Thermoplasmata
+Archaea;Euryarchaeota;Thermoplasmata;014H09-A-SD-P15
+Archaea;Euryarchaeota;Thermoplasmata;059A02-A-SD-P93
+Archaea;Euryarchaeota;Thermoplasmata;19c-33
+Archaea;Euryarchaeota;Thermoplasmata;20a-9
+Archaea;Euryarchaeota;Thermoplasmata;Fe-A-9
+Archaea;Euryarchaeota;Thermoplasmata;Kazan-3A-21
+Archaea;Euryarchaeota;Thermoplasmata;Marine Benthic Group E
+Archaea;Euryarchaeota;Thermoplasmata;MSBL1
+Archaea;Euryarchaeota;Thermoplasmata;South African Goldmine Gp(SAGMEG)
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;20c-4
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;2B5
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;4559-3-R1-4
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;A10
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;AMOS1A-4113-D04
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;AMOS4A-452-E11
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Amsterdam-1A-44
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;ANT06-05
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;ASC21
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;BSLdp215
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;CCA47
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Deep Sea Hydrothermal Vent Gp 2(DHVEG-2)
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Deep Sea Hydrothermal Vent Gp 2(DHVEG-2);Candidatus Aciduliprofundum
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;F2apm1A36
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Ferroplasmaceae
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Ferroplasmaceae;Acidiplasma
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Ferroplasmaceae;Ferroplasma
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Ferroplasmaceae;uncultured
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;HO28S9A17
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;KTK 4A
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Benthic Group D and DHVEG-1
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group III
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;MKCST-A3
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Picrophilaceae
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Picrophilaceae;Picrophilus
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;pMC2A24
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Terrestrial Miscellaneous Gp(TMEG)
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmataceae
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmataceae;Thermoplasma
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmatales Incertae Sedis
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmatales Incertae Sedis;Candidatus Methanogranum
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmatales Incertae Sedis;Candidatus Methanomethylophilus
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmatales Incertae Sedis;Candidatus Methanoplasma
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmatales Incertae Sedis;Methanomassiliicoccus
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thermoplasmatales Incertae Sedis;Thermogymnomonas
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Thp-A-102
+Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;VC2.1 Arc6
+Archaea;Euryarchaeota;Thermoplasmata;WCHA1-57
+Archaea;Euryarchaeota;Thermoplasmata;Z7ME43
+Archaea;Korarchaeota
+Archaea;Korarchaeota;Korarchaeota Incertae Sedis
+Archaea;Korarchaeota;Korarchaeota Incertae Sedis;Unknown Order
+Archaea;Korarchaeota;Korarchaeota Incertae Sedis;Unknown Order;Unknown Family
+Archaea;Korarchaeota;Korarchaeota Incertae Sedis;Unknown Order;Unknown Family;Candidatus Korarchaeum
+Archaea;Marine Hydrothermal Vent Group 1(MHVG-1)
+Archaea;Marine Hydrothermal Vent Group 2(MHVG-2)
+Archaea;Marine Hydrothermal Vent Group(MHVG)
+Archaea;Miscellaneous Crenarchaeotic Group
+Archaea;Miscellaneous Euryarchaeotic Group(MEG)
+Archaea;Nanoarchaeota
+Archaea;Nanoarchaeota;Nanoarchaeota Incertae Sedis
+Archaea;Nanoarchaeota;Nanoarchaeota Incertae Sedis;Unknown Order
+Archaea;Nanoarchaeota;Nanoarchaeota Incertae Sedis;Unknown Order;Unknown Family
+Archaea;Nanoarchaeota;Nanoarchaeota Incertae Sedis;Unknown Order;Unknown Family;Nanoarchaeum
+Archaea;Nanohaloarchaeota
+Archaea;Parvarchaeota
+Archaea;Parvarchaeota;Parvarchaeota Incertae Sedis
+Archaea;Parvarchaeota;Parvarchaeota Incertae Sedis;Unknown Order
+Archaea;Parvarchaeota;Parvarchaeota Incertae Sedis;Unknown Order;Unknown Family
+Archaea;Parvarchaeota;Parvarchaeota Incertae Sedis;Unknown Order;Unknown Family;Candidatus Micrarchaeum
+Archaea;pCIRA-13
+Archaea;SM1K20
+Archaea;Thaumarchaeota
+Archaea;Thaumarchaeota;AB64A-17
+Archaea;Thaumarchaeota;AK31
+Archaea;Thaumarchaeota;AK56
+Archaea;Thaumarchaeota;AK59
+Archaea;Thaumarchaeota;AK8
+Archaea;Thaumarchaeota;ArcC-u-cD06
+Archaea;Thaumarchaeota;AS48
+Archaea;Thaumarchaeota;D-F10
+Archaea;Thaumarchaeota;F9P122000-Arc-2-E02
+Archaea;Thaumarchaeota;FS243A-60
+Archaea;Thaumarchaeota;Group C3
+Archaea;Thaumarchaeota;HDBA-SITS389
+Archaea;Thaumarchaeota;HDBA-SITS413
+Archaea;Thaumarchaeota;Marine Benthic Group A
+Archaea;Thaumarchaeota;Marine Benthic Group B
+Archaea;Thaumarchaeota;Marine Group I
+Archaea;Thaumarchaeota;Marine Group I;Cenarchaeales
+Archaea;Thaumarchaeota;Marine Group I;Cenarchaeales;Cenarchaeaceae
+Archaea;Thaumarchaeota;Marine Group I;Cenarchaeales;Cenarchaeaceae;Cenarchaeum
+Archaea;Thaumarchaeota;Marine Group I;Unknown Order
+Archaea;Thaumarchaeota;Marine Group I;Unknown Order;Unknown Family
+Archaea;Thaumarchaeota;Marine Group I;Unknown Order;Unknown Family;Candidatus Nitrosoarchaeum
+Archaea;Thaumarchaeota;Marine Group I;Unknown Order;Unknown Family;Candidatus Nitrosopelagicus
+Archaea;Thaumarchaeota;Marine Group I;Unknown Order;Unknown Family;Candidatus Nitrosopumilus
+Archaea;Thaumarchaeota;OPPD003
+Archaea;Thaumarchaeota;Papm3A43
+Archaea;Thaumarchaeota;pMC2A209
+Archaea;Thaumarchaeota;pSL12
+Archaea;Thaumarchaeota;Sc-EA05
+Archaea;Thaumarchaeota;SIFC624
+Archaea;Thaumarchaeota;SIGW1085
+Archaea;Thaumarchaeota;SIGW396
+Archaea;Thaumarchaeota;SIGW621
+Archaea;Thaumarchaeota;Soil Crenarchaeotic Group(SCG)
+Archaea;Thaumarchaeota;Soil Crenarchaeotic Group(SCG);Unknown Order
+Archaea;Thaumarchaeota;Soil Crenarchaeotic Group(SCG);Unknown Order;Unknown Family
+Archaea;Thaumarchaeota;Soil Crenarchaeotic Group(SCG);Unknown Order;Unknown Family;Candidatus Nitrososphaera
+Archaea;Thaumarchaeota;South African Gold Mine Gp 1(SAGMCG-1)
+Archaea;Thaumarchaeota;South African Gold Mine Gp 1(SAGMCG-1);Unknown Order
+Archaea;Thaumarchaeota;South African Gold Mine Gp 1(SAGMCG-1);Unknown Order;Unknown Family
+Archaea;Thaumarchaeota;South African Gold Mine Gp 1(SAGMCG-1);Unknown Order;Unknown Family;Candidatus Nitrosotalea
+Archaea;Thaumarchaeota;terrestrial group
+Archaea;Thaumarchaeota;Thaumarchaeota Incertae Sedis
+Archaea;Thaumarchaeota;Thaumarchaeota Incertae Sedis;Unknown Order
+Archaea;Thaumarchaeota;Thaumarchaeota Incertae Sedis;Unknown Order;Unknown Family
+Archaea;Thaumarchaeota;Thaumarchaeota Incertae Sedis;Unknown Order;Unknown Family;Candidatus Nitrosocaldus
+Archaea;Thaumarchaeota;TOTO-A6-15
+Archaea;Thaumarchaeota;Z273FA48
+Archaea;TVG8AR30
+Archaea;Woesearchaeota (DHVEG-6)
+Bacteria
+Bacteria;Acetothermia
+Bacteria;Acetothermia;Unknown Class
+Bacteria;Acetothermia;Unknown Class;Unknown Order
+Bacteria;Acetothermia;Unknown Class;Unknown Order;Unknown Family
+Bacteria;Acetothermia;Unknown Class;Unknown Order;Unknown Family;Candidatus Acetothermus
+Bacteria;Acidobacteria
+Bacteria;Acidobacteria;Acidobacteria
+Bacteria;Acidobacteria;Holophagae
+Bacteria;Acidobacteria;Subgroup 22
+Bacteria;Acidobacteria;Subgroup 26
+Bacteria;Actinobacteria
+Bacteria;Actinobacteria;Acidimicrobiia
+Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales
+Bacteria;Actinobacteria;Actinobacteria
+Bacteria;Actinobacteria;Coriobacteriia
+Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales
+Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae
+Bacteria;Actinobacteria;FFCH16263
+Bacteria;Actinobacteria;KIST-JJY010
+Bacteria;Actinobacteria;MB-A2-108
+Bacteria;Actinobacteria;Nitriliruptoria
+Bacteria;Actinobacteria;OPB41
+Bacteria;Actinobacteria;Rubrobacteria
+Bacteria;Actinobacteria;Rubrobacteria;Rubrobacterales
+Bacteria;Actinobacteria;Rubrobacteria;Rubrobacterales;Rubrobacteriaceae
+Bacteria;Actinobacteria;Rubrobacteria;Rubrobacterales;Rubrobacteriaceae;Rubrobacter
+Bacteria;Actinobacteria;TakashiAC-B11
+Bacteria;Actinobacteria;Thermoleophilia
+Bacteria;Aerophobetes
+Bacteria;Aminicenantes
+Bacteria;aquifer1
+Bacteria;aquifer2
+Bacteria;Aquificae
+Bacteria;Aquificae;Aquificae
+Bacteria;Aquificae;Aquificae;Aquificales
+Bacteria;Armatimonadetes
+Bacteria;Armatimonadetes;Armatimonadia
+Bacteria;Armatimonadetes;Armatimonadia;Armatimonadales
+Bacteria;Armatimonadetes;Armatimonadia;Armatimonadales;Armatimonadaceae
+Bacteria;Armatimonadetes;Armatimonadia;Armatimonadales;Armatimonadaceae;Armatimonas
+Bacteria;Armatimonadetes;Chthonomonadetes
+Bacteria;Armatimonadetes;Chthonomonadetes;Chthonomonadales
+Bacteria;Armatimonadetes;Chthonomonadetes;Chthonomonadales;Chthonomonadaceae
+Bacteria;Armatimonadetes;Chthonomonadetes;Chthonomonadales;Chthonomonadaceae;Chthonomonas
+Bacteria;Atribacteria
+Bacteria;Atribacteria;Atribacteria Incertae Sedis
+Bacteria;Atribacteria;Atribacteria Incertae Sedis;Unknown Order
+Bacteria;Atribacteria;Atribacteria Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Atribacteria;Atribacteria Incertae Sedis;Unknown Order;Unknown Family;Candidatus Caldatribacterium
+Bacteria;Bacteroidetes
+Bacteria;Bacteroidetes;Bacteroidetes BD2-2
+Bacteria;Bacteroidetes;Bacteroidetes vadinHA17
+Bacteria;Bacteroidetes;Bacteroidetes VC2.1 Bac22
+Bacteria;Bacteroidetes;Bacteroidia
+Bacteria;Bacteroidetes;BSV13
+Bacteria;Bacteroidetes;Cytophagia
+Bacteria;Bacteroidetes;Flavobacteriia
+Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales
+Bacteria;Bacteroidetes;Ika33
+Bacteria;Bacteroidetes;ML602M-17
+Bacteria;Bacteroidetes;SB-5
+Bacteria;Bacteroidetes;SBXY-6786
+Bacteria;Bacteroidetes;SM1A07
+Bacteria;Bacteroidetes;Sphingobacteriia
+Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales
+Bacteria;Bacteroidetes;WCHB1-32
+Bacteria;Caldiserica
+Bacteria;Caldiserica;Caldisericia
+Bacteria;Caldiserica;Caldisericia;Caldisericales
+Bacteria;Calescamantes
+Bacteria;Candidate division OP3
+Bacteria;Candidate division SR1
+Bacteria;Candidate division WS6
+Bacteria;Chlamydiae
+Bacteria;Chlamydiae;Chlamydiae
+Bacteria;Chlamydiae;Chlamydiae;Chlamydiales
+Bacteria;Chlorobi
+Bacteria;Chlorobi;Chlorobia
+Bacteria;Chlorobi;Chlorobia;Chlorobiales
+Bacteria;Chlorobi;Ignavibacteria
+Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales
+Bacteria;Chloroflexi
+Bacteria;Chloroflexi;Anaerolineae
+Bacteria;Chloroflexi;Anaerolineae;Anaerolineales
+Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae
+Bacteria;Chloroflexi;Ardenticatenia
+Bacteria;Chloroflexi;Caldilineae
+Bacteria;Chloroflexi;Caldilineae;Caldilineales
+Bacteria;Chloroflexi;Caldilineae;Caldilineales;Caldilineaceae
+Bacteria;Chloroflexi;Chloroflexi Incertae Sedis
+Bacteria;Chloroflexi;Chloroflexi Incertae Sedis;Unknown Order
+Bacteria;Chloroflexi;Chloroflexi Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Chloroflexi;Chloroflexi Incertae Sedis;Unknown Order;Unknown Family;Thermobaculum
+Bacteria;Chloroflexi;Chloroflexia
+Bacteria;Chloroflexi;Dehalococcoidia
+Bacteria;Chloroflexi;Elev-1554
+Bacteria;Chloroflexi;Gitt-GS-136
+Bacteria;Chloroflexi;JG30-KF-CM66
+Bacteria;Chloroflexi;JG37-AG-4
+Bacteria;Chloroflexi;KD4-96
+Bacteria;Chloroflexi;Ktedonobacteria
+Bacteria;Chloroflexi;KZNMV-5-B42
+Bacteria;Chloroflexi;MSB-5B2
+Bacteria;Chloroflexi;P2-11E
+Bacteria;Chloroflexi;S085
+Bacteria;Chloroflexi;SAR202 clade
+Bacteria;Chloroflexi;SHA-26
+Bacteria;Chloroflexi;SL56 marine group
+Bacteria;Chloroflexi;Thermoflexia
+Bacteria;Chloroflexi;Thermoflexia;Thermoflexales
+Bacteria;Chloroflexi;Thermoflexia;Thermoflexales;Thermoflexaceae
+Bacteria;Chloroflexi;Thermoflexia;Thermoflexales;Thermoflexaceae;Thermoflexus
+Bacteria;Chloroflexi;Thermomicrobia
+Bacteria;Chloroflexi;TK10
+Bacteria;Chloroflexi;uncultured
+Bacteria;Chrysiogenetes
+Bacteria;Chrysiogenetes;Chrysiogenetes
+Bacteria;Chrysiogenetes;Chrysiogenetes;Chrysiogenales
+Bacteria;Chrysiogenetes;Chrysiogenetes;Chrysiogenales;Chrysiogenaceae
+Bacteria;CKC4
+Bacteria;Cloacimonetes
+Bacteria;Cloacimonetes;C-2
+Bacteria;Cloacimonetes;Cloacimonetes Incertae Sedis
+Bacteria;Cloacimonetes;Cloacimonetes Incertae Sedis;Unknown Order
+Bacteria;Cloacimonetes;Cloacimonetes Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Cloacimonetes;Cloacimonetes Incertae Sedis;Unknown Order;Unknown Family;Candidatus Cloacamonas
+Bacteria;Cloacimonetes;CW-1 termite group
+Bacteria;Cloacimonetes;FGL12-B44
+Bacteria;Cloacimonetes;GZKB75
+Bacteria;Cloacimonetes;LK-44f
+Bacteria;Cloacimonetes;LNR A2-18
+Bacteria;Cloacimonetes;MSBL2
+Bacteria;Cloacimonetes;MSBL8
+Bacteria;Cloacimonetes;NK-L14
+Bacteria;Cloacimonetes;PBS-18
+Bacteria;Cloacimonetes;SHA-4
+Bacteria;Cloacimonetes;SHA-41
+Bacteria;Cloacimonetes;W27
+Bacteria;Cloacimonetes;W5
+Bacteria;Cyanobacteria
+Bacteria;Cyanobacteria;Chloroplast
+Bacteria;Cyanobacteria;Cyanobacteria
+Bacteria;Cyanobacteria;Melainabacteria
+Bacteria;Cyanobacteria;ML635J-21
+Bacteria;Deferribacteres
+Bacteria;Deferribacteres;Deferribacteres
+Bacteria;Deferribacteres;Deferribacteres;Deferribacterales
+Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;Deferribacteraceae
+Bacteria;Deferribacteres;Deferribacteres Incertae Sedis
+Bacteria;Deferribacteres;Deferribacteres Incertae Sedis;Unknown Order
+Bacteria;Deferribacteres;Deferribacteres Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Deferribacteres;Deferribacteres Incertae Sedis;Unknown Order;Unknown Family;Caldithrix
+Bacteria;Deinococcus-Thermus
+Bacteria;Deinococcus-Thermus;Deinococci
+Bacteria;Dictyoglomi
+Bacteria;Dictyoglomi;Dictyoglomia
+Bacteria;Dictyoglomi;Dictyoglomia;Dictyoglomales
+Bacteria;Dictyoglomi;Dictyoglomia;Dictyoglomales;Dictyoglomaceae
+Bacteria;Dictyoglomi;Dictyoglomia;Dictyoglomales;Dictyoglomaceae;Dictyoglomus
+Bacteria;Elusimicrobia
+Bacteria;Elusimicrobia;Elusimicrobia
+Bacteria;Fibrobacteres
+Bacteria;Fibrobacteres;Chitinivibrionia
+Bacteria;Fibrobacteres;Fibrobacteria
+Bacteria;Fibrobacteres;Fibrobacteria;Fibrobacterales
+Bacteria;Firmicutes
+Bacteria;Firmicutes;Bacilli
+Bacteria;Firmicutes;Clostridia
+Bacteria;Firmicutes;Erysipelotrichia
+Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales
+Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae
+Bacteria;Firmicutes;Negativicutes
+Bacteria;Firmicutes;Negativicutes;Selenomonadales
+Bacteria;Firmicutes;OPB54
+Bacteria;Fusobacteria
+Bacteria;Fusobacteria;Fusobacteriia
+Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales
+Bacteria;GAL08
+Bacteria;Gemmatimonadetes
+Bacteria;Gemmatimonadetes;Gemmatimonadetes
+Bacteria;GOUTA4
+Bacteria;Gracilibacteria
+Bacteria;Hyd24-12
+Bacteria;Hydrogenedentes
+Bacteria;JL-ETNP-Z39
+Bacteria;Kazan-3B-09
+Bacteria;Latescibacteria
+Bacteria;Latescibacteria;Latescibacteria Incertae Sedis
+Bacteria;Latescibacteria;Latescibacteria Incertae Sedis;Unknown Order
+Bacteria;Latescibacteria;Latescibacteria Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Latescibacteria;Latescibacteria Incertae Sedis;Unknown Order;Unknown Family;Candidatus Latescibacter
+Bacteria;LCP-89
+Bacteria;LD1-PA38
+Bacteria;Lentisphaerae
+Bacteria;Lentisphaerae;055B07-P-DI-P58
+Bacteria;Lentisphaerae;113B434
+Bacteria;Lentisphaerae;B01R017
+Bacteria;Lentisphaerae;BS5
+Bacteria;Lentisphaerae;c5LKS8
+Bacteria;Lentisphaerae;CVer-1 termite group
+Bacteria;Lentisphaerae;CVer-2 termite group
+Bacteria;Lentisphaerae;DEV055
+Bacteria;Lentisphaerae;LD1-PA20
+Bacteria;Lentisphaerae;LD1-PA26
+Bacteria;Lentisphaerae;LD1-PA34
+Bacteria;Lentisphaerae;LD1-PB3
+Bacteria;Lentisphaerae;Lentisphaerae RFP12 gut group
+Bacteria;Lentisphaerae;Lentisphaeria
+Bacteria;Lentisphaerae;ML1228J-2
+Bacteria;Lentisphaerae;ML635J-35
+Bacteria;Lentisphaerae;MSBL3
+Bacteria;Lentisphaerae;Oligosphaeria
+Bacteria;Lentisphaerae;Oligosphaeria;Oligosphaerales
+Bacteria;Lentisphaerae;Oligosphaeria;Oligosphaerales;Oligosphaeraceae
+Bacteria;Lentisphaerae;Oligosphaeria;Oligosphaerales;Oligosphaeraceae;Oligosphaera
+Bacteria;Lentisphaerae;PBS-III-20
+Bacteria;Lentisphaerae;R76-B128
+Bacteria;Lentisphaerae;SBYG-2613
+Bacteria;Lentisphaerae;SS1-B-03-39
+Bacteria;Lentisphaerae;WCHB1-25
+Bacteria;Lentisphaerae;WCHB1-41
+Bacteria;Marinimicrobia (SAR406 clade)
+Bacteria;Microgenomates
+Bacteria;Nitrospirae
+Bacteria;Nitrospirae;Nitrospira
+Bacteria;Nitrospirae;Nitrospira;Nitrospirales
+Bacteria;OC31
+Bacteria;Omnitrophica
+Bacteria;Omnitrophica;NPL-UPA2
+Bacteria;Omnitrophica;Omnitrophica Incertae Sedis
+Bacteria;Omnitrophica;Omnitrophica Incertae Sedis;Unknown Order
+Bacteria;Omnitrophica;Omnitrophica Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Omnitrophica;Omnitrophica Incertae Sedis;Unknown Order;Unknown Family;Candidatus Omnitrophus
+Bacteria;Parcubacteria
+Bacteria;Parcubacteria;Parcubacteria Incertae Sedis
+Bacteria;Parcubacteria;Parcubacteria Incertae Sedis;Unknown Order
+Bacteria;Parcubacteria;Parcubacteria Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Parcubacteria;Parcubacteria Incertae Sedis;Unknown Order;Unknown Family;Candidatus Paceibacter
+Bacteria;PAUC34f
+Bacteria;Planctomycetes
+Bacteria;Planctomycetes;028H05-P-BN-P5
+Bacteria;Planctomycetes;BD7-11
+Bacteria;Planctomycetes;C47
+Bacteria;Planctomycetes;MBMPE71
+Bacteria;Planctomycetes;MD2896-B258
+Bacteria;Planctomycetes;OM190
+Bacteria;Planctomycetes;Phycisphaerae
+Bacteria;Planctomycetes;Pla3 lineage
+Bacteria;Planctomycetes;Pla4 lineage
+Bacteria;Planctomycetes;Planctomycetacia
+Bacteria;Planctomycetes;SGST604
+Bacteria;Planctomycetes;SPG12-401-411-B72
+Bacteria;Planctomycetes;vadinHA49
+Bacteria;Proteobacteria
+Bacteria;Proteobacteria;AEGEAN-245
+Bacteria;Proteobacteria;Alphaproteobacteria
+Bacteria;Proteobacteria;ARKDMS-49
+Bacteria;Proteobacteria;ARKICE-90
+Bacteria;Proteobacteria;Betaproteobacteria
+Bacteria;Proteobacteria;BJGMM-U27
+Bacteria;Proteobacteria;Deltaproteobacteria
+Bacteria;Proteobacteria;Elev-16S-509
+Bacteria;Proteobacteria;Epsilonproteobacteria
+Bacteria;Proteobacteria;FGL7S
+Bacteria;Proteobacteria;Gammaproteobacteria
+Bacteria;Proteobacteria;JTB23
+Bacteria;Proteobacteria;MACA-EFT26
+Bacteria;Proteobacteria;Milano-WF1B-44
+Bacteria;Proteobacteria;pItb-vmat-80
+Bacteria;Proteobacteria;Proteobacteria Incertae Sedis
+Bacteria;Proteobacteria;Proteobacteria Incertae Sedis;Unknown Order
+Bacteria;Proteobacteria;Proteobacteria Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Proteobacteria;SC3-20
+Bacteria;Proteobacteria;SK259
+Bacteria;Proteobacteria;Skagenf62
+Bacteria;Proteobacteria;SPOTSOCT00m83
+Bacteria;Proteobacteria;TA18
+Bacteria;Proteobacteria;Zetaproteobacteria
+Bacteria;Proteobacteria;Zetaproteobacteria;Mariprofundales
+Bacteria;Proteobacteria;Zetaproteobacteria;Mariprofundales;Mariprofundaceae
+Bacteria;Proteobacteria;Zetaproteobacteria;Mariprofundales;Mariprofundaceae;Mariprofundus
+Bacteria;RsaHF231
+Bacteria;S2R-29
+Bacteria;Saccharibacteria
+Bacteria;Saccharibacteria;Unknown Class
+Bacteria;Saccharibacteria;Unknown Class;Unknown Order
+Bacteria;Saccharibacteria;Unknown Class;Unknown Order;Unknown Family
+Bacteria;Saccharibacteria;Unknown Class;Unknown Order;Unknown Family;Candidatus Saccharimonas
+Bacteria;SBYG-2791
+Bacteria;SHA-109
+Bacteria;SM2F11
+Bacteria;Spirochaetae
+Bacteria;Spirochaetae;Spirochaetes
+Bacteria;Spirochaetae;Spirochaetes;Spirochaetales
+Bacteria;Synergistetes
+Bacteria;Synergistetes;Synergistia
+Bacteria;Synergistetes;Synergistia;Synergistales
+Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae
+Bacteria;TA06
+Bacteria;Tenericutes
+Bacteria;Tenericutes;Mollicutes
+Bacteria;Thermodesulfobacteria
+Bacteria;Thermodesulfobacteria;Thermodesulfobacteria
+Bacteria;Thermodesulfobacteria;Thermodesulfobacteria;Thermodesulfobacteriales
+Bacteria;Thermodesulfobacteria;Thermodesulfobacteria;Thermodesulfobacteriales;Thermodesulfobacteriaceae
+Bacteria;Thermotogae
+Bacteria;Thermotogae;Thermotogae
+Bacteria;Thermotogae;Thermotogae;Thermotogales
+Bacteria;Thermotogae;Thermotogae;Thermotogales;Thermotogaceae
+Bacteria;TM6
+Bacteria;Verrucomicrobia
+Bacteria;Verrucomicrobia;Arctic97B-4 marine group
+Bacteria;Verrucomicrobia;B29
+Bacteria;Verrucomicrobia;OPB35 soil group
+Bacteria;Verrucomicrobia;OPB35 soil group;Unknown Order
+Bacteria;Verrucomicrobia;OPB35 soil group;Unknown Order;Unknown Family
+Bacteria;Verrucomicrobia;OPB35 soil group;Unknown Order;Unknown Family;Pedosphaera
+Bacteria;Verrucomicrobia;Opitutae
+Bacteria;Verrucomicrobia;S-BQ2-57 soil group
+Bacteria;Verrucomicrobia;Spartobacteria
+Bacteria;Verrucomicrobia;Spartobacteria;Chthoniobacterales
+Bacteria;Verrucomicrobia;UA11
+Bacteria;Verrucomicrobia;Verrucomicrobia Incertae Sedis
+Bacteria;Verrucomicrobia;Verrucomicrobia Incertae Sedis;Unknown Order
+Bacteria;Verrucomicrobia;Verrucomicrobia Incertae Sedis;Unknown Order;Unknown Family
+Bacteria;Verrucomicrobia;Verrucomicrobia Incertae Sedis;Unknown Order;Unknown Family;Candidatus Methylacidiphilum
+Bacteria;Verrucomicrobia;Verrucomicrobiae
+Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales
+Bacteria;WCHB1-60
+Bacteria;WD272
+Eukaryota
+Eukaryota;AB3F14RM1B12
+Eukaryota;Amoebozoa
+Eukaryota;Amoebozoa;Archamoebae
+Eukaryota;Amoebozoa;Cavosteliida
+Eukaryota;Amoebozoa;Dictyostelia
+Eukaryota;Amoebozoa;Discosea
+Eukaryota;Amoebozoa;Fractovitelliida
+Eukaryota;Amoebozoa;Fractovitelliida;Soliformovum
+Eukaryota;Amoebozoa;Gracilipodida
+Eukaryota;Amoebozoa;LEMD255
+Eukaryota;Amoebozoa;LKM74
+Eukaryota;Amoebozoa;Myxogastria
+Eukaryota;Amoebozoa;Protosporangiida
+Eukaryota;Amoebozoa;Protosporangiida;Protosporangiidae
+Eukaryota;Amoebozoa;Protosporangiida;Protosporangiidae;Protosporangium
+Eukaryota;Amoebozoa;Protosteliida
+Eukaryota;Amoebozoa;Schizoplasmodiida
+Eukaryota;Amoebozoa;Tubulinea
+Eukaryota;Amoebozoa;WIM5
+Eukaryota;Archaeplastida
+Eukaryota;Archaeplastida;Chloroplastida
+Eukaryota;Archaeplastida;Glaucophyta
+Eukaryota;Archaeplastida;Rhodophyceae
+Eukaryota;BW-dinoclone28
+Eukaryota;Centrohelida
+Eukaryota;Centrohelida;Acanthocystidae
+Eukaryota;Centrohelida;CV1-B1-93
+Eukaryota;Centrohelida;H1-10
+Eukaryota;Centrohelida;H15-6
+Eukaryota;Centrohelida;H26-1
+Eukaryota;Centrohelida;Heterophryidae
+Eukaryota;Centrohelida;M1-18D08
+Eukaryota;Cryptophyceae
+Eukaryota;Cryptophyceae;Cryptomonadales
+Eukaryota;Cryptophyceae;Goniomonas
+Eukaryota;Cryptophyceae;Kathablepharidae
+Eukaryota;Cryptophyceae;P1-31
+Eukaryota;D4P07G08
+Eukaryota;DH147-EKD10
+Eukaryota;Excavata
+Eukaryota;Excavata;Discoba
+Eukaryota;Excavata;Malawimonas
+Eukaryota;Excavata;Metamonada
+Eukaryota;Haptophyta
+Eukaryota;Haptophyta;Pav3
+Eukaryota;Haptophyta;Pavlovophyceae
+Eukaryota;Haptophyta;Prymnesiophyceae
+Eukaryota;Haptophyta;T58
+Eukaryota;Haptophyta;uncultured
+Eukaryota;Incertae Sedis
+Eukaryota;Incertae Sedis;Ancyromonadida
+Eukaryota;Incertae Sedis;Apusomonadidae
+Eukaryota;Incertae Sedis;Breviatea
+Eukaryota;Incertae Sedis;Mantamonas
+Eukaryota;Incertae Sedis;Palpitomonas
+Eukaryota;Incertae Sedis;Rigifilida
+Eukaryota;Incertae Sedis;Telonema
+Eukaryota;NAMAKO-1
+Eukaryota;Opisthokonta
+Eukaryota;Opisthokonta;Freshwater Opisthokonta
+Eukaryota;Opisthokonta;Holozoa
+Eukaryota;Opisthokonta;Nucletmycea
+Eukaryota;Opisthokonta;uncultured
+Eukaryota;Picozoa
+Eukaryota;Picozoa;Picomonadida
+Eukaryota;Picozoa;Picomonadida;Picomonadidae
+Eukaryota;Picozoa;Picomonadida;Picomonadidae;Picomonas
+Eukaryota;RT5iin25
+Eukaryota;SA1-3C06
+Eukaryota;SAR
+Eukaryota;SAR;Alveolata
+Eukaryota;SAR;Rhizaria
+Eukaryota;SAR;Stramenopiles

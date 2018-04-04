@@ -35,6 +35,9 @@ The resulting executable expects three input parameters:
 The most important output of the program is the file `tax_cons_border.fasta`,
 which contains the consensus sequences build by the algorithm.
 The program also writes several other useful files with additional information.
+The results of this program for our four test cases
+`Archaea`, `Bacteria`, `Eukaryota` and `General` are stored in 
+`results/01_backbone/00_reference`. See there for details.
 
 `silva_consensus_seqs.cpp`
 -------------------------
