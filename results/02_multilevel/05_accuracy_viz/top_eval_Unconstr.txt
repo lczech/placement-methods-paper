@@ -1,0 +1,72 @@
+cavener
+===================
+
+Correct pqueries 0: 40407 / 50700 = 0.796982
+Correct pqueries 0: 8674 / 11180 = 0.77585
+Correct pqueries 0: 138627 / 195517 = 0.709028
+Correct pqueries 0: 89968 / 138460 = 0.649776
+Correct pqueries 0: 38663 / 49144 = 0.786729
+
+majorities
+===================
+
+Correct pqueries 0: 41590 / 50700 = 0.820316
+Correct pqueries 0: 8901 / 11180 = 0.796154
+Correct pqueries 0: 138944 / 195517 = 0.710649
+Correct pqueries 0: 98417 / 138460 = 0.710797
+Correct pqueries 0: 38924 / 49144 = 0.79204
+
+threshold_0.5
+===================
+
+Correct pqueries 0: 41259 / 50700 = 0.813787
+Correct pqueries 0: 8718 / 11180 = 0.779785
+Correct pqueries 0: 136785 / 195517 = 0.699607
+Correct pqueries 0: 98821 / 138460 = 0.713715
+Correct pqueries 0: 38717 / 49144 = 0.787828
+
+threshold_0.6
+===================
+
+Correct pqueries 0: 40152 / 50700 = 0.791953
+Correct pqueries 0: 8708 / 11180 = 0.778891
+Correct pqueries 0: 139878 / 195517 = 0.715426
+Correct pqueries 0: 94524 / 138460 = 0.682681
+Correct pqueries 0: 38824 / 49144 = 0.790005
+
+threshold_0.7
+===================
+
+Correct pqueries 0: 39195 / 50700 = 0.773077
+Correct pqueries 0: 8554 / 11180 = 0.765116
+Correct pqueries 0: 134528 / 195517 = 0.688063
+Correct pqueries 0: 93750 / 138460 = 0.677091
+Correct pqueries 0: 38451 / 49144 = 0.782415
+
+threshold_0.8
+===================
+
+Correct pqueries 0: 39064 / 50700 = 0.770493
+Correct pqueries 0: 7664 / 11180 = 0.68551
+Correct pqueries 0: 126529 / 195517 = 0.647151
+Correct pqueries 0: 84330 / 138460 = 0.609057
+Correct pqueries 0: 37374 / 49144 = 0.7605
+
+threshold_0.9
+===================
+
+Correct pqueries 0: 36215 / 50700 = 0.7143
+Correct pqueries 0: 6891 / 11180 = 0.616369
+Correct pqueries 0: 101198 / 195517 = 0.517592
+Correct pqueries 0: 68848 / 138460 = 0.497241
+Correct pqueries 0: 33738 / 49144 = 0.686513
+
+threshold_0.95
+===================
+
+Correct pqueries 0: 31079 / 50700 = 0.612998
+Correct pqueries 0: 5482 / 11180 = 0.49034
+Correct pqueries 0: 79045 / 195517 = 0.404287
+Correct pqueries 0: 54470 / 138460 = 0.393399
+Correct pqueries 0: 28738 / 49144 = 0.584771
+

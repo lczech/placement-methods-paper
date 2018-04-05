@@ -57,3 +57,16 @@ The results of this program for our four test cases
 
 Used in `results/02_bact_clade_constraint/03_eval` to test how many sequences
 were placed in their correct clade when using the clade-constrained tree.
+
+`silva_subtree_alignments`
+-------------------------
+
+Write the alignments of consensus sequences and the taxonomies for the five clades
+that we want to evaluate for the Russian doll approach.
+Used in `results/02_multilevel`.
+
+`silva_subtree_sequences`
+-------------------------
+
+Write fasta files that contain the aligned sequences of the five clades that
+we want to evaluate for the Russian doll approach.

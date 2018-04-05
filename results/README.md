@@ -12,5 +12,7 @@ for storage reasons - compressed, those are more than 500GB of data...
  * `01_majorities`: The final analyses of the BV and HMP datasets 
    using majority rule consensus sequences for creating the plots of the paper.
    This is just using the Bacteria tree.
- * `02_bact_clade_constraint`: Test how the accuracy of the ART changes 
+ * `02_bact_clade_constraint`: Testing how the accuracy of the ART changes 
    when we do a high level tax constraint to get our five test clades constrained.
+ * `02_multilevel`: Testing the accuracy of the second level placement,
+   using a selection of five bacterial clades.

@@ -1,0 +1,112 @@
+cavener
+===================
+
+Correct pqueries 0: 40728 / 50700 = 0.803314
+Correct pqueries 0: 40407 / 50700 = 0.796982
+Correct pqueries 0: 8800 / 11180 = 0.78712
+Correct pqueries 0: 8674 / 11180 = 0.77585
+Correct pqueries 0: 139453 / 195517 = 0.713253
+Correct pqueries 0: 138627 / 195517 = 0.709028
+Correct pqueries 0: 95877 / 138460 = 0.692453
+Correct pqueries 0: 89968 / 138460 = 0.649776
+Correct pqueries 0: 38728 / 49144 = 0.788051
+Correct pqueries 0: 38663 / 49144 = 0.786729
+
+majorities
+===================
+
+Correct pqueries 0: 42016 / 50700 = 0.828718
+Correct pqueries 0: 41590 / 50700 = 0.820316
+Correct pqueries 0: 8852 / 11180 = 0.791771
+Correct pqueries 0: 8901 / 11180 = 0.796154
+Correct pqueries 0: 136331 / 195517 = 0.697285
+Correct pqueries 0: 138944 / 195517 = 0.710649
+Correct pqueries 0: 99038 / 138460 = 0.715282
+Correct pqueries 0: 98417 / 138460 = 0.710797
+Correct pqueries 0: 38929 / 49144 = 0.792141
+Correct pqueries 0: 38924 / 49144 = 0.79204
+
+threshold_0.5
+===================
+
+Correct pqueries 0: 41182 / 50700 = 0.812268
+Correct pqueries 0: 41259 / 50700 = 0.813787
+Correct pqueries 0: 8773 / 11180 = 0.784705
+Correct pqueries 0: 8718 / 11180 = 0.779785
+Correct pqueries 0: 137735 / 195517 = 0.704466
+Correct pqueries 0: 136785 / 195517 = 0.699607
+Correct pqueries 0: 98294 / 138460 = 0.709909
+Correct pqueries 0: 98821 / 138460 = 0.713715
+Correct pqueries 0: 38961 / 49144 = 0.792793
+Correct pqueries 0: 38717 / 49144 = 0.787828
+
+threshold_0.6
+===================
+
+Correct pqueries 0: 39865 / 50700 = 0.786292
+Correct pqueries 0: 40152 / 50700 = 0.791953
+Correct pqueries 0: 8821 / 11180 = 0.788998
+Correct pqueries 0: 8708 / 11180 = 0.778891
+Correct pqueries 0: 140447 / 195517 = 0.718337
+Correct pqueries 0: 139878 / 195517 = 0.715426
+Correct pqueries 0: 95935 / 138460 = 0.692872
+Correct pqueries 0: 94524 / 138460 = 0.682681
+Correct pqueries 0: 38927 / 49144 = 0.792101
+Correct pqueries 0: 38824 / 49144 = 0.790005
+
+threshold_0.7
+===================
+
+Correct pqueries 0: 39201 / 50700 = 0.773195
+Correct pqueries 0: 39195 / 50700 = 0.773077
+Correct pqueries 0: 8657 / 11180 = 0.774329
+Correct pqueries 0: 8554 / 11180 = 0.765116
+Correct pqueries 0: 134646 / 195517 = 0.688666
+Correct pqueries 0: 134528 / 195517 = 0.688063
+Correct pqueries 0: 94136 / 138460 = 0.679879
+Correct pqueries 0: 93750 / 138460 = 0.677091
+Correct pqueries 0: 38510 / 49144 = 0.783615
+Correct pqueries 0: 38451 / 49144 = 0.782415
+
+threshold_0.8
+===================
+
+Correct pqueries 0: 39397 / 50700 = 0.777061
+Correct pqueries 0: 39064 / 50700 = 0.770493
+Correct pqueries 0: 7573 / 11180 = 0.67737
+Correct pqueries 0: 7664 / 11180 = 0.68551
+Correct pqueries 0: 124207 / 195517 = 0.635275
+Correct pqueries 0: 126529 / 195517 = 0.647151
+Correct pqueries 0: 83475 / 138460 = 0.602882
+Correct pqueries 0: 84330 / 138460 = 0.609057
+Correct pqueries 0: 37472 / 49144 = 0.762494
+Correct pqueries 0: 37374 / 49144 = 0.7605
+
+threshold_0.9
+===================
+
+Correct pqueries 0: 36543 / 50700 = 0.720769
+Correct pqueries 0: 36215 / 50700 = 0.7143
+Correct pqueries 0: 6913 / 11180 = 0.618336
+Correct pqueries 0: 6891 / 11180 = 0.616369
+Correct pqueries 0: 99988 / 195517 = 0.511403
+Correct pqueries 0: 101198 / 195517 = 0.517592
+Correct pqueries 0: 65299 / 138460 = 0.471609
+Correct pqueries 0: 68848 / 138460 = 0.497241
+Correct pqueries 0: 32607 / 49144 = 0.663499
+Correct pqueries 0: 33738 / 49144 = 0.686513
+
+threshold_0.95
+===================
+
+Correct pqueries 0: 34706 / 50700 = 0.684536
+Correct pqueries 0: 31079 / 50700 = 0.612998
+Correct pqueries 0: 4654 / 11180 = 0.416279
+Correct pqueries 0: 5482 / 11180 = 0.49034
+Correct pqueries 0: 80177 / 195517 = 0.410077
+Correct pqueries 0: 79045 / 195517 = 0.404287
+Correct pqueries 0: 55105 / 138460 = 0.397985
+Correct pqueries 0: 54470 / 138460 = 0.393399
+Correct pqueries 0: 28836 / 49144 = 0.586765
+Correct pqueries 0: 28738 / 49144 = 0.584771
+

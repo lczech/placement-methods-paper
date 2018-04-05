@@ -1,0 +1,10 @@
+1572 genus_details/Aeromonas_filtered
+12542 genus_details/Bacillus_filtered
+389 genus_details/Bordetella_filtered
+25837 genus_details/Burkholderia_filtered
+4267 genus_details/Campylobacter_filtered
+147 genus_details/Edwardsiella_filtered
+24431 genus_details/Enterobacter_filtered
+2263 genus_details/Neisseria_filtered
+15210 genus_details/Pseudomonas_filtered
+8895 genus_details/Streptococcus_filtered
