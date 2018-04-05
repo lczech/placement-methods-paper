@@ -1,0 +1,105 @@
+Significance test of constr vs unconstr trees.
+
+iqtree: http://www.iqtree.org/doc/Command-Reference#tree-topology-tests
+
+For all four combined tree files, the const tree is stored first, then the unconstr one.
+Thus, this is also the order in the following result tables.
+Results are copied from the end of the IQ-TREE report files *.iqtree
+
+Results
+====================
+
+USER TREES
+----------
+
+See 01_backbone/13_significance_tests/Arch/tax_cons_border.phylip.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH    c-ELW     p-AU
+-------------------------------------------------------------------------------------------
+  1  -133110.463 1247.648  0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 
+  2  -131862.815   0.000  1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+p-WKH   : p-value of weighted KH test.
+p-WSH   : p-value of weighted SH test.
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+
+USER TREES
+----------
+
+See 01_backbone/13_significance_tests/Bact/tax_cons_border.phylip.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH    c-ELW     p-AU
+-------------------------------------------------------------------------------------------
+  1  -412464.820 7436.442  0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 
+  2  -405028.378   0.000  1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+p-WKH   : p-value of weighted KH test.
+p-WSH   : p-value of weighted SH test.
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+
+USER TREES
+----------
+
+See 01_backbone/13_significance_tests/Euks/tax_cons_border.phylip.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH    c-ELW     p-AU
+-------------------------------------------------------------------------------------------
+  1  -753944.998 8502.030  0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 
+  2  -745442.969   0.000  1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+p-WKH   : p-value of weighted KH test.
+p-WSH   : p-value of weighted SH test.
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+
+USER TREES
+----------
+
+See 01_backbone/13_significance_tests/Gen/tax_cons_border.phylip.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH    p-WKH    p-WSH    c-ELW     p-AU
+-------------------------------------------------------------------------------------------
+  1  -731949.568 6750.528  0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0000 - 0.0012 - 
+  2  -725199.040   0.000  1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 1.0000 + 0.9987 + 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+p-WKH   : p-value of weighted KH test.
+p-WSH   : p-value of weighted SH test.
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.

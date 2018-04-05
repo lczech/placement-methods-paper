@@ -1,0 +1,24 @@
+Eval: Arch Constr
+Tree 0 Likelihood -133016.825504 Tree-Length 42.451000
+
+Eval: Arch Unconstr
+Tree 0 Likelihood -131757.875620 Tree-Length 45.535464
+
+Eval: Bact Constr
+Tree 0 Likelihood -412175.184424 Tree-Length 144.037567
+
+Eval: Bact Unconstr
+Tree 0 Likelihood -404708.849937 Tree-Length 136.544463
+
+Eval: Euks Constr
+Tree 0 Likelihood -753404.093009 Tree-Length 257.345076
+
+Eval: Euks Unconstr
+Tree 0 Likelihood -744887.794837 Tree-Length 244.180194
+
+Eval: Gen Constr
+Tree 0 Likelihood -731474.698069 Tree-Length 329.511014
+
+Eval: Gen Unconstr
+Tree 0 Likelihood -724663.943983 Tree-Length 324.660398
+

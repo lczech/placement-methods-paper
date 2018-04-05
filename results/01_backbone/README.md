@@ -12,3 +12,6 @@ The directory contains the full analysis pipeline of the backbone trees for our 
  * `04_epa`: Run the placement algorithm to get jplace files.
  * `06_samples`: As we chunkified the data before placing it, we need to unchunkify in order to get per-sample
    placement files.
+ * `11_tree_eval`: Evaluation of the ART trees, by placing the Silva sequences on them and measuring
+   distances to expected placement branches.
+ * `12_tree_tests`: Likelihood and significance tests, RF distance etc of the ART trees.

@@ -6,7 +6,7 @@ the consensus sequences used for our Automatic Reference Trees method,
 as well as for testing them. We used Silva version 123.1 for this.
 The programs use genesis v0.19.0
 
-`fasta_chunkify.cpp`
+`fasta_chunkify`
 -------------------------
 
 Prototype of the `chunkify` command in gappa.
@@ -17,7 +17,20 @@ it does some processing and filtering of the HMP and Tara data
 that would otherwise have been extra functions.
 For example, sequences out of our specified length requirements are exlcuded from the output.
 
-`silva_entropy.cpp`
+`silva_consensus_seqs`
+-------------------------
+
+Our prototype implementation of `silva_entropy.cpp` (see above) only calculated
+consensus sequences with the threshold method, using a 95% theshold.
+In order to also use the other consensus methods, this program turns existing
+consensus sequences into new ones, by reading the original alignment and
+re-calculating sequences based on their names.
+
+It would also have been possible to re-run the original program and just
+replace the consensus method, but we wanted to make sure that we use the exact
+same settings and sequences.
+
+`silva_entropy`
 -------------------------
 
 This program reads the Silva sequences, calculates the entropy per taxon,
@@ -39,15 +52,8 @@ The results of this program for our four test cases
 `Archaea`, `Bacteria`, `Eukaryota` and `General` are stored in 
 `results/01_backbone/00_reference`. See there for details.
 
-`silva_consensus_seqs.cpp`
+`silva_subclade_hits`
 -------------------------
 
-Our prototype implementation of `silva_entropy.cpp` (see above) only calculated
-consensus sequences with the threshold method, using a 95% theshold.
-In order to also use the other consensus methods, this program turns existing
-consensus sequences into new ones, by reading the original alignment and
-re-calculating sequences based on their names.
-
-It would also have been possible to re-run the original program and just
-replace the consensus method, but we wanted to make sure that we use the exact
-same settings and sequences.
+Used in `results/02_bact_clade_constraint/03_eval` to test how many sequences
+were placed in their correct clade when using the clade-constrained tree.
