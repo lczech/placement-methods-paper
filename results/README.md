@@ -4,6 +4,14 @@ Overview
 The directory contains scripts and some result files for reproducing our
 analyses from the papers. We do not include all result files here,
 for storage reasons - compressed, those are more than 500GB of data...
+Furthermore, we leave out many intermediate files, as even with the big ones
+being compressed, we have 60k files in the project directory.
+As per archiving policy, we have all those files backed up,
+just in case those are needed in the future.
+
+Thus, what you see here is a selection of the most imporant programs, scripts
+and results, which should enable a reproduction of our results as reported
+in the papers.
 
  * `01_backbone`: Most parts of the backbone/first level ARTs
    of the four trees of the paper (General, Archaea, Bacteria, Eukaryota).
@@ -16,3 +24,5 @@ for storage reasons - compressed, those are more than 500GB of data...
    when we do a high level tax constraint to get our five test clades constrained.
  * `02_multilevel`: Testing the accuracy of the second level placement,
    using a selection of five bacterial clades.
+ * `11_consensus_seqs`: Testing the influence of using different consensus sequence
+   methods on the accuracy of the ART placement.

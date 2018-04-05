@@ -1,0 +1,48 @@
+21:34:45 INFO Started
+21:34:45 INFO reading sample
+21:35:00 INFO making clades
+21:35:00 INFO tree has 1914 leaves
+21:35:00 INFO Bacteria_Actinobacteria_ has 53 taxa
+21:35:00 INFO Bacteria_Firmicutes_ has 360 taxa
+21:35:00 INFO Bacteria_Proteobacteria_ has 505 taxa
+21:35:00 INFO Bacteria_Bacteroidetes_ has 362 taxa
+21:35:00 INFO Bacteria_Cyanobacteria_ has 39 taxa
+21:35:01 INFO viz
+21:35:01 INFO Bacteria_Actinobacteria_ gets color 0 = ( 0.894118, 0.101961, 0.109804, 1.000000 )
+21:35:01 INFO Bacteria_Firmicutes_ gets color 1 = ( 0.215686, 0.494118, 0.721569, 1.000000 )
+21:35:01 INFO Bacteria_Proteobacteria_ gets color 2 = ( 0.301961, 0.686275, 0.290196, 1.000000 )
+21:35:01 INFO Bacteria_Bacteroidetes_ gets color 3 = ( 0.596078, 0.305882, 0.639216, 1.000000 )
+21:35:01 INFO Bacteria_Cyanobacteria_ gets color 4 = ( 1.000000, 0.498039, 0.000000, 1.000000 )
+21:35:01 INFO had 0 double bookings
+21:35:01 INFO eval
+21:35:02 INFO best placement in correct clade:
+21:35:02 DBG1     Bacteria_Actinobacteria_: 51035 / 51160 = 0.997557
+21:35:02 DBG1     Bacteria_Firmicutes_: 131213 / 138517 = 0.94727
+21:35:02 DBG1     Bacteria_Proteobacteria_: 199121 / 200083 = 0.995192
+21:35:02 DBG1     Bacteria_Bacteroidetes_: 48788 / 49174 = 0.99215
+21:35:02 DBG1     Bacteria_Cyanobacteria_: 11316 / 11379 = 0.994463
+21:35:02 INFO mass_50 placement in correct clade:
+21:35:02 DBG1     Bacteria_Actinobacteria_: 51035 / 51160 = 0.997557
+21:35:02 DBG1     Bacteria_Firmicutes_: 131150 / 138517 = 0.946815
+21:35:02 DBG1     Bacteria_Proteobacteria_: 199121 / 200083 = 0.995192
+21:35:02 DBG1     Bacteria_Bacteroidetes_: 48788 / 49174 = 0.99215
+21:35:02 DBG1     Bacteria_Cyanobacteria_: 11316 / 11379 = 0.994463
+21:35:02 INFO mass_80 placement in correct clade:
+21:35:02 DBG1     Bacteria_Actinobacteria_: 51032 / 51160 = 0.997498
+21:35:02 DBG1     Bacteria_Firmicutes_: 130340 / 138517 = 0.940968
+21:35:02 DBG1     Bacteria_Proteobacteria_: 199114 / 200083 = 0.995157
+21:35:02 DBG1     Bacteria_Bacteroidetes_: 48788 / 49174 = 0.99215
+21:35:02 DBG1     Bacteria_Cyanobacteria_: 11316 / 11379 = 0.994463
+21:35:02 INFO mass_90 placement in correct clade:
+21:35:02 DBG1     Bacteria_Actinobacteria_: 51031 / 51160 = 0.997478
+21:35:02 DBG1     Bacteria_Firmicutes_: 129907 / 138517 = 0.937842
+21:35:02 DBG1     Bacteria_Proteobacteria_: 199110 / 200083 = 0.995137
+21:35:02 DBG1     Bacteria_Bacteroidetes_: 48788 / 49174 = 0.99215
+21:35:02 DBG1     Bacteria_Cyanobacteria_: 11316 / 11379 = 0.994463
+21:35:02 INFO mass_95 placement in correct clade:
+21:35:02 DBG1     Bacteria_Actinobacteria_: 51030 / 51160 = 0.997459
+21:35:02 DBG1     Bacteria_Firmicutes_: 129535 / 138517 = 0.935156
+21:35:02 DBG1     Bacteria_Proteobacteria_: 199105 / 200083 = 0.995112
+21:35:02 DBG1     Bacteria_Bacteroidetes_: 48788 / 49174 = 0.99215
+21:35:02 DBG1     Bacteria_Cyanobacteria_: 11316 / 11379 = 0.994463
+21:35:02 INFO Finished

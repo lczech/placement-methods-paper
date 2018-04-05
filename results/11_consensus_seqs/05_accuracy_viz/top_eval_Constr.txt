@@ -1,0 +1,64 @@
+cavener
+===================
+
+Correct pqueries 0: 18134 / 20593 = 0.88059
+Correct pqueries 0: 386644 / 506478 = 0.763397
+Correct pqueries 0: 51226 / 60050 = 0.853056
+Correct pqueries 0: 519253 / 590749 = 0.878974
+
+majorities
+===================
+
+Correct pqueries 0: 18170 / 20593 = 0.882339
+Correct pqueries 0: 388261 / 506478 = 0.76659
+Correct pqueries 0: 51469 / 60050 = 0.857102
+Correct pqueries 0: 520813 / 590749 = 0.881615
+
+threshold_0.5
+===================
+
+Correct pqueries 0: 18104 / 20593 = 0.879134
+Correct pqueries 0: 388313 / 506478 = 0.766693
+Correct pqueries 0: 51344 / 60050 = 0.855021
+Correct pqueries 0: 524496 / 590749 = 0.887849
+
+threshold_0.6
+===================
+
+Correct pqueries 0: 18196 / 20593 = 0.883601
+Correct pqueries 0: 382219 / 506478 = 0.754661
+Correct pqueries 0: 51279 / 60050 = 0.853938
+Correct pqueries 0: 520143 / 590749 = 0.880481
+
+threshold_0.7
+===================
+
+Correct pqueries 0: 18038 / 20593 = 0.875929
+Correct pqueries 0: 388282 / 506478 = 0.766632
+Correct pqueries 0: 50113 / 60050 = 0.834521
+Correct pqueries 0: 514626 / 590749 = 0.871142
+
+threshold_0.8
+===================
+
+Correct pqueries 0: 17620 / 20593 = 0.855631
+Correct pqueries 0: 364772 / 506478 = 0.720213
+Correct pqueries 0: 47370 / 60050 = 0.788843
+Correct pqueries 0: 458821 / 590749 = 0.776677
+
+threshold_0.9
+===================
+
+Correct pqueries 0: 16379 / 20593 = 0.795367
+Correct pqueries 0: 314492 / 506478 = 0.620939
+Correct pqueries 0: 42515 / 60050 = 0.707993
+Correct pqueries 0: 321296 / 590749 = 0.543879
+
+threshold_0.95
+===================
+
+Correct pqueries 0: 14868 / 20593 = 0.721993
+Correct pqueries 0: 258038 / 506478 = 0.509475
+Correct pqueries 0: 36467 / 60050 = 0.607277
+Correct pqueries 0: 298120 / 590749 = 0.504647
+
