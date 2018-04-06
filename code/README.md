@@ -17,34 +17,19 @@ the [Apps feature](http://doc.genesis-lib.org/setup.html#setup_apps)
 of genesis, where you simply copy the `cpp` files from here into the `apps`
 directory of genesis and compile them.
 
-`art`
--------------------------
-
-Our prototype implementation of the Automatic Reference Tree method,
-as well as the code that we used for the testing and evaluation.
-
-`data`
--------------------------
-
-Data preprocessing programs that are not specific to one method,
-but were used to get the sequence data into usable formats in the first place.
-
-`tests`
--------------------------
-
-Some old code and scripts that we used during the development process.
-These are just provided as-is, and probably won't compile without some changes.
-We keep them here just in case we later need to revisit some of the
-early details of our methods.
-
-`tools`
--------------------------
-
-Some useful programs that might be reusable beyond our papers as well,
-for example merging jplace files or converting sequence file formats.
-
-`visualization`
--------------------------
-
-Prototypes of the visualization methods, e.g, Edge Dispersion and Edge Correlation,
-as well as related programs.
+ * `art`: Our prototype implementation of the Automatic Reference Tree method,
+   as well as the code that we used for the testing and evaluation.
+ * `clustering`: Prototypes of kmeans clustering, and our comparsion
+   with Squash Clustering.
+ * `data`: Data preprocessing programs that are not specific to one method,
+   but were used to get the sequence data into usable formats in the first place.
+ * `multilevel`: Prototypes for the multilevel placement approach,
+   that is, chunkify and unchunkify, extract, etc.
+ * `tests`: Some old code and scripts that we used during the development process.
+   These are just provided as-is, and probably won't compile without some changes.
+   We keep them here just in case we later need to revisit some of the
+   early details of our methods.
+ * `tools`: Some useful programs that might be reusable beyond our papers as well,
+   for example merging jplace files or converting sequence file formats.
+ * `visualization`: Prototypes of the visualization methods, e.g, 
+   Edge Dispersion and Edge Correlation,as well as related programs.
