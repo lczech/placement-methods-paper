@@ -1,0 +1,48 @@
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 4
+Random seed:       1787669911
+
+2017-12-07 00:42:24 INFO reading 220 jplace sample files
+2017-12-07 00:42:45 INFO finished reading sample jplace files
+2017-12-07 00:42:45 INFO
+2017-12-07 00:42:48 INFO found seq table with 797 entries, tree has 797 nodes
+2017-12-07 00:42:50 INFO Reading meta data
+2017-12-07 00:42:50 INFO Writing meta data matrix
+2017-12-07 00:42:50 INFO tree: 1591 edges
+2017-12-07 00:42:50 INFO edge_w: 1591 cols and 220 rows
+2017-12-07 00:42:50 INFO edge_i: 1591 cols and 220 rows
+2017-12-07 00:42:50 INFO order: 220 rows
+2017-12-07 00:42:50 INFO meta_data: 3 cols and 220 rows
+2017-12-07 00:42:50 INFO Calculating tree edge weights
+2017-12-07 00:42:50 INFO Calculating meta
+2017-12-07 00:42:50 INFO Meta data: amsel
+2017-12-07 00:42:55 INFO Filtered out 0 metadata rows
+2017-12-07 00:42:55 INFO Meta data: nugent
+2017-12-07 00:43:00 INFO Filtered out 0 metadata rows
+2017-12-07 00:43:00 INFO Meta data: pH
+2017-12-07 00:43:05 INFO Filtered out 0 metadata rows
+2017-12-07 00:43:05 INFO Finished

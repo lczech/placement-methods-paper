@@ -1,0 +1,264 @@
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 1
+Random seed:       2218450757
+
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site.txt
+2018-02-20 14:41:28 INFO Lines: 9811
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site_list_8.txt
+2018-02-20 14:41:28 INFO Lines: 18
+2018-02-20 14:41:28 INFO Reading file /01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/emd_assignments.csv
+2018-02-20 14:41:28 INFO Lines: 9194
+2018-02-20 14:41:28 DBG  max_label_list_index 7
+2018-02-20 14:41:28 DBG  metadata name to row number
+2018-02-20 14:41:28 DBG1     row 0 label attached_keratinized_gingiva hard_palate buccal_mucosa
+2018-02-20 14:41:28 DBG1     row 1 label tongue_dorsum palatine_tonsils throat
+2018-02-20 14:41:28 DBG1     row 2 label saliva
+2018-02-20 14:41:28 DBG1     row 3 label supragingival_plaque subgingival_plaque
+2018-02-20 14:41:28 DBG1     row 4 label right_retroauricular_crease right_antecubital_fossa left_antecubital_fossa left_retroauricular_crease
+2018-02-20 14:41:28 DBG1     row 5 label anterior_nares
+2018-02-20 14:41:28 DBG1     row 6 label mid_vagina vaginal_introitus posterior_fornix
+2018-02-20 14:41:28 DBG1     row 7 label stool
+2018-02-20 14:41:28 INFO Distinct clusts: 8
+2018-02-20 14:41:28 INFO count_matrix: 8 x 8
+2018-02-20 14:41:28 DBG  skipping smp_SRS066144 with NA
+2018-02-20 14:41:28 DBG  skipping srp_SRS066144 with NA
+2018-02-20 14:41:28 INFO Writing Bitmap
+2018-02-20 14:41:28 INFO Finished
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 1
+Random seed:       2272228530
+
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site.txt
+2018-02-20 14:41:28 INFO Lines: 9811
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site_list_8.txt
+2018-02-20 14:41:28 INFO Lines: 18
+2018-02-20 14:41:28 INFO Reading file /01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/imbalance_assignments.csv
+2018-02-20 14:41:28 INFO Lines: 9194
+2018-02-20 14:41:28 DBG  max_label_list_index 7
+2018-02-20 14:41:28 DBG  metadata name to row number
+2018-02-20 14:41:28 DBG1     row 0 label attached_keratinized_gingiva hard_palate buccal_mucosa
+2018-02-20 14:41:28 DBG1     row 1 label tongue_dorsum palatine_tonsils throat
+2018-02-20 14:41:28 DBG1     row 2 label saliva
+2018-02-20 14:41:28 DBG1     row 3 label supragingival_plaque subgingival_plaque
+2018-02-20 14:41:28 DBG1     row 4 label right_retroauricular_crease right_antecubital_fossa left_antecubital_fossa left_retroauricular_crease
+2018-02-20 14:41:28 DBG1     row 5 label anterior_nares
+2018-02-20 14:41:28 DBG1     row 6 label mid_vagina vaginal_introitus posterior_fornix
+2018-02-20 14:41:28 DBG1     row 7 label stool
+2018-02-20 14:41:28 INFO Distinct clusts: 8
+2018-02-20 14:41:28 INFO count_matrix: 8 x 8
+2018-02-20 14:41:28 DBG  skipping smp_SRS066144 with NA
+2018-02-20 14:41:28 DBG  skipping srp_SRS066144 with NA
+2018-02-20 14:41:28 INFO Writing Bitmap
+2018-02-20 14:41:28 INFO Finished
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 1
+Random seed:       2327470119
+
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site.txt
+2018-02-20 14:41:28 INFO Lines: 9811
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site_list_8.txt
+2018-02-20 14:41:28 INFO Lines: 18
+2018-02-20 14:41:28 INFO Reading file /01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/emd_assignments.csv
+2018-02-20 14:41:28 INFO Lines: 9194
+2018-02-20 14:41:28 DBG  max_label_list_index 7
+2018-02-20 14:41:28 DBG  metadata name to row number
+2018-02-20 14:41:28 DBG1     row 0 label attached_keratinized_gingiva hard_palate buccal_mucosa
+2018-02-20 14:41:28 DBG1     row 1 label tongue_dorsum palatine_tonsils throat
+2018-02-20 14:41:28 DBG1     row 2 label saliva
+2018-02-20 14:41:28 DBG1     row 3 label supragingival_plaque subgingival_plaque
+2018-02-20 14:41:28 DBG1     row 4 label right_retroauricular_crease right_antecubital_fossa left_antecubital_fossa left_retroauricular_crease
+2018-02-20 14:41:28 DBG1     row 5 label anterior_nares
+2018-02-20 14:41:28 DBG1     row 6 label mid_vagina vaginal_introitus posterior_fornix
+2018-02-20 14:41:28 DBG1     row 7 label stool
+2018-02-20 14:41:28 INFO Distinct clusts: 8
+2018-02-20 14:41:28 INFO count_matrix: 8 x 8
+2018-02-20 14:41:28 DBG  skipping smp_SRS066144 with NA
+2018-02-20 14:41:28 DBG  skipping srp_SRS066144 with NA
+2018-02-20 14:41:28 INFO Writing Bitmap
+2018-02-20 14:41:28 INFO Finished
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 1
+Random seed:       2377543172
+
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site.txt
+2018-02-20 14:41:28 INFO Lines: 9811
+2018-02-20 14:41:28 INFO Reading file data/hmp/meta/label_body_site_list_8.txt
+2018-02-20 14:41:28 INFO Lines: 18
+2018-02-20 14:41:28 INFO Reading file /01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/imbalance_assignments.csv
+2018-02-20 14:41:28 INFO Lines: 9194
+2018-02-20 14:41:28 DBG  max_label_list_index 7
+2018-02-20 14:41:28 DBG  metadata name to row number
+2018-02-20 14:41:28 DBG1     row 0 label attached_keratinized_gingiva hard_palate buccal_mucosa
+2018-02-20 14:41:28 DBG1     row 1 label tongue_dorsum palatine_tonsils throat
+2018-02-20 14:41:28 DBG1     row 2 label saliva
+2018-02-20 14:41:28 DBG1     row 3 label supragingival_plaque subgingival_plaque
+2018-02-20 14:41:28 DBG1     row 4 label right_retroauricular_crease right_antecubital_fossa left_antecubital_fossa left_retroauricular_crease
+2018-02-20 14:41:28 DBG1     row 5 label anterior_nares
+2018-02-20 14:41:28 DBG1     row 6 label mid_vagina vaginal_introitus posterior_fornix
+2018-02-20 14:41:28 DBG1     row 7 label stool
+2018-02-20 14:41:28 INFO Distinct clusts: 8
+2018-02-20 14:41:28 INFO count_matrix: 8 x 8
+2018-02-20 14:41:28 DBG  skipping smp_SRS066144 with NA
+2018-02-20 14:41:28 DBG  skipping srp_SRS066144 with NA
+2018-02-20 14:41:28 INFO Writing Bitmap
+2018-02-20 14:41:28 INFO Finished
+pixel2svg 0.3.0
+Reading image file '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/emd_body_site_orrd_counts_8.bmp'
+Converting image to RGBA
+Image is 8x8
+Read 64 pixels
+Will use an square overlap of 1px
+Processing pixel row 1 of 8
+Processing pixel row 2 of 8
+Processing pixel row 3 of 8
+Processing pixel row 4 of 8
+Processing pixel row 5 of 8
+Processing pixel row 6 of 8
+Processing pixel row 7 of 8
+Processing pixel row 8 of 8
+Saving SVG to '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/emd_body_site_orrd_counts_8.svg'
+Operation finished. Have fun with your SVG.
+pixel2svg 0.3.0
+Reading image file '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/imb_body_site_orrd_counts_8.bmp'
+Converting image to RGBA
+Image is 8x8
+Read 64 pixels
+Will use an square overlap of 1px
+Processing pixel row 1 of 8
+Processing pixel row 2 of 8
+Processing pixel row 3 of 8
+Processing pixel row 4 of 8
+Processing pixel row 5 of 8
+Processing pixel row 6 of 8
+Processing pixel row 7 of 8
+Processing pixel row 8 of 8
+Saving SVG to '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/imb_body_site_orrd_counts_8.svg'
+Operation finished. Have fun with your SVG.
+pixel2svg 0.3.0
+Reading image file '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/emd_body_site_orrd_norm_8.bmp'
+Converting image to RGBA
+Image is 8x8
+Read 64 pixels
+Will use an square overlap of 1px
+Processing pixel row 1 of 8
+Processing pixel row 2 of 8
+Processing pixel row 3 of 8
+Processing pixel row 4 of 8
+Processing pixel row 5 of 8
+Processing pixel row 6 of 8
+Processing pixel row 7 of 8
+Processing pixel row 8 of 8
+Saving SVG to '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/emd_body_site_orrd_norm_8.svg'
+Operation finished. Have fun with your SVG.
+pixel2svg 0.3.0
+Reading image file '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/imb_body_site_orrd_norm_8.bmp'
+Converting image to RGBA
+Image is 8x8
+Read 64 pixels
+Will use an square overlap of 1px
+Processing pixel row 1 of 8
+Processing pixel row 2 of 8
+Processing pixel row 3 of 8
+Processing pixel row 4 of 8
+Processing pixel row 5 of 8
+Processing pixel row 6 of 8
+Processing pixel row 7 of 8
+Processing pixel row 8 of 8
+Saving SVG to '/01_backbone/10_kmeans/hmp_Bact_Unconstr_backbone/kmeans_8/imb_body_site_orrd_norm_8.svg'
+Operation finished. Have fun with your SVG.

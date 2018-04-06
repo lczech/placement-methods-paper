@@ -1,7 +1,7 @@
 Overview
 -------------------------
 
-Here we list links and reference to the external software used in our analyses.
+Here we list links and references to the external software used in our analyses.
 
 cutadapt
 -------------------------
@@ -16,6 +16,13 @@ EPA-ng
 > "EPA-ng: Massively Parallel Evolutionary Placement of Genetic Sequences".
 > Barbera et al., bioRxiv, 2018.
 > https://github.com/Pbdas/epa-ng
+
+IQ-tree
+-------------------------
+
+> "IQ-TREE: A fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies".
+> Nguyen et al., Mol. Biol. Evol., vol. 32, no. 1, pp. 268–74, Jan. 2015.
+> http://www.iqtree.org/
 
 PaPaRa
 -------------------------

@@ -25,4 +25,4 @@ in the papers.
  * `02_multilevel`: Testing the accuracy of the second level placement,
    using a selection of five bacterial clades.
  * `11_consensus_seqs`: Testing the influence of using different consensus sequence
-   methods on the accuracy of the ART placement.
+   methods on the accuracy of the ART placement

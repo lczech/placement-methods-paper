@@ -1,0 +1,2056 @@
+Bact Constr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       551917478
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Constr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Constr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       556797380
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Constr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Constr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       561157265
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Constr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Constr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       565212755
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Constr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Unconstr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       569815934
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Unconstr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Unconstr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       574862310
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Unconstr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       579350097
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Unconstr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Unconstr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       583395497
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Bact_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Constr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       587852757
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Constr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Constr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       592775059
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Constr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Constr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       597461246
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Constr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Constr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       601953209
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Constr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Unconstr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       605890559
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Unconstr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Unconstr amsel
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       609928114
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_amsel_list.txt
+2017-06-26 18:47:44 INFO Lines: 2
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Unconstr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       613983274
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Unconstr_backbone/emd_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Gen Unconstr nugent
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       618028791
+
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent.txt
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 INFO Reading file data/bv/meta/label_nugent_list.txt
+2017-06-26 18:47:44 INFO Lines: 3
+2017-06-26 18:47:44 INFO Reading file /10_kmeans/bv_Gen_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 18:47:44 INFO Lines: 220
+2017-06-26 18:47:44 DBG  metadata name to row number
+2017-06-26 18:47:44 DBG1     label 2 -> row 2
+2017-06-26 18:47:44 DBG1     label 1 -> row 1
+2017-06-26 18:47:44 DBG1     label 0 -> row 0
+2017-06-26 18:47:44 INFO Distinct clusts: 3
+2017-06-26 18:47:44 INFO Writing Bitmap
+2017-06-26 18:47:44 INFO Finished
+Bact Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       130251615
+
+2017-06-26 19:08:59 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:08:59 INFO Lines: 9811
+2017-06-26 19:08:59 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:08:59 INFO Lines: 19
+2017-06-26 19:08:59 INFO Reading file /10_kmeans/hmp_Bact_Constr_backbone/emd_assignments.csv
+2017-06-26 19:08:59 INFO Lines: 9194
+2017-06-26 19:08:59 DBG  metadata name to row number
+2017-06-26 19:08:59 DBG1     label NA -> row 18
+2017-06-26 19:08:59 DBG1     label mid_vagina -> row 16
+2017-06-26 19:08:59 DBG1     label anterior_nares -> row 14
+2017-06-26 19:08:59 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:08:59 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:08:59 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:08:59 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:08:59 DBG1     label stool -> row 0
+2017-06-26 19:08:59 DBG1     label saliva -> row 1
+2017-06-26 19:08:59 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:08:59 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:08:59 DBG1     label hard_palate -> row 3
+2017-06-26 19:08:59 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:08:59 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:08:59 DBG1     label throat -> row 7
+2017-06-26 19:08:59 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:08:59 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:08:59 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:08:59 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:08:59 INFO Distinct clusts: 19
+2017-06-26 19:08:59 INFO Writing Bitmap
+2017-06-26 19:08:59 INFO Finished
+Bact Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       172904558
+
+2017-06-26 19:08:59 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:08:59 INFO Lines: 9811
+2017-06-26 19:08:59 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:08:59 INFO Lines: 19
+2017-06-26 19:08:59 INFO Reading file /10_kmeans/hmp_Bact_Constr_backbone/imbalance_assignments.csv
+2017-06-26 19:08:59 INFO Lines: 9194
+2017-06-26 19:08:59 DBG  metadata name to row number
+2017-06-26 19:08:59 DBG1     label NA -> row 18
+2017-06-26 19:08:59 DBG1     label mid_vagina -> row 16
+2017-06-26 19:08:59 DBG1     label anterior_nares -> row 14
+2017-06-26 19:08:59 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:08:59 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:08:59 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:08:59 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:08:59 DBG1     label stool -> row 0
+2017-06-26 19:08:59 DBG1     label saliva -> row 1
+2017-06-26 19:08:59 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:08:59 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:08:59 DBG1     label hard_palate -> row 3
+2017-06-26 19:08:59 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:08:59 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:08:59 DBG1     label throat -> row 7
+2017-06-26 19:08:59 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:08:59 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:08:59 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:08:59 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:08:59 INFO Distinct clusts: 19
+2017-06-26 19:08:59 INFO Writing Bitmap
+2017-06-26 19:08:59 INFO Finished
+Bact Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       211433242
+
+2017-06-26 19:08:59 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:08:59 INFO Lines: 9811
+2017-06-26 19:08:59 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:08:59 INFO Lines: 19
+2017-06-26 19:08:59 INFO Reading file /10_kmeans/hmp_Bact_Unconstr_backbone/emd_assignments.csv
+2017-06-26 19:09:00 INFO Lines: 9194
+2017-06-26 19:09:00 DBG  metadata name to row number
+2017-06-26 19:09:00 DBG1     label NA -> row 18
+2017-06-26 19:09:00 DBG1     label mid_vagina -> row 16
+2017-06-26 19:09:00 DBG1     label anterior_nares -> row 14
+2017-06-26 19:09:00 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:09:00 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:09:00 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:09:00 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:09:00 DBG1     label stool -> row 0
+2017-06-26 19:09:00 DBG1     label saliva -> row 1
+2017-06-26 19:09:00 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:09:00 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:09:00 DBG1     label hard_palate -> row 3
+2017-06-26 19:09:00 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:09:00 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:09:00 DBG1     label throat -> row 7
+2017-06-26 19:09:00 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:09:00 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:09:00 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:09:00 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:09:00 INFO Distinct clusts: 19
+2017-06-26 19:09:00 INFO Writing Bitmap
+2017-06-26 19:09:00 INFO Finished
+Bact Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       247958929
+
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:09:00 INFO Lines: 9811
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:09:00 INFO Lines: 19
+2017-06-26 19:09:00 INFO Reading file /10_kmeans/hmp_Bact_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 19:09:00 INFO Lines: 9194
+2017-06-26 19:09:00 DBG  metadata name to row number
+2017-06-26 19:09:00 DBG1     label NA -> row 18
+2017-06-26 19:09:00 DBG1     label mid_vagina -> row 16
+2017-06-26 19:09:00 DBG1     label anterior_nares -> row 14
+2017-06-26 19:09:00 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:09:00 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:09:00 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:09:00 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:09:00 DBG1     label stool -> row 0
+2017-06-26 19:09:00 DBG1     label saliva -> row 1
+2017-06-26 19:09:00 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:09:00 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:09:00 DBG1     label hard_palate -> row 3
+2017-06-26 19:09:00 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:09:00 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:09:00 DBG1     label throat -> row 7
+2017-06-26 19:09:00 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:09:00 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:09:00 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:09:00 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:09:00 INFO Distinct clusts: 19
+2017-06-26 19:09:00 INFO Writing Bitmap
+2017-06-26 19:09:00 INFO Finished
+Gen Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       286926833
+
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:09:00 INFO Lines: 9811
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:09:00 INFO Lines: 19
+2017-06-26 19:09:00 INFO Reading file /10_kmeans/hmp_Gen_Constr_backbone/emd_assignments.csv
+2017-06-26 19:09:00 INFO Lines: 9194
+2017-06-26 19:09:00 DBG  metadata name to row number
+2017-06-26 19:09:00 DBG1     label NA -> row 18
+2017-06-26 19:09:00 DBG1     label mid_vagina -> row 16
+2017-06-26 19:09:00 DBG1     label anterior_nares -> row 14
+2017-06-26 19:09:00 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:09:00 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:09:00 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:09:00 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:09:00 DBG1     label stool -> row 0
+2017-06-26 19:09:00 DBG1     label saliva -> row 1
+2017-06-26 19:09:00 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:09:00 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:09:00 DBG1     label hard_palate -> row 3
+2017-06-26 19:09:00 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:09:00 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:09:00 DBG1     label throat -> row 7
+2017-06-26 19:09:00 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:09:00 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:09:00 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:09:00 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:09:00 INFO Distinct clusts: 19
+2017-06-26 19:09:00 INFO Writing Bitmap
+2017-06-26 19:09:00 INFO Finished
+Gen Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       323223015
+
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:09:00 INFO Lines: 9811
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:09:00 INFO Lines: 19
+2017-06-26 19:09:00 INFO Reading file /10_kmeans/hmp_Gen_Constr_backbone/imbalance_assignments.csv
+2017-06-26 19:09:00 INFO Lines: 9194
+2017-06-26 19:09:00 DBG  metadata name to row number
+2017-06-26 19:09:00 DBG1     label NA -> row 18
+2017-06-26 19:09:00 DBG1     label mid_vagina -> row 16
+2017-06-26 19:09:00 DBG1     label anterior_nares -> row 14
+2017-06-26 19:09:00 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:09:00 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:09:00 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:09:00 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:09:00 DBG1     label stool -> row 0
+2017-06-26 19:09:00 DBG1     label saliva -> row 1
+2017-06-26 19:09:00 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:09:00 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:09:00 DBG1     label hard_palate -> row 3
+2017-06-26 19:09:00 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:09:00 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:09:00 DBG1     label throat -> row 7
+2017-06-26 19:09:00 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:09:00 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:09:00 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:09:00 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:09:00 INFO Distinct clusts: 19
+2017-06-26 19:09:00 INFO Writing Bitmap
+2017-06-26 19:09:00 INFO Finished
+Gen Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       362482321
+
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:09:00 INFO Lines: 9811
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:09:00 INFO Lines: 19
+2017-06-26 19:09:00 INFO Reading file /10_kmeans/hmp_Gen_Unconstr_backbone/emd_assignments.csv
+2017-06-26 19:09:00 INFO Lines: 9194
+2017-06-26 19:09:00 DBG  metadata name to row number
+2017-06-26 19:09:00 DBG1     label NA -> row 18
+2017-06-26 19:09:00 DBG1     label mid_vagina -> row 16
+2017-06-26 19:09:00 DBG1     label anterior_nares -> row 14
+2017-06-26 19:09:00 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:09:00 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:09:00 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:09:00 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:09:00 DBG1     label stool -> row 0
+2017-06-26 19:09:00 DBG1     label saliva -> row 1
+2017-06-26 19:09:00 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:09:00 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:09:00 DBG1     label hard_palate -> row 3
+2017-06-26 19:09:00 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:09:00 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:09:00 DBG1     label throat -> row 7
+2017-06-26 19:09:00 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:09:00 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:09:00 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:09:00 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:09:00 INFO Distinct clusts: 19
+2017-06-26 19:09:00 INFO Writing Bitmap
+2017-06-26 19:09:00 INFO Finished
+Gen Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       399591628
+
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:09:00 INFO Lines: 9811
+2017-06-26 19:09:00 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:09:00 INFO Lines: 19
+2017-06-26 19:09:00 INFO Reading file /10_kmeans/hmp_Gen_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 19:09:00 INFO Lines: 9194
+2017-06-26 19:09:00 DBG  metadata name to row number
+2017-06-26 19:09:00 DBG1     label NA -> row 18
+2017-06-26 19:09:00 DBG1     label mid_vagina -> row 16
+2017-06-26 19:09:00 DBG1     label anterior_nares -> row 14
+2017-06-26 19:09:00 DBG1     label right_antecubital_fossa -> row 13
+2017-06-26 19:09:00 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:09:00 DBG1     label left_antecubital_fossa -> row 12
+2017-06-26 19:09:00 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:09:00 DBG1     label stool -> row 0
+2017-06-26 19:09:00 DBG1     label saliva -> row 1
+2017-06-26 19:09:00 DBG1     label palatine_tonsils -> row 6
+2017-06-26 19:09:00 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:09:00 DBG1     label hard_palate -> row 3
+2017-06-26 19:09:00 DBG1     label buccal_mucosa -> row 4
+2017-06-26 19:09:00 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:09:00 DBG1     label throat -> row 7
+2017-06-26 19:09:00 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:09:00 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:09:00 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:09:00 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:09:00 INFO Distinct clusts: 19
+2017-06-26 19:09:00 INFO Writing Bitmap
+2017-06-26 19:09:00 INFO Finished
+Bact Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2474380768
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Bact_Constr_backbone/emd_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Bact Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2516881628
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Bact_Constr_backbone/imbalance_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Bact Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2558860128
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Bact_Unconstr_backbone/emd_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Bact Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2595531450
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Bact_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Gen Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2634509784
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Gen_Constr_backbone/emd_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Gen Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2672036848
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Gen_Constr_backbone/imbalance_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Gen Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2708750820
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Gen_Unconstr_backbone/emd_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Gen Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       2745299289
+
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:20:16 INFO Lines: 9811
+2017-06-26 19:20:16 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:20:16 INFO Lines: 19
+2017-06-26 19:20:16 INFO Reading file /10_kmeans/hmp_Gen_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 19:20:16 INFO Lines: 9194
+2017-06-26 19:20:16 DBG  metadata name to row number
+2017-06-26 19:20:16 DBG1     label NA -> row 18
+2017-06-26 19:20:16 DBG1     label mid_vagina -> row 16
+2017-06-26 19:20:16 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:20:16 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:20:16 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:20:16 DBG1     label anterior_nares -> row 12
+2017-06-26 19:20:16 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:20:16 DBG1     label stool -> row 0
+2017-06-26 19:20:16 DBG1     label saliva -> row 1
+2017-06-26 19:20:16 DBG1     label palatine_tonsils -> row 3
+2017-06-26 19:20:16 DBG1     label tongue_dorsum -> row 2
+2017-06-26 19:20:16 DBG1     label throat -> row 4
+2017-06-26 19:20:16 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:20:16 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:20:16 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:20:16 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:20:16 DBG1     label hard_palate -> row 5
+2017-06-26 19:20:16 DBG1     label buccal_mucosa -> row 6
+2017-06-26 19:20:16 DBG1     label attached_keratinized_gingiva -> row 7
+2017-06-26 19:20:16 INFO Distinct clusts: 19
+2017-06-26 19:20:16 INFO Writing Bitmap
+2017-06-26 19:20:16 INFO Finished
+Bact Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       620973207
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Bact_Constr_backbone/emd_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished
+Bact Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       664348652
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Bact_Constr_backbone/imbalance_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished
+Bact Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       711378750
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Bact_Unconstr_backbone/emd_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished
+Bact Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       747793364
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Bact_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished
+Gen Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       785701748
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Gen_Constr_backbone/emd_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished
+Gen Constr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       821989399
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Gen_Constr_backbone/imbalance_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished
+Gen Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       859487296
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Gen_Unconstr_backbone/emd_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished
+Gen Unconstr body_site
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 1
+Random seed:       896504572
+
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site.txt
+2017-06-26 19:23:23 INFO Lines: 9811
+2017-06-26 19:23:23 INFO Reading file data/hmp/meta/label_body_site_list.txt
+2017-06-26 19:23:23 INFO Lines: 19
+2017-06-26 19:23:23 INFO Reading file /10_kmeans/hmp_Gen_Unconstr_backbone/imbalance_assignments.csv
+2017-06-26 19:23:23 INFO Lines: 9194
+2017-06-26 19:23:23 DBG  metadata name to row number
+2017-06-26 19:23:23 DBG1     label NA -> row 18
+2017-06-26 19:23:23 DBG1     label mid_vagina -> row 16
+2017-06-26 19:23:23 DBG1     label right_antecubital_fossa -> row 14
+2017-06-26 19:23:23 DBG1     label vaginal_introitus -> row 15
+2017-06-26 19:23:23 DBG1     label left_antecubital_fossa -> row 13
+2017-06-26 19:23:23 DBG1     label anterior_nares -> row 12
+2017-06-26 19:23:23 DBG1     label right_retroauricular_crease -> row 11
+2017-06-26 19:23:23 DBG1     label stool -> row 0
+2017-06-26 19:23:23 DBG1     label tongue_dorsum -> row 1
+2017-06-26 19:23:23 DBG1     label palatine_tonsils -> row 2
+2017-06-26 19:23:23 DBG1     label saliva -> row 4
+2017-06-26 19:23:23 DBG1     label throat -> row 3
+2017-06-26 19:23:23 DBG1     label left_retroauricular_crease -> row 10
+2017-06-26 19:23:23 DBG1     label supragingival_plaque -> row 8
+2017-06-26 19:23:23 DBG1     label posterior_fornix -> row 17
+2017-06-26 19:23:23 DBG1     label subgingival_plaque -> row 9
+2017-06-26 19:23:23 DBG1     label attached_keratinized_gingiva -> row 5
+2017-06-26 19:23:23 DBG1     label hard_palate -> row 6
+2017-06-26 19:23:23 DBG1     label buccal_mucosa -> row 7
+2017-06-26 19:23:23 INFO Distinct clusts: 19
+2017-06-26 19:23:23 INFO Writing Bitmap
+2017-06-26 19:23:23 INFO Finished

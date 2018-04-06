@@ -1,0 +1,61 @@
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 6.3.1
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 80
+Random seed:       2704327819
+
+2017-12-07 00:30:15 INFO reading 370 bplace sample files
+2017-12-07 00:31:10 INFO finished reading sample bplace files
+2017-12-07 00:31:10 INFO
+2017-12-07 00:31:24 INFO Reading meta data
+2017-12-07 00:31:24 INFO Writing meta data matrix
+2017-12-07 00:31:24 INFO tree: 3993 edges
+2017-12-07 00:31:24 INFO edge_w: 3993 cols and 370 rows
+2017-12-07 00:31:24 INFO edge_i: 3993 cols and 370 rows
+2017-12-07 00:31:24 INFO order: 370 rows
+2017-12-07 00:31:24 INFO meta_data: 10 cols and 370 rows
+2017-12-07 00:31:24 INFO Calculating tree edge weights
+2017-12-07 00:31:24 INFO Calculating meta
+2017-12-07 00:31:24 INFO Meta data: Latitude Start
+2017-12-07 00:31:24 INFO Filtered out 0 metadata rows
+2017-12-07 00:31:24 INFO Meta data: Longitude Start
+2017-12-07 00:31:25 INFO Filtered out 0 metadata rows
+2017-12-07 00:31:25 INFO Meta data: Depth
+2017-12-07 00:31:25 INFO Filtered out 0 metadata rows
+2017-12-07 00:31:25 INFO Meta data: Size Fraction Lower Threshold
+2017-12-07 00:31:25 INFO Filtered out 0 metadata rows
+2017-12-07 00:31:26 INFO Meta data: Size Fraction Upper Threshold
+2017-12-07 00:31:26 INFO Filtered out 0 metadata rows
+2017-12-07 00:31:26 INFO Meta data: Temperature
+2017-12-07 00:31:26 INFO Filtered out 14 metadata rows
+2017-12-07 00:31:26 INFO Meta data: Salinity Sensor
+2017-12-07 00:31:27 INFO Filtered out 25 metadata rows
+2017-12-07 00:31:27 INFO Meta data: Oxygen Sensor
+2017-12-07 00:31:27 INFO Filtered out 38 metadata rows
+2017-12-07 00:31:27 INFO Meta data: Nitrate Sensor
+2017-12-07 00:31:27 INFO Filtered out 103 metadata rows
+2017-12-07 00:31:28 INFO Meta data: Chlorophyll Sensor
+2017-12-07 00:31:28 INFO Filtered out 14 metadata rows
+2017-12-07 00:31:28 INFO Finished

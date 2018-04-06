@@ -21,7 +21,7 @@ links to the BV and HMP datasets, where the `chunks`, `filtered` and `maps` file
 `04_epa`: Placing the data to get jplace files.
 
 `06_samples`: Similar to what we did in `01_backbone`, some files needed fixing
-due to an issue with EPA-ng - the downside of being beta tester...
+due to an issue with EPA-ng  the downside of being beta tester...
 The directory contains those fixes, as well as the final unchunkified jplace files
 for placing BV and HMP on the majority rule Bact tree.
 

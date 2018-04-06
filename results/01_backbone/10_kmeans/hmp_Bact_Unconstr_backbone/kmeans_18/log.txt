@@ -1,0 +1,479 @@
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 6.3.1
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      genesis/bin/apps/kmeans_bplace 16 18 hmp_kmeans_test/samples_bplace hmp_kmeans_test/kmeans_18
+Number of threads: 16
+Random seed:       3957299514
+
+2018-02-19 12:05:24 INFO Started
+2018-02-19 12:05:24 INFO Reading 9194 bplace sample files
+2018-02-19 12:10:09 INFO Finished reading sample bplace files
+2018-02-19 12:10:09 INFO
+2018-02-19 12:10:09 INFO Using 16 threads.
+2018-02-19 12:10:09 INFO Converting Trees
+2018-02-19 12:12:29 INFO Kmeans started
+2018-02-19 12:36:33 INFO Iteration 0
+2018-02-19 12:38:45 INFO Iteration 1
+2018-02-19 12:41:15 INFO Iteration 2
+2018-02-19 12:43:45 INFO Iteration 3
+2018-02-19 12:46:16 INFO Iteration 4
+2018-02-19 12:48:51 INFO Iteration 5
+2018-02-19 12:51:26 INFO Iteration 6
+2018-02-19 12:53:57 INFO Iteration 7
+2018-02-19 12:56:25 INFO Iteration 8
+2018-02-19 12:58:49 INFO Iteration 9
+2018-02-19 13:01:16 INFO Iteration 10
+2018-02-19 13:03:45 INFO Iteration 11
+2018-02-19 13:06:13 INFO Iteration 12
+2018-02-19 13:08:44 INFO Iteration 13
+2018-02-19 13:11:14 INFO Iteration 14
+2018-02-19 13:13:44 INFO Iteration 15
+2018-02-19 13:16:14 INFO Iteration 16
+2018-02-19 13:18:44 INFO Iteration 17
+2018-02-19 13:21:13 INFO Iteration 18
+2018-02-19 13:23:42 INFO Iteration 19
+2018-02-19 13:26:11 INFO Iteration 20
+2018-02-19 13:28:41 INFO Iteration 21
+2018-02-19 13:31:15 INFO Iteration 22
+2018-02-19 13:33:48 INFO Iteration 23
+2018-02-19 13:36:19 INFO Iteration 24
+2018-02-19 13:38:48 INFO Iteration 25
+2018-02-19 13:41:18 INFO Iteration 26
+2018-02-19 13:43:47 INFO Iteration 27
+2018-02-19 13:46:17 INFO Iteration 28
+2018-02-19 13:48:46 INFO Iteration 29
+2018-02-19 13:51:15 INFO Iteration 30
+2018-02-19 13:53:45 INFO Iteration 31
+2018-02-19 13:56:15 INFO Iteration 32
+2018-02-19 13:58:43 INFO Iteration 33
+2018-02-19 14:01:11 INFO Iteration 34
+2018-02-19 14:04:03 INFO Iteration 35
+2018-02-19 14:06:52 INFO Iteration 36
+2018-02-19 14:09:46 INFO Iteration 37
+2018-02-19 14:12:34 INFO Iteration 38
+2018-02-19 14:15:25 INFO Iteration 39
+2018-02-19 14:18:15 INFO Iteration 40
+2018-02-19 14:21:03 INFO Iteration 41
+2018-02-19 14:23:52 INFO Iteration 42
+2018-02-19 14:26:41 INFO Iteration 43
+2018-02-19 14:29:30 INFO Iteration 44
+2018-02-19 14:32:21 INFO Iteration 45
+2018-02-19 14:35:12 INFO Iteration 46
+2018-02-19 14:38:03 INFO Iteration 47
+2018-02-19 14:40:53 INFO Iteration 48
+2018-02-19 14:43:45 INFO Iteration 49
+2018-02-19 14:46:37 INFO Iteration 50
+2018-02-19 14:49:25 INFO Iteration 51
+2018-02-19 14:52:12 INFO Iteration 52
+2018-02-19 14:55:01 INFO Iteration 53
+2018-02-19 14:57:50 INFO Iteration 54
+2018-02-19 15:00:39 INFO Iteration 55
+2018-02-19 15:03:35 INFO Iteration 56
+2018-02-19 15:06:33 INFO Iteration 57
+2018-02-19 15:09:24 INFO Iteration 58
+2018-02-19 15:12:15 INFO Iteration 59
+2018-02-19 15:15:09 INFO Iteration 60
+2018-02-19 15:17:59 INFO Iteration 61
+2018-02-19 15:20:50 INFO Iteration 62
+2018-02-19 15:23:39 INFO Iteration 63
+2018-02-19 15:26:28 INFO Iteration 64
+2018-02-19 15:29:16 INFO Iteration 65
+2018-02-19 15:32:06 INFO Iteration 66
+2018-02-19 15:34:55 INFO Iteration 67
+2018-02-19 15:37:45 INFO Iteration 68
+2018-02-19 15:40:34 INFO Iteration 69
+2018-02-19 15:43:22 INFO Iteration 70
+2018-02-19 15:46:11 INFO Iteration 71
+2018-02-19 15:49:01 INFO Iteration 72
+2018-02-19 15:51:50 INFO Iteration 73
+2018-02-19 15:54:46 INFO Kmeans finished
+2018-02-19 15:54:46 INFO Write assignments
+2018-02-19 15:54:46 INFO Write centroids
+2018-02-19 15:54:46 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:46 INFO The edge with the maximum placement mass has a mass of 349002
+2018-02-19 15:54:46 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.180413 -> 10
+                             0.360827 -> 100
+                             0.541240 -> 1000
+                             0.721653 -> 10000
+                             0.902067 -> 100000
+                             1.000000 -> 349002
+2018-02-19 15:54:46 DBG  Ladderize tree: valid!
+2018-02-19 15:54:46 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:46 INFO The edge with the maximum placement mass has a mass of 314747
+2018-02-19 15:54:46 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.181886 -> 10
+                             0.363771 -> 100
+                             0.545657 -> 1000
+                             0.727542 -> 10000
+                             0.909428 -> 100000
+                             1.000000 -> 314747
+2018-02-19 15:54:46 DBG  Ladderize tree: valid!
+2018-02-19 15:54:46 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:46 INFO The edge with the maximum placement mass has a mass of 3.40432e+06
+2018-02-19 15:54:46 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.153092 -> 10
+                             0.306183 -> 100
+                             0.459275 -> 1000
+                             0.612367 -> 10000
+                             0.765459 -> 100000
+                             0.918550 -> 1e+06
+                             1.000000 -> 3.40432e+06
+2018-02-19 15:54:46 DBG  Ladderize tree: valid!
+2018-02-19 15:54:46 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:46 INFO The edge with the maximum placement mass has a mass of 888410
+2018-02-19 15:54:46 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.168106 -> 10
+                             0.336213 -> 100
+                             0.504319 -> 1000
+                             0.672426 -> 10000
+                             0.840532 -> 100000
+                             1.000000 -> 888410
+2018-02-19 15:54:46 DBG  Ladderize tree: valid!
+2018-02-19 15:54:46 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:46 INFO The edge with the maximum placement mass has a mass of 1.65735e+06
+2018-02-19 15:54:46 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.160787 -> 10
+                             0.321574 -> 100
+                             0.482361 -> 1000
+                             0.643147 -> 10000
+                             0.803934 -> 100000
+                             0.964721 -> 1e+06
+                             1.000000 -> 1.65735e+06
+2018-02-19 15:54:46 DBG  Ladderize tree: valid!
+2018-02-19 15:54:47 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:47 INFO The edge with the maximum placement mass has a mass of 415393
+2018-02-19 15:54:47 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.177985 -> 10
+                             0.355970 -> 100
+                             0.533954 -> 1000
+                             0.711939 -> 10000
+                             0.889924 -> 100000
+                             1.000000 -> 415393
+2018-02-19 15:54:47 DBG  Ladderize tree: valid!
+2018-02-19 15:54:47 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:47 INFO The edge with the maximum placement mass has a mass of 681213
+2018-02-19 15:54:47 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.171430 -> 10
+                             0.342860 -> 100
+                             0.514290 -> 1000
+                             0.685720 -> 10000
+                             0.857150 -> 100000
+                             1.000000 -> 681213
+2018-02-19 15:54:47 DBG  Ladderize tree: valid!
+2018-02-19 15:54:47 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:47 INFO The edge with the maximum placement mass has a mass of 3.84662e+06
+2018-02-19 15:54:47 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.151858 -> 10
+                             0.303717 -> 100
+                             0.455575 -> 1000
+                             0.607434 -> 10000
+                             0.759292 -> 100000
+                             0.911151 -> 1e+06
+                             1.000000 -> 3.84662e+06
+2018-02-19 15:54:47 DBG  Ladderize tree: valid!
+2018-02-19 15:54:47 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:47 INFO The edge with the maximum placement mass has a mass of 719366
+2018-02-19 15:54:47 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.170737 -> 10
+                             0.341475 -> 100
+                             0.512212 -> 1000
+                             0.682949 -> 10000
+                             0.853687 -> 100000
+                             1.000000 -> 719366
+2018-02-19 15:54:47 DBG  Ladderize tree: valid!
+2018-02-19 15:54:48 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:48 INFO The edge with the maximum placement mass has a mass of 944688
+2018-02-19 15:54:48 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.167356 -> 10
+                             0.334712 -> 100
+                             0.502068 -> 1000
+                             0.669424 -> 10000
+                             0.836780 -> 100000
+                             1.000000 -> 944688
+2018-02-19 15:54:48 DBG  Ladderize tree: valid!
+2018-02-19 15:54:48 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:48 INFO The edge with the maximum placement mass has a mass of 1.76497e+06
+2018-02-19 15:54:48 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.160084 -> 10
+                             0.320167 -> 100
+                             0.480251 -> 1000
+                             0.640334 -> 10000
+                             0.800418 -> 100000
+                             0.960501 -> 1e+06
+                             1.000000 -> 1.76497e+06
+2018-02-19 15:54:48 DBG  Ladderize tree: valid!
+2018-02-19 15:54:48 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:48 INFO The edge with the maximum placement mass has a mass of 2.08693e+06
+2018-02-19 15:54:48 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.158240 -> 10
+                             0.316480 -> 100
+                             0.474721 -> 1000
+                             0.632961 -> 10000
+                             0.791201 -> 100000
+                             0.949441 -> 1e+06
+                             1.000000 -> 2.08693e+06
+2018-02-19 15:54:48 DBG  Ladderize tree: valid!
+2018-02-19 15:54:48 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:48 INFO The edge with the maximum placement mass has a mass of 348137
+2018-02-19 15:54:48 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.180448 -> 10
+                             0.360897 -> 100
+                             0.541345 -> 1000
+                             0.721794 -> 10000
+                             0.902242 -> 100000
+                             1.000000 -> 348137
+2018-02-19 15:54:48 DBG  Ladderize tree: valid!
+2018-02-19 15:54:48 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:48 INFO The edge with the maximum placement mass has a mass of 1.55222e+06
+2018-02-19 15:54:48 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.161526 -> 10
+                             0.323052 -> 100
+                             0.484578 -> 1000
+                             0.646104 -> 10000
+                             0.807630 -> 100000
+                             0.969156 -> 1e+06
+                             1.000000 -> 1.55222e+06
+2018-02-19 15:54:48 DBG  Ladderize tree: valid!
+2018-02-19 15:54:49 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:49 INFO The edge with the maximum placement mass has a mass of 487902
+2018-02-19 15:54:49 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.175798 -> 10
+                             0.351597 -> 100
+                             0.527395 -> 1000
+                             0.703194 -> 10000
+                             0.878992 -> 100000
+                             1.000000 -> 487902
+2018-02-19 15:54:49 DBG  Ladderize tree: valid!
+2018-02-19 15:54:49 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:49 INFO The edge with the maximum placement mass has a mass of 3.75328e+06
+2018-02-19 15:54:49 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.152105 -> 10
+                             0.304210 -> 100
+                             0.456315 -> 1000
+                             0.608420 -> 10000
+                             0.760524 -> 100000
+                             0.912629 -> 1e+06
+                             1.000000 -> 3.75328e+06
+2018-02-19 15:54:49 DBG  Ladderize tree: valid!
+2018-02-19 15:54:49 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:49 INFO The edge with the maximum placement mass has a mass of 366470
+2018-02-19 15:54:49 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.179726 -> 10
+                             0.359451 -> 100
+                             0.539177 -> 1000
+                             0.718902 -> 10000
+                             0.898628 -> 100000
+                             1.000000 -> 366470
+2018-02-19 15:54:49 DBG  Ladderize tree: valid!
+2018-02-19 15:54:49 INFO In order to build a color gradient, use these color stops:
+                             0.0 -> #81bfff (light blue, no placement mass)
+                             0.5 -> #c040be (purple, medium placement mass)
+                             1.0 -> #000000 (black, maximum placement mass)
+2018-02-19 15:54:49 INFO The edge with the maximum placement mass has a mass of 348447
+2018-02-19 15:54:49 INFO The following list shows position on the color gradient with their correspinding placement mass. Use this to label your color gradient.
+                             0.000000 -> 1
+                             0.180436 -> 10
+                             0.360872 -> 100
+                             0.541307 -> 1000
+                             0.721743 -> 10000
+                             0.902179 -> 100000
+                             1.000000 -> 348447
+2018-02-19 15:54:49 DBG  Ladderize tree: valid!
+2018-02-19 15:54:49 INFO Calculating Matrix
+2018-02-19 15:56:43 INFO Kmeans started
+2018-02-19 15:56:43 INFO Iteration 0
+2018-02-19 15:56:43 INFO Iteration 1
+2018-02-19 15:56:43 INFO Iteration 2
+2018-02-19 15:56:43 INFO Iteration 3
+2018-02-19 15:56:44 INFO Iteration 4
+2018-02-19 15:56:44 INFO Iteration 5
+2018-02-19 15:56:44 INFO Iteration 6
+2018-02-19 15:56:44 INFO Iteration 7
+2018-02-19 15:56:44 INFO Iteration 8
+2018-02-19 15:56:44 INFO Iteration 9
+2018-02-19 15:56:44 INFO Iteration 10
+2018-02-19 15:56:44 INFO Iteration 11
+2018-02-19 15:56:44 INFO Iteration 12
+2018-02-19 15:56:44 INFO Iteration 13
+2018-02-19 15:56:44 INFO Iteration 14
+2018-02-19 15:56:44 INFO Iteration 15
+2018-02-19 15:56:44 INFO Iteration 16
+2018-02-19 15:56:44 INFO Iteration 17
+2018-02-19 15:56:44 INFO Iteration 18
+2018-02-19 15:56:44 INFO Iteration 19
+2018-02-19 15:56:44 INFO Iteration 20
+2018-02-19 15:56:44 INFO Iteration 21
+2018-02-19 15:56:44 INFO Iteration 22
+2018-02-19 15:56:44 INFO Iteration 23
+2018-02-19 15:56:44 INFO Iteration 24
+2018-02-19 15:56:44 INFO Iteration 25
+2018-02-19 15:56:44 INFO Iteration 26
+2018-02-19 15:56:44 INFO Iteration 27
+2018-02-19 15:56:44 INFO Iteration 28
+2018-02-19 15:56:44 INFO Iteration 29
+2018-02-19 15:56:44 INFO Iteration 30
+2018-02-19 15:56:44 INFO Iteration 31
+2018-02-19 15:56:44 INFO Iteration 32
+2018-02-19 15:56:44 INFO Iteration 33
+2018-02-19 15:56:44 INFO Iteration 34
+2018-02-19 15:56:44 INFO Iteration 35
+2018-02-19 15:56:44 INFO Iteration 36
+2018-02-19 15:56:44 INFO Iteration 37
+2018-02-19 15:56:44 INFO Iteration 38
+2018-02-19 15:56:44 INFO Iteration 39
+2018-02-19 15:56:44 INFO Iteration 40
+2018-02-19 15:56:44 INFO Iteration 41
+2018-02-19 15:56:44 INFO Iteration 42
+2018-02-19 15:56:44 INFO Iteration 43
+2018-02-19 15:56:44 INFO Iteration 44
+2018-02-19 15:56:44 INFO Iteration 45
+2018-02-19 15:56:44 INFO Iteration 46
+2018-02-19 15:56:45 INFO Iteration 47
+2018-02-19 15:56:45 INFO Iteration 48
+2018-02-19 15:56:45 INFO Iteration 49
+2018-02-19 15:56:45 INFO Iteration 50
+2018-02-19 15:56:45 INFO Iteration 51
+2018-02-19 15:56:45 INFO Iteration 52
+2018-02-19 15:56:45 INFO Iteration 53
+2018-02-19 15:56:45 INFO Iteration 54
+2018-02-19 15:56:45 INFO Iteration 55
+2018-02-19 15:56:45 INFO Iteration 56
+2018-02-19 15:56:45 INFO Iteration 57
+2018-02-19 15:56:45 INFO Iteration 58
+2018-02-19 15:56:45 INFO Iteration 59
+2018-02-19 15:56:45 INFO Iteration 60
+2018-02-19 15:56:45 INFO Kmeans finished
+2018-02-19 15:56:45 INFO Write assignments
+2018-02-19 15:56:45 INFO Write centroids
+2018-02-19 15:56:45 DBG  Ladderize tree: valid!
+2018-02-19 15:56:45 DBG  Ladderize tree: valid!
+2018-02-19 15:56:45 DBG  Ladderize tree: valid!
+2018-02-19 15:56:46 DBG  Ladderize tree: valid!
+2018-02-19 15:56:46 DBG  Ladderize tree: valid!
+2018-02-19 15:56:46 DBG  Ladderize tree: valid!
+2018-02-19 15:56:46 DBG  Ladderize tree: valid!
+2018-02-19 15:56:46 DBG  Ladderize tree: valid!
+2018-02-19 15:56:47 DBG  Ladderize tree: valid!
+2018-02-19 15:56:47 DBG  Ladderize tree: valid!
+2018-02-19 15:56:47 DBG  Ladderize tree: valid!
+2018-02-19 15:56:47 DBG  Ladderize tree: valid!
+2018-02-19 15:56:47 DBG  Ladderize tree: valid!
+2018-02-19 15:56:48 DBG  Ladderize tree: valid!
+2018-02-19 15:56:48 DBG  Ladderize tree: valid!
+2018-02-19 15:56:48 DBG  Ladderize tree: valid!
+2018-02-19 15:56:48 DBG  Ladderize tree: valid!
+2018-02-19 15:56:48 DBG  Ladderize tree: valid!
+2018-02-19 15:56:49 INFO Finished
+	Command being timed: "hmp_kmeans_test/genesis/bin/apps/kmeans_bplace 16 18 hmp_kmeans_test/samples_bplace hmp_kmeans_test/kmeans_18"
+	User time (seconds): 142448.45
+	System time (seconds): 713.22
+	Percent of CPU this job got: 1027%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:52:10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 59917948
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 576732601
+	Voluntary context switches: 5644711
+	Involuntary context switches: 90512
+	Swaps: 0
+	File system inputs: 12445552
+	File system outputs: 397104
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
