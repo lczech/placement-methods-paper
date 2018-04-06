@@ -1,0 +1,70 @@
+Start at Mon Dec 11 21:00:59 CET 2017
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 1
+Random seed:       438547655
+
+21:00:59 INFO Started
+21:00:59 INFO reading 220 jplace sample files
+21:01:27 INFO finished reading sample jplace files
+21:01:27 INFO
+21:01:27 INFO Using 1 threads.
+21:01:27 INFO Edpge PCA calculation started
+21:01:30 INFO Edpge PCA calculation finished
+21:01:30 DBG  projection   220 x 5
+21:01:30 DBG  eigenvectors 794 x 5
+21:01:30 DBG1     col 0 min -0.203127 max 0.27886
+21:01:30 DBG1     col 1 min -0.321717 max 0.337119
+21:01:30 DBG1     col 2 min -0.257019 max 0.171792
+21:01:30 DBG1     col 3 min -0.253916 max 0.269133
+21:01:30 DBG1     col 4 min -0.315437 max 0.324567
+21:01:30 DBG  eigenvalues  5
+21:01:30 DBG  inner_branch_count 794
+21:01:32 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_epca_vis 03_bv/03_epa/orig_queries_jplace_clean 03_bv/05_epca_new"
+	User time (seconds): 32.44
+	System time (seconds): 0.75
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 574284
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 270538
+	Voluntary context switches: 1150
+	Involuntary context switches: 4605
+	Swaps: 0
+	File system inputs: 312944
+	File system outputs: 7240
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+End at Mon Dec 11 21:01:33 CET 2017

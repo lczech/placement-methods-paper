@@ -1,0 +1,72 @@
+Start at Wed Jan 10 17:59:09 CET 2018
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 4
+Random seed:       3844597698
+
+17:59:09 INFO Started
+17:59:09 INFO reading 220 jplace sample files
+17:59:32 INFO finished reading sample jplace files
+17:59:32 INFO
+17:59:32 INFO Using 4 threads.
+17:59:32 INFO Edge PCA calculation started
+17:59:47 INFO Edge PCA calculation finished
+17:59:47 DBG  projection   220 x 5
+17:59:47 DBG  eigenvectors 794 x 5
+17:59:47 DBG1     col 0 min -0.203127 max 0.27886
+17:59:47 DBG1     col 1 min -0.321717 max 0.337119
+17:59:47 DBG1     col 2 min -0.257019 max 0.171792
+17:59:47 DBG1     col 3 min -0.253916 max 0.269133
+17:59:47 DBG1     col 4 min -0.315437 max 0.324567
+17:59:47 DBG  eigenvalues  5
+17:59:47 DBG  inner_branch_count 794
+17:59:49 INFO PCA calculation started
+18:02:47 INFO PCA calculation finished
+18:02:47 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_epca_vis 03_bv/03_epa/orig_queries_jplace_clean 03_bv/05_epca_new"
+	User time (seconds): 265.18
+	System time (seconds): 1.79
+	Percent of CPU this job got: 122%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:38.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 643900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 185526
+	Voluntary context switches: 11784
+	Involuntary context switches: 46055
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 7824
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+End at Wed Jan 10 18:02:47 CET 2018

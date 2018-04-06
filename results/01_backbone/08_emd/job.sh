@@ -5,7 +5,7 @@ BACKBONE="Gen"
 TAXCONSTR="Constr"
 PACKAGE="${DATASET}_${BACKBONE}_${TAXCONSTR}_backbone"
 
-BASEDIR=/home/czechls/bacardi
+BASEDIR=/path/to/here
 
 NUM_TASKS=32
 export OMP_NUM_THREADS=32

@@ -1,0 +1,9 @@
+$ grep ">" * | wc -l
+426612
+
+$ grep ">" amplicons_linearized_dereplicated.fasta | wc -l
+14471
+
+$ grep ">" OTU_representatives.fasta | wc -l
+2216
+
