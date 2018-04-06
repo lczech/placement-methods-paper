@@ -1,0 +1,388 @@
+Start at Tue Dec  5 16:05:10 CET 2017
+
+====================================================
+Running on  threads
+16:05:10 INFO Started
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      genesis/bin/apps/jplace_emd_speed_comp 32 orig_queries_jplace_clean 
+Number of threads: 32
+Random seed:       1279200747
+
+16:05:10 INFO reading 220 jplace sample files
+16:05:20 INFO finished reading sample jplace files
+16:05:20 INFO Time: 9 s
+16:05:20 INFO
+16:05:20 INFO Using 32 threads.
+16:05:20 INFO Matrix calculation started
+16:05:28 INFO Matrix calculation finished
+16:05:28 INFO Time: 8 s
+16:05:28 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_emd_speed_comp 32 orig_queries_jplace_clean "
+	User time (seconds): 266.69
+	System time (seconds): 10.30
+	Percent of CPU this job got: 1533%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 877436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 333581
+	Voluntary context switches: 418181
+	Involuntary context switches: 401
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 784
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+====================================================
+Running on  threads
+16:05:29 INFO Started
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      genesis/bin/apps/jplace_emd_speed_comp 16 orig_queries_jplace_clean 
+Number of threads: 16
+Random seed:       2168467752
+
+16:05:29 INFO reading 220 jplace sample files
+16:05:37 INFO finished reading sample jplace files
+16:05:37 INFO Time: 8 s
+16:05:37 INFO
+16:05:37 INFO Using 16 threads.
+16:05:37 INFO Matrix calculation started
+16:05:50 INFO Matrix calculation finished
+16:05:50 INFO Time: 12 s
+16:05:50 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_emd_speed_comp 16 orig_queries_jplace_clean "
+	User time (seconds): 238.18
+	System time (seconds): 4.56
+	Percent of CPU this job got: 1104%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:21.97
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 721820
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 294667
+	Voluntary context switches: 184076
+	Involuntary context switches: 265
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 792
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+====================================================
+Running on  threads
+16:05:50 INFO Started
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      genesis/bin/apps/jplace_emd_speed_comp 8 orig_queries_jplace_clean 
+Number of threads: 8
+Random seed:       2673038126
+
+16:05:51 INFO reading 220 jplace sample files
+16:06:04 INFO finished reading sample jplace files
+16:06:04 INFO Time: 13 s
+16:06:04 INFO
+16:06:04 INFO Using 8 threads.
+16:06:04 INFO Matrix calculation started
+16:06:24 INFO Matrix calculation finished
+16:06:24 INFO Time: 20 s
+16:06:24 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_emd_speed_comp 8 orig_queries_jplace_clean "
+	User time (seconds): 213.04
+	System time (seconds): 3.36
+	Percent of CPU this job got: 635%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:34.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 674364
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 281400
+	Voluntary context switches: 88293
+	Involuntary context switches: 220
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 792
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+====================================================
+Running on  threads
+16:06:25 INFO Started
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      genesis/bin/apps/jplace_emd_speed_comp 4 orig_queries_jplace_clean 
+Number of threads: 4
+Random seed:       2359693781
+
+16:06:25 INFO reading 220 jplace sample files
+16:06:42 INFO finished reading sample jplace files
+16:06:42 INFO Time: 17 s
+16:06:42 INFO
+16:06:42 INFO Using 4 threads.
+16:06:42 INFO Matrix calculation started
+16:07:14 INFO Matrix calculation finished
+16:07:14 INFO Time: 31 s
+16:07:14 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_emd_speed_comp 4 orig_queries_jplace_clean "
+	User time (seconds): 178.81
+	System time (seconds): 1.32
+	Percent of CPU this job got: 357%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:50.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 615928
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 266934
+	Voluntary context switches: 8603
+	Involuntary context switches: 432
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 800
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+====================================================
+Running on  threads
+16:07:15 INFO Started
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      genesis/bin/apps/jplace_emd_speed_comp 2 orig_queries_jplace_clean 
+Number of threads: 2
+Random seed:       1189422841
+
+16:07:15 INFO reading 220 jplace sample files
+16:07:42 INFO finished reading sample jplace files
+16:07:42 INFO Time: 27 s
+16:07:42 INFO
+16:07:42 INFO Using 2 threads.
+16:07:42 INFO Matrix calculation started
+16:08:29 INFO Matrix calculation finished
+16:08:29 INFO Time: 46 s
+16:08:29 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_emd_speed_comp 2 orig_queries_jplace_clean "
+	User time (seconds): 142.88
+	System time (seconds): 1.01
+	Percent of CPU this job got: 192%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:14.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 602156
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 264342
+	Voluntary context switches: 1769
+	Involuntary context switches: 146
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 792
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+====================================================
+Running on  threads
+16:08:30 INFO Started
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.17.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      genesis/bin/apps/jplace_emd_speed_comp 1 orig_queries_jplace_clean 
+Number of threads: 1
+Random seed:       2846778062
+
+16:08:30 INFO reading 220 jplace sample files
+16:09:05 INFO finished reading sample jplace files
+16:09:05 INFO Time: 35 s
+16:09:05 INFO
+16:09:05 INFO Using 1 threads.
+16:09:05 INFO Matrix calculation started
+16:09:56 INFO Matrix calculation finished
+16:09:56 INFO Time: 50 s
+16:09:56 INFO Finished
+	Command being timed: "genesis/bin/apps/jplace_emd_speed_comp 1 orig_queries_jplace_clean "
+	User time (seconds): 86.04
+	System time (seconds): 0.69
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:26.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 572308
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 256369
+	Voluntary context switches: 2
+	Involuntary context switches: 98
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 808
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+
+
+End at Tue Dec  5 16:09:56 CET 2017

@@ -28,3 +28,7 @@ in the papers.
    of our ARTs.
  * `11_consensus_seqs`: Testing the influence of using different consensus sequence
    methods on the accuracy of the ART placement
+ * `13_emd_binnify`: Testing the tradoff between gain in speed and loss of accuracy
+   when using binning of the placements per branch.
+ * `15_emd_speed_comp`: Comparison of pplacer vs genesis for calculating 
+   KR distnaces (EMD distances), single and multi threaded.

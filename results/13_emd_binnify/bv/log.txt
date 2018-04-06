@@ -1,0 +1,312 @@
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.16.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      
+Number of threads: 16
+Random seed:       543130624
+
+19:01:34 INFO Started
+19:01:34 INFO reading 220 bplace sample files
+19:01:37 INFO reading done
+19:01:37 INFO
+19:01:37 INFO Using 16 threads.
+19:01:37 INFO Convert to mass trees
+19:01:40 INFO Convert done.
+19:01:40 INFO Full Matrix calculation
+19:01:49 INFO Full Matrix calculation done
+19:01:49 INFO Time: 9s
+19:01:49 INFO
+19:01:49 DBG1     min    0
+19:01:49 DBG1     max    3.23695
+19:01:49 DBG1     avg    1.38132
+19:01:49 DBG1     mean   1.38132
+19:01:49 DBG1     stddev 0.796015
+19:01:49 DBG1     q0     0
+19:01:49 DBG1     q1     0.646884
+19:01:49 DBG1     q2     1.57022
+19:01:49 DBG1     q3     2.04949
+19:01:49 DBG1     q4     3.23695
+19:01:49 INFO
+19:01:49 INFO ===============================================================
+19:01:49 INFO Binning to 1
+19:01:50 INFO Matrix calculation
+19:01:59 INFO Matrix calculation done
+19:01:59 INFO Time: 9s
+19:01:59 INFO
+19:01:59 DBG1     min    0
+19:01:59 DBG1     max    3.23909
+19:01:59 DBG1     avg    1.38642
+19:01:59 DBG1     mean   1.38642
+19:01:59 DBG1     stddev 0.797927
+19:01:59 DBG1     q0     0
+19:01:59 DBG1     q1     0.6497
+19:01:59 DBG1     q2     1.57887
+19:01:59 DBG1     q3     2.0557
+19:01:59 DBG1     q4     3.23909
+19:01:59 INFO
+19:01:59 INFO Difference matrix:
+19:01:59 DBG1     min    -0.0286761
+19:01:59 DBG1     max    0.00832164
+19:01:59 DBG1     avg    -0.0051066
+19:01:59 DBG1     mean   -0.0051066
+19:01:59 DBG1     stddev 0.00418821
+19:01:59 DBG1     q0     -0.0286761
+19:01:59 DBG1     q1     -0.00698098
+19:01:59 DBG1     q2     -0.00450412
+19:01:59 DBG1     q3     -0.00231361
+19:01:59 DBG1     q4     0.00832164
+19:01:59 INFO
+19:01:59 INFO ===============================================================
+19:01:59 INFO Binning to 2
+19:02:00 INFO Matrix calculation
+19:02:09 INFO Matrix calculation done
+19:02:09 INFO Time: 9s
+19:02:09 INFO
+19:02:09 DBG1     min    0
+19:02:09 DBG1     max    3.23789
+19:02:09 DBG1     avg    1.3833
+19:02:09 DBG1     mean   1.3833
+19:02:09 DBG1     stddev 0.796834
+19:02:09 DBG1     q0     0
+19:02:09 DBG1     q1     0.648108
+19:02:09 DBG1     q2     1.57394
+19:02:09 DBG1     q3     2.05177
+19:02:09 DBG1     q4     3.23789
+19:02:09 INFO
+19:02:09 INFO Difference matrix:
+19:02:09 DBG1     min    -0.0148826
+19:02:09 DBG1     max    0.00431174
+19:02:09 DBG1     avg    -0.00198539
+19:02:09 DBG1     mean   -0.00198539
+19:02:09 DBG1     stddev 0.00224561
+19:02:09 DBG1     q0     -0.0148826
+19:02:09 DBG1     q1     -0.0029216
+19:02:09 DBG1     q2     -0.00143324
+19:02:09 DBG1     q3     -0.000352456
+19:02:09 DBG1     q4     0.00431174
+19:02:09 INFO
+19:02:09 INFO ===============================================================
+19:02:09 INFO Binning to 4
+19:02:09 INFO Matrix calculation
+19:02:18 INFO Matrix calculation done
+19:02:18 INFO Time: 9s
+19:02:19 INFO
+19:02:19 DBG1     min    0
+19:02:19 DBG1     max    3.23709
+19:02:19 DBG1     avg    1.3822
+19:02:19 DBG1     mean   1.3822
+19:02:19 DBG1     stddev 0.796415
+19:02:19 DBG1     q0     0
+19:02:19 DBG1     q1     0.647063
+19:02:19 DBG1     q2     1.57174
+19:02:19 DBG1     q3     2.05046
+19:02:19 DBG1     q4     3.23709
+19:02:19 INFO
+19:02:19 INFO Difference matrix:
+19:02:19 DBG1     min    -0.00680179
+19:02:19 DBG1     max    0.00214155
+19:02:19 DBG1     avg    -0.000880142
+19:02:19 DBG1     mean   -0.000880142
+19:02:19 DBG1     stddev 0.00103481
+19:02:19 DBG1     q0     -0.00680179
+19:02:19 DBG1     q1     -0.00133654
+19:02:19 DBG1     q2     -0.000669902
+19:02:19 DBG1     q3     -0.000154354
+19:02:19 DBG1     q4     0.00214155
+19:02:19 INFO
+19:02:19 INFO ===============================================================
+19:02:19 INFO Binning to 8
+19:02:19 INFO Matrix calculation
+19:02:28 INFO Matrix calculation done
+19:02:28 INFO Time: 9s
+19:02:28 INFO
+19:02:28 DBG1     min    0
+19:02:28 DBG1     max    3.23729
+19:02:28 DBG1     avg    1.38172
+19:02:28 DBG1     mean   1.38172
+19:02:28 DBG1     stddev 0.796179
+19:02:28 DBG1     q0     0
+19:02:28 DBG1     q1     0.646978
+19:02:28 DBG1     q2     1.57092
+19:02:28 DBG1     q3     2.04994
+19:02:28 DBG1     q4     3.23729
+19:02:28 INFO
+19:02:28 INFO Difference matrix:
+19:02:28 DBG1     min    -0.00335776
+19:02:28 DBG1     max    0.00145376
+19:02:28 DBG1     avg    -0.000407973
+19:02:28 DBG1     mean   -0.000407973
+19:02:28 DBG1     stddev 0.000458217
+19:02:28 DBG1     q0     -0.00335776
+19:02:28 DBG1     q1     -0.00057828
+19:02:28 DBG1     q2     -0.000326895
+19:02:28 DBG1     q3     -9.57205e-05
+19:02:28 DBG1     q4     0.00145376
+19:02:28 INFO
+19:02:28 INFO ===============================================================
+19:02:28 INFO Binning to 16
+19:02:29 INFO Matrix calculation
+19:02:38 INFO Matrix calculation done
+19:02:38 INFO Time: 8s
+19:02:38 INFO
+19:02:38 DBG1     min    0
+19:02:38 DBG1     max    3.23702
+19:02:38 DBG1     avg    1.38151
+19:02:38 DBG1     mean   1.38151
+19:02:38 DBG1     stddev 0.796102
+19:02:38 DBG1     q0     0
+19:02:38 DBG1     q1     0.646898
+19:02:38 DBG1     q2     1.57047
+19:02:38 DBG1     q3     2.04966
+19:02:38 DBG1     q4     3.23702
+19:02:38 INFO
+19:02:38 INFO Difference matrix:
+19:02:38 DBG1     min    -0.0016413
+19:02:38 DBG1     max    0.000647766
+19:02:38 DBG1     avg    -0.000194141
+19:02:38 DBG1     mean   -0.000194141
+19:02:38 DBG1     stddev 0.000236126
+19:02:38 DBG1     q0     -0.0016413
+19:02:38 DBG1     q1     -0.000288945
+19:02:38 DBG1     q2     -0.000158846
+19:02:38 DBG1     q3     -2.57629e-05
+19:02:38 DBG1     q4     0.000647766
+19:02:38 INFO
+19:02:38 INFO ===============================================================
+19:02:38 INFO Binning to 32
+19:02:38 INFO Matrix calculation
+19:02:47 INFO Matrix calculation done
+19:02:47 INFO Time: 8s
+19:02:47 INFO
+19:02:47 DBG1     min    0
+19:02:47 DBG1     max    3.23703
+19:02:47 DBG1     avg    1.38141
+19:02:47 DBG1     mean   1.38141
+19:02:47 DBG1     stddev 0.796054
+19:02:47 DBG1     q0     0
+19:02:47 DBG1     q1     0.646902
+19:02:47 DBG1     q2     1.57044
+19:02:47 DBG1     q3     2.04952
+19:02:47 DBG1     q4     3.23703
+19:02:47 INFO
+19:02:47 INFO Difference matrix:
+19:02:47 DBG1     min    -0.00083592
+19:02:47 DBG1     max    0.00047138
+19:02:47 DBG1     avg    -9.63698e-05
+19:02:47 DBG1     mean   -9.63698e-05
+19:02:47 DBG1     stddev 0.000119575
+19:02:47 DBG1     q0     -0.00083592
+19:02:47 DBG1     q1     -0.000141811
+19:02:47 DBG1     q2     -7.71182e-05
+19:02:47 DBG1     q3     -1.83167e-05
+19:02:47 DBG1     q4     0.00047138
+19:02:47 INFO
+19:02:47 INFO ===============================================================
+19:02:47 INFO Binning to 64
+19:02:48 INFO Matrix calculation
+19:02:57 INFO Matrix calculation done
+19:02:57 INFO Time: 9s
+19:02:57 INFO
+19:02:57 DBG1     min    0
+19:02:57 DBG1     max    3.23696
+19:02:57 DBG1     avg    1.38137
+19:02:57 DBG1     mean   1.38137
+19:02:57 DBG1     stddev 0.796037
+19:02:57 DBG1     q0     0
+19:02:57 DBG1     q1     0.646904
+19:02:57 DBG1     q2     1.57034
+19:02:57 DBG1     q3     2.04954
+19:02:57 DBG1     q4     3.23696
+19:02:57 INFO
+19:02:57 INFO Difference matrix:
+19:02:57 DBG1     min    -0.00041141
+19:02:57 DBG1     max    0.000139394
+19:02:57 DBG1     avg    -4.8861e-05
+19:02:57 DBG1     mean   -4.8861e-05
+19:02:57 DBG1     stddev 5.89819e-05
+19:02:57 DBG1     q0     -0.00041141
+19:02:57 DBG1     q1     -7.30648e-05
+19:02:57 DBG1     q2     -3.83126e-05
+19:02:57 DBG1     q3     -7.09069e-06
+19:02:57 DBG1     q4     0.000139394
+19:02:57 INFO
+19:02:57 INFO ===============================================================
+19:02:57 INFO Binning to 128
+19:02:58 INFO Matrix calculation
+19:03:07 INFO Matrix calculation done
+19:03:07 INFO Time: 9s
+19:03:07 INFO
+19:03:07 DBG1     min    0
+19:03:07 DBG1     max    3.23696
+19:03:07 DBG1     avg    1.38135
+19:03:07 DBG1     mean   1.38135
+19:03:07 DBG1     stddev 0.796027
+19:03:07 DBG1     q0     0
+19:03:07 DBG1     q1     0.646897
+19:03:07 DBG1     q2     1.5703
+19:03:07 DBG1     q3     2.04952
+19:03:07 DBG1     q4     3.23696
+19:03:07 INFO
+19:03:07 INFO Difference matrix:
+19:03:07 DBG1     min    -0.000211091
+19:03:07 DBG1     max    6.92107e-05
+19:03:07 DBG1     avg    -2.93573e-05
+19:03:07 DBG1     mean   -2.93573e-05
+19:03:07 DBG1     stddev 2.9769e-05
+19:03:07 DBG1     q0     -0.000211091
+19:03:07 DBG1     q1     -4.24173e-05
+19:03:07 DBG1     q2     -2.39354e-05
+19:03:07 DBG1     q3     -8.7618e-06
+19:03:07 DBG1     q4     6.92107e-05
+19:03:07 INFO
+19:03:07 INFO ===============================================================
+19:03:07 INFO Binning to 256
+19:03:08 INFO Matrix calculation
+19:03:17 INFO Matrix calculation done
+19:03:17 INFO Time: 9s
+19:03:17 INFO
+19:03:17 DBG1     min    0
+19:03:17 DBG1     max    3.23695
+19:03:17 DBG1     avg    1.38133
+19:03:17 DBG1     mean   1.38133
+19:03:17 DBG1     stddev 0.796021
+19:03:17 DBG1     q0     0
+19:03:17 DBG1     q1     0.64689
+19:03:17 DBG1     q2     1.57025
+19:03:17 DBG1     q3     2.04951
+19:03:17 DBG1     q4     3.23695
+19:03:17 INFO
+19:03:17 INFO Difference matrix:
+19:03:17 DBG1     min    -0.000104888
+19:03:17 DBG1     max    3.45259e-05
+19:03:17 DBG1     avg    -1.37616e-05
+19:03:17 DBG1     mean   -1.37616e-05
+19:03:17 DBG1     stddev 1.52925e-05
+19:03:17 DBG1     q0     -0.000104888
+19:03:17 DBG1     q1     -2.07131e-05
+19:03:17 DBG1     q2     -1.15335e-05
+19:03:17 DBG1     q3     -2.83828e-06
+19:03:17 DBG1     q4     3.45259e-05
+19:03:17 INFO
+19:03:17 INFO Finished
