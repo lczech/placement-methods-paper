@@ -4,7 +4,6 @@ Overview
 The programs in this directory were used for constructing 
 the consensus sequences used for our Automatic Reference Trees method,
 as well as for testing them. We used Silva version 123.1 for this.
-The programs use genesis v0.19.0
 
 `silva_consensus_seqs`
 -------------------------

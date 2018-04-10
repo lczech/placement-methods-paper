@@ -4,7 +4,6 @@ Overview
 The programs in this directory were used for preparing the raw sequence data,
 so that the methods and other programs can work with them,
 as well as analyzing certain aspects of the data.
-The programs use genesis v0.19.0
 
 `fasta_cleanup`
 -------------------------
