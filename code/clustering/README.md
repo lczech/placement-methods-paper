@@ -43,8 +43,20 @@ visualizations.
 There is also a version `kmeans_bplace`, which instead of jplace files
 expects our internal binary bplace files, for speedup in our testing.
 
+`kmeans_bplace_bins`
+-------------------------
+
+Test of how binning affects the kmeans clustering.
+
 `kmeans_jplace_elbow`
 -------------------------
 
 Run kmeans and also output the average distance of the samples to their assigned
 centroids, so that we can make elbow plots.
+
+`label_matrix`
+-------------------------
+
+Turn the cluster assignment of kmeans and the original labelling
+into a heatmap showing which clusters contain how many samples from each label.
+Used for the heatmap figures in the paper.
