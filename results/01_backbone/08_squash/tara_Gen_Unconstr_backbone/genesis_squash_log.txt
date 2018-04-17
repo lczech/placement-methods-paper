@@ -1,0 +1,413 @@
+Start at Sat Jul 22 01:28:47 CEST 2017
+
+01:28:47 INFO Started
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.15.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 5.4.0
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      software/genesis/bin/apps/jplace_squash 6 06_samples/tara_Gen_Unconstr_backbone/samples_jplace 06_samples/tara_Gen_Unconstr_backbone/squash
+Number of threads: 6
+Random seed:       3762529064
+
+01:28:47 INFO reading 370 jplace sample files
+02:32:55 INFO finished reading sample jplace files
+02:32:55 INFO
+02:32:55 INFO Using 6 threads.
+02:33:10 INFO Converting Trees
+02:35:58 INFO Starting squash clustering
+02:35:58 INFO Squash Clustering: Initialize
+04:31:46 INFO Squash Clustering: Step 1 of 369
+04:32:07 INFO Squash Clustering: Step 2 of 369
+04:32:29 INFO Squash Clustering: Step 3 of 369
+04:32:49 INFO Squash Clustering: Step 4 of 369
+04:33:16 INFO Squash Clustering: Step 5 of 369
+04:34:03 INFO Squash Clustering: Step 6 of 369
+04:34:52 INFO Squash Clustering: Step 7 of 369
+04:35:36 INFO Squash Clustering: Step 8 of 369
+04:36:24 INFO Squash Clustering: Step 9 of 369
+04:36:45 INFO Squash Clustering: Step 10 of 369
+04:37:06 INFO Squash Clustering: Step 11 of 369
+04:37:35 INFO Squash Clustering: Step 12 of 369
+04:37:54 INFO Squash Clustering: Step 13 of 369
+04:38:46 INFO Squash Clustering: Step 14 of 369
+04:39:16 INFO Squash Clustering: Step 15 of 369
+04:39:59 INFO Squash Clustering: Step 16 of 369
+04:40:25 INFO Squash Clustering: Step 17 of 369
+04:41:10 INFO Squash Clustering: Step 18 of 369
+04:41:29 INFO Squash Clustering: Step 19 of 369
+04:41:52 INFO Squash Clustering: Step 20 of 369
+04:42:43 INFO Squash Clustering: Step 21 of 369
+04:43:24 INFO Squash Clustering: Step 22 of 369
+04:44:10 INFO Squash Clustering: Step 23 of 369
+04:44:44 INFO Squash Clustering: Step 24 of 369
+04:45:19 INFO Squash Clustering: Step 25 of 369
+04:46:11 INFO Squash Clustering: Step 26 of 369
+04:46:29 INFO Squash Clustering: Step 27 of 369
+04:46:49 INFO Squash Clustering: Step 28 of 369
+04:47:21 INFO Squash Clustering: Step 29 of 369
+04:47:57 INFO Squash Clustering: Step 30 of 369
+04:48:16 INFO Squash Clustering: Step 31 of 369
+04:48:35 INFO Squash Clustering: Step 32 of 369
+04:48:59 INFO Squash Clustering: Step 33 of 369
+04:49:21 INFO Squash Clustering: Step 34 of 369
+04:49:40 INFO Squash Clustering: Step 35 of 369
+04:50:09 INFO Squash Clustering: Step 36 of 369
+04:50:28 INFO Squash Clustering: Step 37 of 369
+04:51:29 INFO Squash Clustering: Step 38 of 369
+04:51:48 INFO Squash Clustering: Step 39 of 369
+04:52:11 INFO Squash Clustering: Step 40 of 369
+04:52:32 INFO Squash Clustering: Step 41 of 369
+04:52:57 INFO Squash Clustering: Step 42 of 369
+04:53:21 INFO Squash Clustering: Step 43 of 369
+04:53:44 INFO Squash Clustering: Step 44 of 369
+04:54:12 INFO Squash Clustering: Step 45 of 369
+04:54:44 INFO Squash Clustering: Step 46 of 369
+04:55:15 INFO Squash Clustering: Step 47 of 369
+04:55:34 INFO Squash Clustering: Step 48 of 369
+04:55:58 INFO Squash Clustering: Step 49 of 369
+04:56:30 INFO Squash Clustering: Step 50 of 369
+04:56:54 INFO Squash Clustering: Step 51 of 369
+04:57:14 INFO Squash Clustering: Step 52 of 369
+04:57:43 INFO Squash Clustering: Step 53 of 369
+04:57:59 INFO Squash Clustering: Step 54 of 369
+04:58:31 INFO Squash Clustering: Step 55 of 369
+04:58:59 INFO Squash Clustering: Step 56 of 369
+05:00:01 INFO Squash Clustering: Step 57 of 369
+05:01:18 INFO Squash Clustering: Step 58 of 369
+05:01:38 INFO Squash Clustering: Step 59 of 369
+05:02:13 INFO Squash Clustering: Step 60 of 369
+05:02:47 INFO Squash Clustering: Step 61 of 369
+05:03:08 INFO Squash Clustering: Step 62 of 369
+05:03:26 INFO Squash Clustering: Step 63 of 369
+05:03:47 INFO Squash Clustering: Step 64 of 369
+05:04:30 INFO Squash Clustering: Step 65 of 369
+05:04:50 INFO Squash Clustering: Step 66 of 369
+05:05:13 INFO Squash Clustering: Step 67 of 369
+05:05:36 INFO Squash Clustering: Step 68 of 369
+05:06:00 INFO Squash Clustering: Step 69 of 369
+05:06:29 INFO Squash Clustering: Step 70 of 369
+05:06:46 INFO Squash Clustering: Step 71 of 369
+05:07:06 INFO Squash Clustering: Step 72 of 369
+05:07:28 INFO Squash Clustering: Step 73 of 369
+05:07:54 INFO Squash Clustering: Step 74 of 369
+05:08:54 INFO Squash Clustering: Step 75 of 369
+05:09:20 INFO Squash Clustering: Step 76 of 369
+05:09:38 INFO Squash Clustering: Step 77 of 369
+05:10:02 INFO Squash Clustering: Step 78 of 369
+05:10:21 INFO Squash Clustering: Step 79 of 369
+05:10:50 INFO Squash Clustering: Step 80 of 369
+05:11:24 INFO Squash Clustering: Step 81 of 369
+05:11:49 INFO Squash Clustering: Step 82 of 369
+05:12:08 INFO Squash Clustering: Step 83 of 369
+05:12:27 INFO Squash Clustering: Step 84 of 369
+05:12:48 INFO Squash Clustering: Step 85 of 369
+05:13:12 INFO Squash Clustering: Step 86 of 369
+05:13:31 INFO Squash Clustering: Step 87 of 369
+05:13:52 INFO Squash Clustering: Step 88 of 369
+05:14:25 INFO Squash Clustering: Step 89 of 369
+05:15:05 INFO Squash Clustering: Step 90 of 369
+05:15:27 INFO Squash Clustering: Step 91 of 369
+05:15:59 INFO Squash Clustering: Step 92 of 369
+05:16:21 INFO Squash Clustering: Step 93 of 369
+05:16:45 INFO Squash Clustering: Step 94 of 369
+05:17:11 INFO Squash Clustering: Step 95 of 369
+05:17:54 INFO Squash Clustering: Step 96 of 369
+05:18:41 INFO Squash Clustering: Step 97 of 369
+05:19:27 INFO Squash Clustering: Step 98 of 369
+05:19:49 INFO Squash Clustering: Step 99 of 369
+05:20:15 INFO Squash Clustering: Step 100 of 369
+05:20:43 INFO Squash Clustering: Step 101 of 369
+05:21:03 INFO Squash Clustering: Step 102 of 369
+05:21:20 INFO Squash Clustering: Step 103 of 369
+05:21:38 INFO Squash Clustering: Step 104 of 369
+05:22:08 INFO Squash Clustering: Step 105 of 369
+05:22:26 INFO Squash Clustering: Step 106 of 369
+05:22:46 INFO Squash Clustering: Step 107 of 369
+05:23:06 INFO Squash Clustering: Step 108 of 369
+05:23:28 INFO Squash Clustering: Step 109 of 369
+05:24:02 INFO Squash Clustering: Step 110 of 369
+05:24:29 INFO Squash Clustering: Step 111 of 369
+05:24:46 INFO Squash Clustering: Step 112 of 369
+05:25:05 INFO Squash Clustering: Step 113 of 369
+05:25:28 INFO Squash Clustering: Step 114 of 369
+05:26:17 INFO Squash Clustering: Step 115 of 369
+05:26:38 INFO Squash Clustering: Step 116 of 369
+05:27:01 INFO Squash Clustering: Step 117 of 369
+05:27:28 INFO Squash Clustering: Step 118 of 369
+05:27:47 INFO Squash Clustering: Step 119 of 369
+05:28:09 INFO Squash Clustering: Step 120 of 369
+05:28:35 INFO Squash Clustering: Step 121 of 369
+05:28:51 INFO Squash Clustering: Step 122 of 369
+05:29:54 INFO Squash Clustering: Step 123 of 369
+05:30:12 INFO Squash Clustering: Step 124 of 369
+05:30:32 INFO Squash Clustering: Step 125 of 369
+05:30:57 INFO Squash Clustering: Step 126 of 369
+05:31:11 INFO Squash Clustering: Step 127 of 369
+05:31:26 INFO Squash Clustering: Step 128 of 369
+05:31:41 INFO Squash Clustering: Step 129 of 369
+05:31:58 INFO Squash Clustering: Step 130 of 369
+05:32:27 INFO Squash Clustering: Step 131 of 369
+05:32:42 INFO Squash Clustering: Step 132 of 369
+05:32:57 INFO Squash Clustering: Step 133 of 369
+05:33:49 INFO Squash Clustering: Step 134 of 369
+05:34:06 INFO Squash Clustering: Step 135 of 369
+05:35:03 INFO Squash Clustering: Step 136 of 369
+05:35:31 INFO Squash Clustering: Step 137 of 369
+05:36:17 INFO Squash Clustering: Step 138 of 369
+05:36:38 INFO Squash Clustering: Step 139 of 369
+05:36:55 INFO Squash Clustering: Step 140 of 369
+05:37:15 INFO Squash Clustering: Step 141 of 369
+05:37:40 INFO Squash Clustering: Step 142 of 369
+05:37:57 INFO Squash Clustering: Step 143 of 369
+05:38:18 INFO Squash Clustering: Step 144 of 369
+05:38:42 INFO Squash Clustering: Step 145 of 369
+05:39:04 INFO Squash Clustering: Step 146 of 369
+05:39:32 INFO Squash Clustering: Step 147 of 369
+05:40:34 INFO Squash Clustering: Step 148 of 369
+05:40:52 INFO Squash Clustering: Step 149 of 369
+05:41:19 INFO Squash Clustering: Step 150 of 369
+05:41:43 INFO Squash Clustering: Step 151 of 369
+05:42:05 INFO Squash Clustering: Step 152 of 369
+05:42:21 INFO Squash Clustering: Step 153 of 369
+05:42:42 INFO Squash Clustering: Step 154 of 369
+05:43:34 INFO Squash Clustering: Step 155 of 369
+05:43:55 INFO Squash Clustering: Step 156 of 369
+05:44:11 INFO Squash Clustering: Step 157 of 369
+05:44:27 INFO Squash Clustering: Step 158 of 369
+05:44:55 INFO Squash Clustering: Step 159 of 369
+05:45:26 INFO Squash Clustering: Step 160 of 369
+05:45:42 INFO Squash Clustering: Step 161 of 369
+05:46:01 INFO Squash Clustering: Step 162 of 369
+05:46:23 INFO Squash Clustering: Step 163 of 369
+05:46:40 INFO Squash Clustering: Step 164 of 369
+05:47:03 INFO Squash Clustering: Step 165 of 369
+05:47:23 INFO Squash Clustering: Step 166 of 369
+05:47:47 INFO Squash Clustering: Step 167 of 369
+05:48:02 INFO Squash Clustering: Step 168 of 369
+05:48:17 INFO Squash Clustering: Step 169 of 369
+05:48:33 INFO Squash Clustering: Step 170 of 369
+05:48:49 INFO Squash Clustering: Step 171 of 369
+05:49:08 INFO Squash Clustering: Step 172 of 369
+05:49:27 INFO Squash Clustering: Step 173 of 369
+05:49:55 INFO Squash Clustering: Step 174 of 369
+05:50:42 INFO Squash Clustering: Step 175 of 369
+05:51:04 INFO Squash Clustering: Step 176 of 369
+05:51:25 INFO Squash Clustering: Step 177 of 369
+05:51:38 INFO Squash Clustering: Step 178 of 369
+05:51:51 INFO Squash Clustering: Step 179 of 369
+05:52:09 INFO Squash Clustering: Step 180 of 369
+05:52:28 INFO Squash Clustering: Step 181 of 369
+05:52:47 INFO Squash Clustering: Step 182 of 369
+05:53:02 INFO Squash Clustering: Step 183 of 369
+05:53:22 INFO Squash Clustering: Step 184 of 369
+05:53:36 INFO Squash Clustering: Step 185 of 369
+05:53:53 INFO Squash Clustering: Step 186 of 369
+05:54:07 INFO Squash Clustering: Step 187 of 369
+05:54:22 INFO Squash Clustering: Step 188 of 369
+05:54:48 INFO Squash Clustering: Step 189 of 369
+05:55:10 INFO Squash Clustering: Step 190 of 369
+05:55:23 INFO Squash Clustering: Step 191 of 369
+05:55:37 INFO Squash Clustering: Step 192 of 369
+05:56:05 INFO Squash Clustering: Step 193 of 369
+05:56:51 INFO Squash Clustering: Step 194 of 369
+05:57:21 INFO Squash Clustering: Step 195 of 369
+05:58:07 INFO Squash Clustering: Step 196 of 369
+05:58:22 INFO Squash Clustering: Step 197 of 369
+05:58:49 INFO Squash Clustering: Step 198 of 369
+05:59:18 INFO Squash Clustering: Step 199 of 369
+05:59:33 INFO Squash Clustering: Step 200 of 369
+05:59:53 INFO Squash Clustering: Step 201 of 369
+06:00:15 INFO Squash Clustering: Step 202 of 369
+06:00:51 INFO Squash Clustering: Step 203 of 369
+06:01:06 INFO Squash Clustering: Step 204 of 369
+06:01:20 INFO Squash Clustering: Step 205 of 369
+06:01:32 INFO Squash Clustering: Step 206 of 369
+06:01:46 INFO Squash Clustering: Step 207 of 369
+06:01:59 INFO Squash Clustering: Step 208 of 369
+06:02:10 INFO Squash Clustering: Step 209 of 369
+06:03:02 INFO Squash Clustering: Step 210 of 369
+06:03:18 INFO Squash Clustering: Step 211 of 369
+06:03:32 INFO Squash Clustering: Step 212 of 369
+06:03:58 INFO Squash Clustering: Step 213 of 369
+06:04:11 INFO Squash Clustering: Step 214 of 369
+06:04:26 INFO Squash Clustering: Step 215 of 369
+06:05:16 INFO Squash Clustering: Step 216 of 369
+06:06:15 INFO Squash Clustering: Step 217 of 369
+06:06:44 INFO Squash Clustering: Step 218 of 369
+06:07:21 INFO Squash Clustering: Step 219 of 369
+06:07:43 INFO Squash Clustering: Step 220 of 369
+06:07:56 INFO Squash Clustering: Step 221 of 369
+06:08:12 INFO Squash Clustering: Step 222 of 369
+06:08:35 INFO Squash Clustering: Step 223 of 369
+06:08:57 INFO Squash Clustering: Step 224 of 369
+06:09:11 INFO Squash Clustering: Step 225 of 369
+06:09:26 INFO Squash Clustering: Step 226 of 369
+06:09:47 INFO Squash Clustering: Step 227 of 369
+06:10:09 INFO Squash Clustering: Step 228 of 369
+06:10:45 INFO Squash Clustering: Step 229 of 369
+06:11:00 INFO Squash Clustering: Step 230 of 369
+06:11:39 INFO Squash Clustering: Step 231 of 369
+06:12:25 INFO Squash Clustering: Step 232 of 369
+06:13:01 INFO Squash Clustering: Step 233 of 369
+06:13:14 INFO Squash Clustering: Step 234 of 369
+06:13:34 INFO Squash Clustering: Step 235 of 369
+06:13:48 INFO Squash Clustering: Step 236 of 369
+06:14:10 INFO Squash Clustering: Step 237 of 369
+06:14:25 INFO Squash Clustering: Step 238 of 369
+06:15:17 INFO Squash Clustering: Step 239 of 369
+06:15:33 INFO Squash Clustering: Step 240 of 369
+06:15:52 INFO Squash Clustering: Step 241 of 369
+06:16:06 INFO Squash Clustering: Step 242 of 369
+06:16:19 INFO Squash Clustering: Step 243 of 369
+06:16:32 INFO Squash Clustering: Step 244 of 369
+06:17:23 INFO Squash Clustering: Step 245 of 369
+06:17:46 INFO Squash Clustering: Step 246 of 369
+06:18:24 INFO Squash Clustering: Step 247 of 369
+06:18:48 INFO Squash Clustering: Step 248 of 369
+06:19:04 INFO Squash Clustering: Step 249 of 369
+06:19:18 INFO Squash Clustering: Step 250 of 369
+06:19:39 INFO Squash Clustering: Step 251 of 369
+06:20:01 INFO Squash Clustering: Step 252 of 369
+06:20:23 INFO Squash Clustering: Step 253 of 369
+06:20:46 INFO Squash Clustering: Step 254 of 369
+06:21:00 INFO Squash Clustering: Step 255 of 369
+06:21:17 INFO Squash Clustering: Step 256 of 369
+06:21:41 INFO Squash Clustering: Step 257 of 369
+06:21:52 INFO Squash Clustering: Step 258 of 369
+06:22:06 INFO Squash Clustering: Step 259 of 369
+06:22:41 INFO Squash Clustering: Step 260 of 369
+06:23:25 INFO Squash Clustering: Step 261 of 369
+06:23:41 INFO Squash Clustering: Step 262 of 369
+06:23:59 INFO Squash Clustering: Step 263 of 369
+06:24:21 INFO Squash Clustering: Step 264 of 369
+06:24:33 INFO Squash Clustering: Step 265 of 369
+06:24:59 INFO Squash Clustering: Step 266 of 369
+06:25:36 INFO Squash Clustering: Step 267 of 369
+06:26:13 INFO Squash Clustering: Step 268 of 369
+06:26:28 INFO Squash Clustering: Step 269 of 369
+06:26:40 INFO Squash Clustering: Step 270 of 369
+06:27:23 INFO Squash Clustering: Step 271 of 369
+06:28:04 INFO Squash Clustering: Step 272 of 369
+06:28:51 INFO Squash Clustering: Step 273 of 369
+06:29:48 INFO Squash Clustering: Step 274 of 369
+06:30:03 INFO Squash Clustering: Step 275 of 369
+06:30:18 INFO Squash Clustering: Step 276 of 369
+06:30:29 INFO Squash Clustering: Step 277 of 369
+06:30:42 INFO Squash Clustering: Step 278 of 369
+06:31:29 INFO Squash Clustering: Step 279 of 369
+06:32:18 INFO Squash Clustering: Step 280 of 369
+06:32:32 INFO Squash Clustering: Step 281 of 369
+06:32:41 INFO Squash Clustering: Step 282 of 369
+06:32:51 INFO Squash Clustering: Step 283 of 369
+06:33:01 INFO Squash Clustering: Step 284 of 369
+06:33:16 INFO Squash Clustering: Step 285 of 369
+06:33:26 INFO Squash Clustering: Step 286 of 369
+06:33:42 INFO Squash Clustering: Step 287 of 369
+06:34:00 INFO Squash Clustering: Step 288 of 369
+06:34:18 INFO Squash Clustering: Step 289 of 369
+06:34:29 INFO Squash Clustering: Step 290 of 369
+06:34:48 INFO Squash Clustering: Step 291 of 369
+06:35:04 INFO Squash Clustering: Step 292 of 369
+06:35:21 INFO Squash Clustering: Step 293 of 369
+06:35:30 INFO Squash Clustering: Step 294 of 369
+06:35:41 INFO Squash Clustering: Step 295 of 369
+06:35:50 INFO Squash Clustering: Step 296 of 369
+06:36:11 INFO Squash Clustering: Step 297 of 369
+06:36:19 INFO Squash Clustering: Step 298 of 369
+06:36:28 INFO Squash Clustering: Step 299 of 369
+06:37:01 INFO Squash Clustering: Step 300 of 369
+06:37:22 INFO Squash Clustering: Step 301 of 369
+06:38:01 INFO Squash Clustering: Step 302 of 369
+06:38:16 INFO Squash Clustering: Step 303 of 369
+06:38:28 INFO Squash Clustering: Step 304 of 369
+06:38:48 INFO Squash Clustering: Step 305 of 369
+06:38:58 INFO Squash Clustering: Step 306 of 369
+06:39:11 INFO Squash Clustering: Step 307 of 369
+06:39:24 INFO Squash Clustering: Step 308 of 369
+06:39:36 INFO Squash Clustering: Step 309 of 369
+06:39:53 INFO Squash Clustering: Step 310 of 369
+06:40:03 INFO Squash Clustering: Step 311 of 369
+06:40:16 INFO Squash Clustering: Step 312 of 369
+06:40:29 INFO Squash Clustering: Step 313 of 369
+06:41:09 INFO Squash Clustering: Step 314 of 369
+06:41:20 INFO Squash Clustering: Step 315 of 369
+06:41:38 INFO Squash Clustering: Step 316 of 369
+06:42:11 INFO Squash Clustering: Step 317 of 369
+06:42:26 INFO Squash Clustering: Step 318 of 369
+06:42:36 INFO Squash Clustering: Step 319 of 369
+06:42:50 INFO Squash Clustering: Step 320 of 369
+06:43:07 INFO Squash Clustering: Step 321 of 369
+06:43:17 INFO Squash Clustering: Step 322 of 369
+06:43:26 INFO Squash Clustering: Step 323 of 369
+06:43:42 INFO Squash Clustering: Step 324 of 369
+06:44:18 INFO Squash Clustering: Step 325 of 369
+06:44:30 INFO Squash Clustering: Step 326 of 369
+06:44:43 INFO Squash Clustering: Step 327 of 369
+06:44:56 INFO Squash Clustering: Step 328 of 369
+06:45:03 INFO Squash Clustering: Step 329 of 369
+06:45:09 INFO Squash Clustering: Step 330 of 369
+06:45:17 INFO Squash Clustering: Step 331 of 369
+06:45:25 INFO Squash Clustering: Step 332 of 369
+06:45:55 INFO Squash Clustering: Step 333 of 369
+06:46:04 INFO Squash Clustering: Step 334 of 369
+06:46:15 INFO Squash Clustering: Step 335 of 369
+06:46:41 INFO Squash Clustering: Step 336 of 369
+06:47:09 INFO Squash Clustering: Step 337 of 369
+06:47:18 INFO Squash Clustering: Step 338 of 369
+06:47:28 INFO Squash Clustering: Step 339 of 369
+06:47:50 INFO Squash Clustering: Step 340 of 369
+06:48:15 INFO Squash Clustering: Step 341 of 369
+06:48:40 INFO Squash Clustering: Step 342 of 369
+06:49:06 INFO Squash Clustering: Step 343 of 369
+06:49:31 INFO Squash Clustering: Step 344 of 369
+06:49:42 INFO Squash Clustering: Step 345 of 369
+06:49:49 INFO Squash Clustering: Step 346 of 369
+06:50:11 INFO Squash Clustering: Step 347 of 369
+06:50:22 INFO Squash Clustering: Step 348 of 369
+06:50:30 INFO Squash Clustering: Step 349 of 369
+06:50:35 INFO Squash Clustering: Step 350 of 369
+06:50:42 INFO Squash Clustering: Step 351 of 369
+06:50:53 INFO Squash Clustering: Step 352 of 369
+06:50:59 INFO Squash Clustering: Step 353 of 369
+06:51:05 INFO Squash Clustering: Step 354 of 369
+06:51:13 INFO Squash Clustering: Step 355 of 369
+06:51:29 INFO Squash Clustering: Step 356 of 369
+06:51:45 INFO Squash Clustering: Step 357 of 369
+06:51:52 INFO Squash Clustering: Step 358 of 369
+06:52:08 INFO Squash Clustering: Step 359 of 369
+06:52:23 INFO Squash Clustering: Step 360 of 369
+06:52:38 INFO Squash Clustering: Step 361 of 369
+06:52:45 INFO Squash Clustering: Step 362 of 369
+06:52:59 INFO Squash Clustering: Step 363 of 369
+06:53:13 INFO Squash Clustering: Step 364 of 369
+06:53:31 INFO Squash Clustering: Step 365 of 369
+06:53:39 INFO Squash Clustering: Step 366 of 369
+06:53:48 INFO Squash Clustering: Step 367 of 369
+06:53:55 INFO Squash Clustering: Step 368 of 369
+06:54:06 INFO Squash Clustering: Step 369 of 369
+06:54:19 INFO Finished squash clustering
+06:54:19 INFO Writing cluster tree
+06:54:19 INFO Writing fat trees
+07:03:01 INFO Finished
+
+End at Sat Jul 22 07:05:15 CEST 2017

@@ -1,0 +1,62 @@
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.18.1
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          gcc 6.3.1
+C++ version:       201103
+Build type:        release
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 16
+Random seed:       77655651
+
+15:23:51 INFO Started
+15:23:51 INFO Writing bplace sample order list
+15:23:51 INFO done
+15:23:51 INFO
+15:23:51 INFO reading 9194 bplace sample files
+15:26:06 INFO finished reading sample bplace files
+15:26:06 INFO
+15:26:06 INFO Using 16 threads.
+15:26:06 INFO Edpge PCA calculation started
+15:30:39 INFO Edpge PCA calculation finished
+15:30:46 INFO Finished
+	Command being timed: "genesis/bin/apps/bplace_epca samples_bplace hmp_edge_pca"
+	User time (seconds): 464.39
+	System time (seconds): 35.74
+	Percent of CPU this job got: 113%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:22.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 43428028
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 39236047
+	Voluntary context switches: 211
+	Involuntary context switches: 190
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 473512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
