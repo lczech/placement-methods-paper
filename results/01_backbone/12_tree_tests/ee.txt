@@ -1,0 +1,34 @@
+    ****************************************
+    ****************************************
+    **                                    **
+    **         CONGRATULATIONS!!!         **
+    **                                    ** 
+    ****************************************
+    ****************************************
+
+You found the easter egg!
+
+There is only one possible explanation of how you managed to achieve this:
+You are so highly dedicated to looking into our results
+(hopefully not in order to prove us wrong...),
+that you even found this little file. Impressive!
+
+As a reward, let me tell you a secret:
+The original project name for the two papers that this repository is for was
+
+    bacardi
+
+which is short for
+
+    Big Analysis of Clustering Approaches Running on Distributed Infrastructure
+    
+However, there seems to be some kind of spirit that shares that name [citation needed].
+Not that we know anything about stuff like that...
+Anyway, because this might have caused some trademark issues,
+we removed all references to this from this repository (except this one).
+You just dug up this old relict of the past!
+
+I think, you finding this file deserves some recognition.
+If you also think so, feel free to write me an email: luc@s-cze.ch
+Maybe we find ourselves to be in the same town.
+If so, we should have a Cuba Libre together ;-)

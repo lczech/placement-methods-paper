@@ -339,7 +339,7 @@ int main( int argc, char** argv )
 
     // auto csvr = CsvReader();
     // csvr.separator_chars( "\t" );
-    // auto scores = csvr.from_file( "/home/lucas/Projects/bv/04_dists/meta_all" );
+    // auto scores = csvr.from_file( "bv/04_dists/meta_all" );
     //
     // struct Result
     // {

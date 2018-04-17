@@ -23,6 +23,7 @@
 
 #include "genesis/genesis.hpp"
 
+#include <cmath>
 #include <chrono>
 #include <fstream>
 #include <string>
@@ -46,7 +47,7 @@ int main( int argc, char** argv )
     utils::Logging::log_to_stdout();
     utils::Logging::details.time = true;
 
-    utils::Options::get().number_of_threads( 16 );
+    utils::Options::get().number_of_threads( 40 );
     LOG_BOLD << utils::Options::get().info();
     LOG_BOLD;
 
@@ -85,7 +86,7 @@ int main( int argc, char** argv )
     // Process all jplace files.
     LOG_INFO << "reading " << bplace_filenames.size() << " bplace sample files";
     for( auto const& bplace_filename : bplace_filenames ) {
-        sample_set.add( bplace_loader.load( epadir + bplace_filename ), bplace_filename );
+        sample_set.add( bplace_loader.load( bplace_filename ), bplace_filename );
     }
 
     // Final output for jplace reading
@@ -113,6 +114,17 @@ int main( int argc, char** argv )
         LOG_DBG1 << "q2     " << quarts.q2;
         LOG_DBG1 << "q3     " << quarts.q3;
         LOG_DBG1 << "q4     " << quarts.q4;
+    };
+
+    auto error_mat = []( utils::Matrix<double> const& mat, utils::Matrix<double> const& approx ){
+        auto err = matrix_subtraction( mat, approx );
+        for( size_t r = 0; r < mat.rows(); ++r ) {
+            for( size_t c = 0; c < mat.cols(); ++c ) {
+                err( r, c ) /= mat( r, c );
+                err( r, c ) = std::abs( err( r, c ));
+            }
+        }
+        return err;
     };
 
     // -------------------------------------------------------------------------
@@ -166,6 +178,10 @@ int main( int argc, char** argv )
 
         LOG_INFO << "Difference matrix:";
         matrix_stats( matrix_subtraction( emd_mat, emd_mat_binned ));
+        LOG_INFO;
+
+        LOG_INFO << "Error matrix:";
+        matrix_stats( error_mat( emd_mat, emd_mat_binned ));
         LOG_INFO;
     }
 
