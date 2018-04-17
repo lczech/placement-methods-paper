@@ -1,7 +1,7 @@
 placement-methods-paper
 =========================
 
-Accompanying code repository with scripts, programs and tools for our papers:
+Accompanying code repository with scripts, programs and data for our papers:
 
 > Methods for Inference of Automatic Reference Phylogenies and Multilevel Phylogenetic Placement.<br />
 > Lucas Czech and Alexandros Stamatakis.<br />
