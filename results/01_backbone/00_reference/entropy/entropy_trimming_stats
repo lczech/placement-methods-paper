@@ -1,0 +1,184 @@
+Trimmed:
+Archaea		104	0.075362319
+Bacteria	390	0.282608696
+Eukaryota	886	0.642028986
+Total		1380
+
+Original:
+Archaea		346	0.029173693
+Bacteria	4071	0.343254637
+Eukaryota	7440	0.627318718
+Total		11860
+
+=================================================
+	Average All
+=================================================
+
+0.000000 Reading taxonomy...
+0.172662 done
+DBG  total children:
+DBG1     Archaea 346
+DBG1     Bacteria 4071
+DBG1     Eukaryota 7440
+0.000296 Preparing counts map...
+3.509657 done
+INFO counts map size 11860
+0.082919 Start reading at 10:03:22
+0.000446 At sequence 0
+64.797633 At sequence 100000
+63.842150 At sequence 200000
+60.314243 At sequence 300000
+54.895188 At sequence 400000
+54.996050 At sequence 500000
+54.593009 Done reading at 10:09:00
+=================================================
+DBG  Option 0
+0.000111 entropy calculations
+31.459204 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 1001
+DBG1     adding inner taxa
+DBG1     full split list size 1380
+0.004932 write tax_entr_list_file
+0.015477 finished tax_entr_list_file
+DBG1     total count 1380
+DBG1     total children:
+DBG2         Archaea	103	0.0746377
+DBG2         Bacteria	389	0.281884
+DBG2         Eukaryota	885	0.641304
+=================================================
+DBG  Option 1
+0.005542 entropy calculations
+51.612165 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 995
+DBG1     adding inner taxa
+DBG1     full split list size 1378
+0.004165 write tax_entr_list_file
+0.015317 finished tax_entr_list_file
+DBG1     total count 1378
+DBG1     total children:
+DBG2         Archaea	176	0.127721
+DBG2         Bacteria	177	0.128447
+DBG2         Eukaryota	1022	0.741655
+=================================================
+DBG  Option 2
+0.003795 entropy calculations
+30.272098 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 1000
+DBG1     adding inner taxa
+DBG1     full split list size 1388
+0.005392 write tax_entr_list_file
+0.017201 finished tax_entr_list_file
+DBG1     total count 1388
+DBG1     total children:
+DBG2         Archaea	73	0.0525937
+DBG2         Bacteria	529	0.381124
+DBG2         Eukaryota	783	0.564121
+=================================================
+DBG  Option 3
+0.005925 entropy calculations
+53.286201 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 1005
+DBG1     adding inner taxa
+DBG1     full split list size 1406
+0.004162 write tax_entr_list_file
+0.014525 finished tax_entr_list_file
+DBG1     total count 1406
+DBG1     total children:
+DBG2         Archaea	110	0.0782361
+DBG2         Bacteria	297	0.211238
+DBG2         Eukaryota	996	0.708393
+
+=================================================
+	Average Determined
+=================================================
+
+0.000000 Reading taxonomy...
+0.188621 done
+DBG  total children:
+DBG1     Archaea 346
+DBG1     Bacteria 4071
+DBG1     Eukaryota 7440
+0.000376 Preparing counts map...
+3.552671 done
+INFO counts map size 11860
+0.076426 Start reading at 10:52:03
+0.004653 At sequence 0
+59.468427 At sequence 100000
+58.847932 At sequence 200000
+58.496133 At sequence 300000
+52.124140 At sequence 400000
+53.659778 At sequence 500000
+51.455918 Done reading at 10:57:25
+=================================================
+DBG  Option 0
+0.000095 entropy calculations
+39.799902 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 1001
+DBG1     adding inner taxa
+DBG1     full split list size 1291
+0.004446 write tax_entr_list_file
+0.015757 finished tax_entr_list_file
+DBG1     total count 1291
+DBG1     total children:
+DBG2         Archaea	346	0.268009
+DBG2         Bacteria	0	0
+DBG2         Eukaryota	942	0.729667
+=================================================
+DBG  Option 1
+0.003767 entropy calculations
+61.668268 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 1000
+DBG1     adding inner taxa
+DBG1     full split list size 1290
+0.004145 write tax_entr_list_file
+0.015321 finished tax_entr_list_file
+DBG1     total count 1290
+DBG1     total children:
+DBG2         Archaea	346	0.268217
+DBG2         Bacteria	0	0
+DBG2         Eukaryota	941	0.729457
+=================================================
+DBG  Option 2
+0.003561 entropy calculations
+40.059927 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 1000
+DBG1     adding inner taxa
+DBG1     full split list size 1361
+0.004157 write tax_entr_list_file
+0.015555 finished tax_entr_list_file
+DBG1     total count 1361
+DBG1     total children:
+DBG2         Archaea	346	0.254225
+DBG2         Bacteria	1012	0.743571
+DBG2         Eukaryota	0	0
+=================================================
+DBG  Option 3
+0.003782 entropy calculations
+60.814990 finished entropy calculations
+DBG1     valid 1
+DBG1     total taxa leaf count: 9668
+DBG1     split list size 981
+DBG1     adding inner taxa
+DBG1     full split list size 1238
+0.004619 write tax_entr_list_file
+0.016419 finished tax_entr_list_file
+DBG1     total count 1238
+DBG1     total children:
+DBG2         Archaea	346	0.279483
+DBG2         Bacteria	0	0
+DBG2         Eukaryota	889	0.718094
+

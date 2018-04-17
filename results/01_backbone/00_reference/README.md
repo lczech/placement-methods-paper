@@ -15,3 +15,6 @@ For storage space reasons, we here only keep the most important files per run:
  
 Furthermore, `tax_all_entr.csv` contains the entropy calculation of all taxa.
 This can be used to check which ranks have which entropy.
+
+Lastly `entropy` contains some tests of how the entropy measurement behaves
+with our files, and as a measure in general
