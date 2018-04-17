@@ -9,7 +9,7 @@ Accompanying code repository with scripts, programs and tools for our papers:
 
 and
 
-> Scalable Methods for Post-Processing and Analyzing Phylogenetic Placements<br />
+> Scalable Methods for Post-Processing and Analyzing Phylogenetic Placements.<br />
 > Lucas Czech and Alexandros Stamatakis.<br />
 > *(manuscript in preparation)*
 
