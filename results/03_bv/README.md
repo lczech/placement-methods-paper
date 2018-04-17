@@ -28,3 +28,4 @@ We used these data for testing our methods against the established analysis meth
  * `08_squash_kmeans`: Comparison of Squash Clustering to kmeans. Here, we create the plots 
    of squash cluster trees colored with the kmeans cluster assignments.
  * `09_squash_nugent`: Coloring of the squash cluster tree with the nugent score per sample.
+ * `10_kmeans_elbow`: Analysis of using different values of k to get the Elbow plots.
