@@ -11,7 +11,7 @@ and
 
 > Scalable Methods for Post-Processing and Analyzing Phylogenetic Placements.<br />
 > Lucas Czech and Alexandros Stamatakis.<br />
-> *(manuscript in preparation)*
+> bioRxiv, 2018. https://www.biorxiv.org/content/early/2018/06/14/346353
 
 The repository is structed as follows:
 
