@@ -41,6 +41,14 @@ The results of this program for our four test cases
 `Archaea`, `Bacteria`, `Eukaryota` and `General` are stored in 
 `results/01_backbone/00_reference`. See there for details.
 
+`silva_single_seqs`
+-------------------------
+
+Find the Silva 600k sequences that are closest to the enotrpy-chosen consensus seqs.
+Instead of using consensus sequences, use actual species sequences
+as representatives of a clde. in order to have them still represent the calde well,
+select the ones that are closest to a consenes seq of the clade.
+
 `silva_subclade_hits`
 -------------------------
 

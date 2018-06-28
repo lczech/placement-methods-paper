@@ -28,6 +28,8 @@ in the papers.
    of our ARTs.
  * `11_consensus_seqs`: Testing the influence of using different consensus sequence
    methods on the accuracy of the ART placement
+ * `12_single_seqs`: Testing how actual sequences instead of consensus sequences
+   change the accuarcy of the trees.
  * `13_emd_binnify`: Testing the tradoff between gain in speed and loss of accuracy
    when using binning of the placements per branch.
  * `15_emd_speed_comp`: Comparison of pplacer vs genesis for calculating 

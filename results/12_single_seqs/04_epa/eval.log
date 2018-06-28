@@ -1,0 +1,39 @@
+17:05:15 INFO Started
+17:05:15 INFO ==================================================
+17:05:15 INFO Collecting Unconstr Data
+17:05:15 INFO ==================================================
+17:05:15 INFO Reading 11_single_seqs/04_epa/Gen_Unconstr_backbone/epa_result.jplace
+17:05:28 INFO Done reading.
+17:05:28 INFO Prepare lookups.
+17:06:20 INFO Finished lookups.
+17:06:20 INFO Start eval.
+17:07:22 INFO Finished eval.
+17:07:22 INFO Reading 11_single_seqs/04_epa/Arch_Unconstr_backbone/epa_result.jplace
+17:07:36 INFO Done reading.
+17:07:36 INFO Prepare lookups.
+17:07:39 INFO Finished lookups.
+17:07:39 INFO Start eval.
+17:08:42 INFO Finished eval.
+17:08:43 INFO Reading 11_single_seqs/04_epa/Bact_Unconstr_backbone/epa_result.jplace
+17:08:56 INFO Done reading.
+17:08:56 INFO Prepare lookups.
+17:09:46 INFO Finished lookups.
+17:09:46 INFO Start eval.
+17:11:48 INFO Finished eval.
+17:11:49 INFO Reading 11_single_seqs/04_epa/Euks_Unconstr_backbone/epa_result.jplace
+17:12:02 INFO Done reading.
+17:12:02 INFO Prepare lookups.
+17:13:00 INFO Finished lookups.
+17:13:00 INFO Start eval.
+17:14:02 INFO Finished eval.
+17:14:03 INFO ==================================================
+17:14:03 INFO Collecting Constr Data
+17:14:03 INFO ==================================================
+17:14:03 WARN Skipping eval dir 11_single_seqs/04_epa/Gen_Constr_backbone/epa_result.jplace
+17:14:03 WARN Skipping eval dir 11_single_seqs/04_epa/Arch_Constr_backbone/epa_result.jplace
+17:14:03 WARN Skipping eval dir 11_single_seqs/04_epa/Bact_Constr_backbone/epa_result.jplace
+17:14:03 WARN Skipping eval dir 11_single_seqs/04_epa/Euks_Constr_backbone/epa_result.jplace
+17:14:03 INFO ==================================================
+17:14:03 INFO Writing Results
+17:14:03 INFO ==================================================
+17:14:05 INFO Finished

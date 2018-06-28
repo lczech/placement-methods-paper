@@ -52,8 +52,7 @@ size_t match_score( std::string const& consensus, std::string const& candidate )
  * @brief Find the Silva 600k sequences that are closest to the enotrpy-chosen consensus seqs.
  * This was a test: instead of using consensus sequences, use actual species sequences
  * as representatives of a clde. in order to have them still represent the calde well,
- * select the ones that are closest to a consenes seq of the clade...
- * kind of a weird approchac, so we did not contiue with it.
+ * select the ones that are closest to a consenes seq of the clade.
  */
 int main( int argc, char** argv )
 {

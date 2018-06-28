@@ -1,0 +1,100 @@
+./silva_single_seqs Bacteria
+20:18:57 INFO Processing Bacteria
+20:18:57 INFO Reading ref seqs
+20:18:57 INFO Processing ref
+20:18:57 INFO Found 1914 ref seqs
+20:18:57 INFO Start reading 600k sequences
+20:18:57 INFO At sequence 0
+20:21:25 INFO At sequence 50000
+20:23:53 INFO At sequence 100000
+23:15:26 INFO At sequence 150000
+23:19:37 INFO At sequence 200000
+23:23:36 INFO At sequence 250000
+23:27:40 INFO At sequence 300000
+23:31:52 INFO At sequence 350000
+23:35:57 INFO At sequence 400000
+23:40:08 INFO At sequence 450000
+23:44:15 INFO At sequence 500000
+23:48:21 INFO At sequence 550000
+23:52:17 INFO Done reading
+23:52:17 INFO no_taxon_count 7294
+23:52:17 INFO writing full file
+23:52:17 INFO Writing final seqs
+23:52:17 INFO Wrote 1914 sequences
+23:52:17 INFO Finished.
+
+./silva_single_seqs Archaea
+23:13:09 INFO Processing Archaea
+23:13:09 INFO Reading ref seqs
+23:13:10 INFO Processing ref
+23:13:10 INFO Found 511 ref seqs
+23:13:10 INFO Start reading 600k sequences
+23:13:10 INFO At sequence 0
+23:17:10 INFO At sequence 50000
+23:21:17 INFO At sequence 100000
+23:25:27 INFO At sequence 150000
+23:29:32 INFO At sequence 200000
+23:33:35 INFO At sequence 250000
+23:37:41 INFO At sequence 300000
+23:41:52 INFO At sequence 350000
+23:45:59 INFO At sequence 400000
+23:49:58 INFO At sequence 450000
+23:53:50 INFO At sequence 500000
+23:56:46 INFO At sequence 550000
+23:59:35 INFO Done reading
+23:59:35 INFO no_taxon_count 7289
+23:59:35 INFO writing full file
+23:59:35 INFO Writing final seqs
+23:59:35 INFO Wrote 511 sequences
+23:59:35 INFO Finished.
+
+./silva_single_seqs Eukaryota
+23:13:56 INFO Processing Eukaryota
+23:13:56 INFO Reading ref seqs
+23:13:57 INFO Processing ref
+23:13:57 INFO Found 2059 ref seqs
+23:13:57 INFO Start reading 600k sequences
+23:13:57 INFO At sequence 0
+23:18:02 INFO At sequence 50000
+23:22:06 INFO At sequence 100000
+23:26:17 INFO At sequence 150000
+23:30:30 INFO At sequence 200000
+23:34:34 INFO At sequence 250000
+23:38:44 INFO At sequence 300000
+23:42:52 INFO At sequence 350000
+23:46:59 INFO At sequence 400000
+23:50:58 INFO At sequence 450000
+23:54:40 INFO At sequence 500000
+23:58:43 INFO At sequence 550000
+00:02:18 INFO Done reading
+00:02:18 INFO no_taxon_count 7908
+00:02:18 INFO writing full file
+00:02:19 INFO Writing final seqs
+00:02:19 INFO Wrote 2059 sequences
+00:02:19 INFO Finished.
+
+./silva_single_seqs General
+23:14:26 INFO Processing General
+23:14:26 INFO Reading ref seqs
+23:14:27 INFO Processing ref
+23:14:27 INFO Found 1998 ref seqs
+23:14:27 INFO Start reading 600k sequences
+23:14:27 INFO At sequence 0
+23:18:46 INFO At sequence 50000
+23:22:57 INFO At sequence 100000
+23:27:09 INFO At sequence 150000
+23:31:20 INFO At sequence 200000
+23:35:28 INFO At sequence 250000
+23:39:44 INFO At sequence 300000
+23:43:58 INFO At sequence 350000
+23:47:59 INFO At sequence 400000
+23:52:03 INFO At sequence 450000
+23:55:50 INFO At sequence 500000
+23:59:46 INFO At sequence 550000
+00:03:01 INFO Done reading
+00:03:01 INFO no_taxon_count 7721
+00:03:01 INFO writing full file
+00:03:01 INFO Writing final seqs
+00:03:02 INFO Wrote 1998 sequences
+00:03:02 INFO Finished.
+
