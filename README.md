@@ -27,3 +27,9 @@ The repository is structed as follows:
 The purpose of this repository is to allow reconstruction of the analyses that we ran for the papers.
 If you are however intersted in running analyses on your own data,
 that is, use our methods, have a look at [gappa](https://github.com/lczech/gappa).
+
+**IMPORTANT REMARK:** During the submission of the paper on Automatic Reference Phylogenies,
+we decided to rename the method from ART to PhAT.
+While this renaming is now consistently applied to both the paper and the gappa implementation,
+in this repository, we did not rename it. Thus, be aware that all references to ART
+are meant to refert to PhAT instead.

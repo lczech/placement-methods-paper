@@ -34,3 +34,5 @@ in the papers.
    when using binning of the placements per branch.
  * `15_emd_speed_comp`: Comparison of pplacer vs genesis for calculating 
    KR distnaces (EMD distances), single and multi threaded.
+ * `16_cami`: Evaluation of the ART trees in terms of their capability for conducting
+   taxonomic profiling, using the data and evaluation metrics of the CAMI challenge.

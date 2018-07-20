@@ -1,0 +1,9 @@
+vsearch v2.6.2_linux_x86_64, 754.4GB RAM, 80 cores
+https://github.com/torognes/vsearch
+
+Reading file tmp_fasta 100%
+23328103962 nt in 182556655 seqs, min 32, max 263, avg 128
+Dereplicating 100%
+Sorting 100%
+104947033 unique sequences, avg cluster 16.2, median 1, max 52036072
+Writing output file 100%
