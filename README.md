@@ -32,4 +32,4 @@ that is, use our methods, have a look at [gappa](https://github.com/lczech/gappa
 we decided to rename the method from ART to PhAT.
 While this renaming is now consistently applied to both the paper and the gappa implementation,
 in this repository, we did not rename it. Thus, be aware that all references to ART
-are meant to refert to PhAT instead.
+are meant to refer to PhAT instead.
