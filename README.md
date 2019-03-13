@@ -5,13 +5,14 @@ Accompanying code repository with scripts, programs and data for our papers:
 
 > Methods for Inference of Automatic Reference Phylogenies and Multilevel Phylogenetic Placement.<br />
 > Lucas Czech and Alexandros Stamatakis.<br />
-> bioRxiv, 2018. https://www.biorxiv.org/content/early/2018/04/11/299792
+> Bioinformatics, 2018. https://doi.org/10.1093/bioinformatics/bty767<br />
+> bioRxiv, 2018. https://doi.org/10.1101/299792
 
 and
 
-> Scalable Methods for Post-Processing, Visualizing, and Analyzing Phylogenetic Placements.<br />
+> Scalable Methods for Analyzing and Visualizing Phylogenetic Placement of Metagenomic Samples.<br />
 > Lucas Czech and Alexandros Stamatakis.<br />
-> bioRxiv, 2018. https://www.biorxiv.org/content/early/2018/06/14/346353
+> bioRxiv, 2019. https://doi.org/10.1101/346353
 
 The repository is structed as follows:
 
@@ -33,3 +34,4 @@ we decided to rename the method from ART to PhAT.
 While this renaming is now consistently applied to both the paper and the gappa implementation,
 in this repository, we did not rename it. Thus, be aware that all references to ART
 are meant to refer to PhAT instead.
+
