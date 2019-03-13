@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASEDIR=/data/czechls/tara_amp
+BASEDIR=path/to/data/tara
 cd ${BASEDIR}
 
 # Define binaries

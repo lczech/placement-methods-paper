@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASEDIR=/data/czechls/tara_amp
+BASEDIR=path/to/data/tara
 VSEARCH=${BASEDIR}/software/vsearch-2.6.2-linux-x86_64/bin/vsearch
 PEAR=${BASEDIR}/software/pear-0.9.11-linux-x86_64/bin/pear
 
