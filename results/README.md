@@ -36,3 +36,5 @@ in the papers.
    KR distnaces (EMD distances), single and multi threaded.
  * `16_cami`: Evaluation of the ART trees in terms of their capability for conducting
    taxonomic profiling, using the data and evaluation metrics of the CAMI challenge.
+ * `17_balances`: Evaluation and tests of our PhILR (balances) transformation
+   and Phylofactorization adaptation to phylogenetic placements.

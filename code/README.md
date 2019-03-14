@@ -11,8 +11,10 @@ However, it is still possible that some passages have to be adjusted
 for other environments in order to work properly.
 
 All programs here are in C++ and intended to be used with our library
-[genesis v0.19.0](https://github.com/lczech/genesis/releases/tag/v0.19.0).
-The easiest way to set the programs is to use 
+[genesis v0.19.0](https://github.com/lczech/genesis/releases/tag/v0.19.0),
+except for the programs in `phylofactor`, which were added later and use
+[genesis v0.21.0](https://github.com/lczech/genesis/releases/tag/v0.21.0).
+The easiest way to set the programs is to use
 the [Apps feature](http://doc.genesis-lib.org/setup.html#setup_apps)
 of genesis, where you simply copy the `cpp` files from here into the `apps`
 directory of genesis and compile them.
@@ -25,6 +27,8 @@ directory of genesis and compile them.
    but were used to get the sequence data into usable formats in the first place.
  * `multilevel`: Prototypes for the multilevel placement approach,
    that is, chunkify and unchunkify, extract, etc.
+ * `phylofactor`: Prototypes for the balances and phylo factorization implementations
+   of our adaptation from OTUs to placements.
  * `tests`: Some old code and scripts that we used during the development process.
    These are just provided as-is, and probably won't compile without some changes.
    We keep them here just in case we later need to revisit some of the

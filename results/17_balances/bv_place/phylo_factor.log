@@ -1,0 +1,70 @@
+genesis/bin/apps (master)> ./phylo_factor
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2018 by Lucas Czech    
+               http://genesis-lib.org
+               v0.20.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 4
+Random seed:       126271479
+
+2019-02-17 12:07:46 INFO Reading meta data
+2019-02-17 12:07:46 INFO meta_str: 220 x 3
+2019-02-17 12:07:46 INFO 0: "amsel" (binary, true: 97, false: 123)
+                         1: "nugent" (numerical, min: 0, max: 10)
+                         2: "pH" (numerical, min: 0, max: 6.1)
+2019-02-17 12:07:46 INFO meta: 220 x 3
+2019-02-17 12:07:46 INFO Reading jplace files
+2019-02-17 12:08:12 INFO samples: 220
+2019-02-17 12:08:12 INFO Converting to Mass Trees
+2019-02-17 12:08:20 INFO Get meta vector
+2019-02-17 12:08:20 INFO Computing Balance data
+2019-02-17 12:08:29 DBG  write_edge_masses_taxon_weights
+2019-02-17 12:08:30 DBG  write_heat_map_stuff
+2019-02-17 12:08:30 DBG  write_edge_mass_matrix
+2019-02-17 12:08:30 DBG  path/to/Projects/tmp/philr_bv/factors/edge_masses_sorted min: -10.2443 max: 6.92502
+2019-02-17 12:08:30 DBG  write_edge_mass_matrix
+2019-02-17 12:08:31 DBG  path/to/Projects/tmp/philr_bv/factors/edge_masses_sorted_raw min: -0.575313 max: 8.04828
+2019-02-17 12:08:31 DBG  write_heat_tree
+2019-02-17 12:08:41 INFO Running Phylo Factorization
+2019-02-17 12:08:41 DBG1     iteration 1 of 10
+2019-02-17 12:09:24 DBG1     iteration 2 of 10
+2019-02-17 12:09:54 DBG1     iteration 3 of 10
+2019-02-17 12:10:18 DBG1     iteration 4 of 10
+2019-02-17 12:10:39 DBG1     iteration 5 of 10
+2019-02-17 12:10:55 DBG1     iteration 6 of 10
+2019-02-17 12:11:11 DBG1     iteration 7 of 10
+2019-02-17 12:11:26 DBG1     iteration 8 of 10
+2019-02-17 12:11:40 DBG1     iteration 9 of 10
+2019-02-17 12:11:55 DBG1     iteration 10 of 10
+2019-02-17 12:12:09 INFO edge 100 ( 1258 | 332 ), ov 13475.9
+2019-02-17 12:12:09 INFO edge 363 ( 309 | 22 ), ov 2299.56
+2019-02-17 12:12:09 INFO edge 1312 ( 1239 | 18 ), ov 631.233
+2019-02-17 12:12:10 INFO edge 1061 ( 1014 | 224 ), ov 501.728
+2019-02-17 12:12:10 INFO edge 21 ( 1005 | 8 ), ov 150.622
+2019-02-17 12:12:10 INFO edge 1514 ( 994 | 10 ), ov 111.352
+2019-02-17 12:12:10 INFO edge 1322 ( 9 | 8 ), ov 69.0809
+2019-02-17 12:12:10 INFO edge 782 ( 963 | 30 ), ov 67.6157
+2019-02-17 12:12:10 INFO edge 1081 ( 213 | 10 ), ov 66.9864
+2019-02-17 12:12:11 INFO edge 1092 ( 194 | 18 ), ov 38.1699
+2019-02-17 12:12:11 INFO Finished
+
