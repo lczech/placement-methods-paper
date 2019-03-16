@@ -4,7 +4,7 @@ placement-methods-paper
 Accompanying code repository with scripts, programs and data for our papers:
 
 > Methods for Inference of Automatic Reference Phylogenies and Multilevel Phylogenetic Placement.<br />
-> Lucas Czech and Alexandros Stamatakis.<br />
+> Lucas Czech, Pierre Barbera, and Alexandros Stamatakis.<br />
 > Bioinformatics, 2018. https://doi.org/10.1093/bioinformatics/bty767<br />
 > <!-- bioRxiv, 2018. https://doi.org/10.1101/299792 -->
 
