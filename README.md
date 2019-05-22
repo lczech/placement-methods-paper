@@ -41,10 +41,12 @@ are meant to refer to PhAT instead.
 Quick Links
 -------------------------
 
-The file [`tree/master/results/msas_and_trees.zip`](tree/master/results/msas_and_trees.zip)
+https://github.com/lczech/placement-methods-paper/blob/master/results/msas_and_trees.zip
+
+The file [`results/msas_and_trees.zip`](results/msas_and_trees.zip)
 is a shortcut for users who are simply interested in the alignments and trees produced 
 by our PhAT/ART method for their own analyses.
 The file contains MSAs, taxonomies, contrained and unconstrained trees
 for all four domains that we used in the paper (General, Archaea, Bacteria, Eukaryota).
-The files are identical to the ones found in [`results/01_backbone`](tree/master/results/01_backbone),
+The files are identical to the ones found in [`results/01_backbone`](results/01_backbone),
 but renamed for simplicity.
