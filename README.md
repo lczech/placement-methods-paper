@@ -41,8 +41,6 @@ are meant to refer to PhAT instead.
 Quick Links
 -------------------------
 
-https://github.com/lczech/placement-methods-paper/blob/master/results/msas_and_trees.zip
-
 The file [`results/msas_and_trees.zip`](results/msas_and_trees.zip)
 is a shortcut for users who are simply interested in the alignments and trees produced 
 by our PhAT/ART method for their own analyses.
