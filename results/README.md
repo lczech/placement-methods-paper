@@ -38,3 +38,9 @@ in the papers.
    taxonomic profiling, using the data and evaluation metrics of the CAMI challenge.
  * `17_balances`: Evaluation and tests of our PhILR (balances) transformation
    and Phylofactorization adaptation to phylogenetic placements.
+   
+Lastly, `msas_and_trees.zip` is a shortcut for users who are simply interested in
+the alignments and trees produced by our PhAT/ART method for their own analyses.
+The file contains MSAs, taxonomies, contrained and unconstrained trees
+for all four domains that we used in the paper (General, Archaea, Bacteria, Eukaryota).
+The files are identical to the ones found in `01_backbone`, but renamed for simplicity.

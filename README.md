@@ -14,6 +14,9 @@ and
 > Lucas Czech and Alexandros Stamatakis.<br />
 > bioRxiv, 2019. https://doi.org/10.1101/346353
 
+Structure
+-------------------------
+
 The repository is structed as follows:
 
  * `code`: C++ code to be used with our [genesis](https://github.com/lczech/genesis) library. 
@@ -35,3 +38,13 @@ While this renaming is now consistently applied to both the paper and the gappa 
 in this repository, we did not rename it. Thus, be aware that all references to ART
 are meant to refer to PhAT instead.
 
+Quick Links
+-------------------------
+
+The file [`tree/master/results/msas_and_trees.zip`](tree/master/results/msas_and_trees.zip)
+is a shortcut for users who are simply interested in the alignments and trees produced 
+by our PhAT/ART method for their own analyses.
+The file contains MSAs, taxonomies, contrained and unconstrained trees
+for all four domains that we used in the paper (General, Archaea, Bacteria, Eukaryota).
+The files are identical to the ones found in [`results/01_backbone`](tree/master/results/01_backbone),
+but renamed for simplicity.
