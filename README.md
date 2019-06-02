@@ -12,7 +12,8 @@ and
 
 > Scalable Methods for Analyzing and Visualizing Phylogenetic Placement of Metagenomic Samples.<br />
 > Lucas Czech and Alexandros Stamatakis.<br />
-> bioRxiv, 2019. https://doi.org/10.1101/346353
+> PLOS One, 2019. https://doi.org/10.1371/journal.pone.0217050<br />
+> <!-- bioRxiv, 2019. https://doi.org/10.1101/346353 -->
 
 Structure
 -------------------------
