@@ -26,7 +26,7 @@ The repository is structed as follows:
  * `data`: Contains information and some processed files about the empirical 
    datasets that were used as a basis for the analyses and evaluations.
  * `results`: A large collection of scripts, data, results and figures that were used in the papers.
-   The directory contains all analyses that we used for the papers.
+   The directory contains all analyses that we conducted for the papers.
  * `software`: Information about the extrnal software that was used.
 
 The purpose of this repository is to allow reconstruction of the analyses that we ran for the papers.
